@@ -3,8 +3,23 @@
 ## Ágil
 
 ## Dev-Web
-
+---
 ## Docker
+### Descrição
+
+Treinamento dos conceitos básicos sobre como rodar uma aplicação através de contêineres pelo docker
+
+### Responsável
+@aquiles23
+
+### Participação sincrona
+@Hellen159, @PhilipeSousa, @PedroHhenriq, @FranciscoHeronildo
+
+### Material
+#### Repositório: 
+https://github.com/aquiles23/treinamento_mds
+#### Gravação:
+ <iframe src="https://drive.google.com/file/d/1uW6LbZxVvFZR8m4lChFCQIf_EAOonLO7/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ---
 
@@ -118,7 +133,25 @@ Para inserir todos os arquivos modificados
 ---
 
 ## NodeJs
+### Descrição
+Treinamento sobre os principais conceitos sobre API REST usando nodeJS + express.
 
+### Responsavel:
+@aquiles23
+
+### Participação sincrona:
+@GabrielGaba, @PedroHhenriq .
+
+### Material
+#### Repositório: 
+https://github.com/aquiles23/treinamento_mds
+#### Gravação: 
+<iframe src="https://drive.google.com/file/d/1ZR1dZcS4Vw6lhcdbrZ1Ha923My2mjdZG/preview" width="640" height="480" allow="autoplay"></iframe>
+
+#### Slides: 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSyW7VhQhmnrhJ2KRlMJ3ctulzv9rmT-G8haa1oLjGrh8OSPg5Ji3c45Hj44gB7JHocm9mscSTvA_97/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+---
 ## ReactJs
 
 **Histórico de Versão**
@@ -126,3 +159,4 @@ Para inserir todos os arquivos modificados
 | Data       | Versão | Descrição                        | Autor(es) |
 | ---------- | ------ | -------------------------------- | --------- |
 | 19/07/2022 | 0.1    | Adicionando o treinamento de Git | Francisco |
+| 22/07/2022 | 0.2    | Adicionando o treinamento de docker e nodeJS | Aquiles |
