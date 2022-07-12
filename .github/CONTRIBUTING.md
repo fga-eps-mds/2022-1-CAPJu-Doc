@@ -1,23 +1,25 @@
 
+# Contribuindo com o CAPJu
+
 # Como eu posso contribuir para o CAPJu?
 
-# Política de _Issues_
+## Reportando _bugs_
 
-* Este projeto possui um padrão para criação de [_Issue_](https://github.com/fga-eps-mds/2022-1-CAPJu-Doc/blob/main/.github/ISSUE_TEMPLATE/issue-template.md). Logo, se você encontrar um bug, cheque se já se encontra cadastrado nas nossas [issues](https://github.com/fga-eps-mds/2022-1-CAPJu-Doc/issues), caso a resposta seja não, apenas abra uma [nova issues](https://github.com/fga-eps-mds/2022-1-CAPJu-Doc/issues/new/) utilizando como tag a label adequadas.
+* Este projeto possui um padrão para criação de [_Issue_](https://github.com/fga-eps-mds/2022-1-CAPJu-Doc/blob/main/.github/ISSUE_TEMPLATE/issue-template.md). Logo, se você encontrar um bug, cheque se já se encontra cadastrado nas nossas [issues](https://github.com/fga-eps-mds/2022-1-CAPJu-Doc/issues), caso a resposta seja não, apenas abra uma [nova issues](https://github.com/fga-eps-mds/2022-1-CAPJu-Doc/issues/new/) utilizando como tag a label que adequa-se.
 
 ## Sugerindo mudanças em funcionalidades existentes
 
-* Primeiramente, verifique se não existe nenhuma issue já cadastrada que solicite essa modificação nas  [_Issues_](https://github.com/fga-eps-mds/2022-1-CAPJu-Doc/issues). 
+1. Primeiramente, verifique se não existe nenhuma issue já cadastrada que solicite essa modificação nas  [_Issues_](https://github.com/fga-eps-mds/2022-1-CAPJu-Doc/issues). 
 
-* Se não existir, será preciso criar uma nova, com uma boa descrição da sugestão de mudança em [_Nova_Issue_](https://github.com/fga-eps-mds/2022-1-CAPJu-Doc/issues/new/) e um título de fácil entendimento.
+2. Se não existir, será preciso criar uma nova, com uma boa descrição da sugestão de mudança em [_Nova_Issue_](https://github.com/fga-eps-mds/2022-1-CAPJu-Doc/issues/new/) e um título de fácil entendimento.
 
-* As suas mudanças devem ser submetidas por meio de [_Pull Requests_](https://github.com/fga-eps-mds/2022-1-CAPJu-Doc/pulls), que conta com um [_Template_](https://github.com/fga-eps-mds/2022-1-CAPJu-Doc/blob/main/.github/pull_request_template.md).
+3. As suas mudanças devem ser submetidas por meio de [_Pull Requests_](https://github.com/fga-eps-mds/2022-1-CAPJu-Doc/pulls), que conta com um [_Template_](https://github.com/fga-eps-mds/2022-1-CAPJu-Doc/blob/main/.github/pull_request_template.md).
 
 # Política de _Commits_
 
 ### Mensagem do _Commit_
 
-A descrição dos _commits_ podem estar tanto em **inglês** quanto em **português** e devem ser sucintas e objetivas, representando claramente o que está sendo alterado naquele _commit_. A mensagem deve estar acompanhada do número da _issue_ relacionada, como no exemplo abaixo:
+A descrição dos _commits_ devem está em **português** e devem ser sucintas e objetivas, representando claramente o que está sendo alterado naquele _commit_. A mensagem deve estar acompanhada do número da _issue_ relacionada, como no exemplo abaixo:
 
 > `git commit -m'#X my message'`
 
