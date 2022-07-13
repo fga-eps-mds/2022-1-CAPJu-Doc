@@ -45,7 +45,7 @@ __gh-pages__: Designada para conter todos os documentos do projeto, disponíveis
 
 * __`docs/nome_documento`__ - Branch onde será consolidada a documentação do projeto, sendo usada exclusivamente para isso.
 
-* __`dev`__ - Branch destinada à integração das novas funcionalidades desenvolvidas, onde estarão as features em estágio avançado e/ou completas. Esta será a branch base para o desenvolvimento inicial de features e de correção de bugs. 
+* __`devel`__ - Branch destinada à integração das novas funcionalidades desenvolvidas, onde estarão as features em estágio avançado e/ou completas. Esta será a branch base para o desenvolvimento inicial de features e de correção de bugs. 
 
 * __`hotfix/<nome_bug>`__ - Branch dedicada para correção de bugs presentes na aplicação. É preciso especificar o número da _issue_ cadastrada no repositório.
 Exemplo: `hotfix/1-<nome_bug>` (_issue_ #1)
