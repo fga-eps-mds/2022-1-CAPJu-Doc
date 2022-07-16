@@ -7,8 +7,6 @@ assignees: ''
 
 ---
 
-US[NUM] - História de usuário.
-
 ## Descrição
 
 Descrição básica do objetivo da issue.
