@@ -3,16 +3,17 @@
 
 **Data** | **Versão** | **Descrição** | **Autor(es/as)**|
 |--- | --- | --- | ---| 
-|15/07/2022 | 0.1 | Versão Inicial | Gabriel Araujo Souza|
+|15/07/2022 | 0.1 | Versão inicial | Gabriel Araújo Souza|
+|15/07/2022 | 1.1 | Revisão do documento | Maicon Mares|
 
 
 ## Introdução
-Este documento Foi criado para validar a existência do projeto. Nele contém diversas informações sobre o projeto CAPJu, incluindo dados de custo, descrição do produto, justificativa do projeto, cronograma, entre outras características.  
+Este documento foi criado para validar a existência do projeto. Nele contém diversas informações sobre o projeto CAPJu, incluindo dados de custo, descrição do produto, justificativa do projeto, cronograma, entre outras características.  
 
-## 1. Justificativa do Projeto
-A ferramenta atual planilha, usada pelos trabalhadores da Justiça Federal-DF, é manual e de difícil uso para outros no ambiente de trabalho, isso fez com que algumas pessoas não a usem porque não conseguem entender como os fluxos de processos estavam catalogados. Assim só as pessoas com maior cargo ou o responsável por criar a planilha possa manusear a ferramenta. o projeto CAPJu vem para substituir essa planilha, trazendo dinânismo no cadastro para catalogar processos e seus status no fluxo de processos.
+## 1. Justificativa do projeto
+A ferramenta atual planilha, usada pelos funcionários da Quarta Vara Cível da Justiça Federal-DF, é manual e de difícil uso para os mesmos no ambiente de trabalho, o que acarreta na improdutividade em suas atividades diárias. O projeto CAPJu tem como objetivo a substituição dessa planilha, trazendo dinamismo no gerenciamento de processos.
 
-## 2. Nome dos Integrantes do Grupo e suas Funções
+## 2. Nome dos integrantes do grupo e suas funções
 
 |       |       |
 | --- | --- |
@@ -25,89 +26,63 @@ _Designer_ | Atua nas responsabilidades, operações, atributos e relacionamento
 
 | Função       | Nome      | 
 |-----------|------------- |
-| EPS | Francisco Heronildo Sousa Santos         |
-| ESP | Arthur Paiva Tavares                     |
-| EPS | Maicon Mares                             |
-| EPS | Nathalia Lorena                          |
-| EPS | José Aquiles Guedes de Rezende           |
-| MDS | Lucas Lopes Rocha                        | 
-| MDS | Gabriel Araújo Souza                     |
-| MDS | Philipe de Sousa Barros                  |
-| MDS | Pedro Henrique Ferreira                  |
-| MDS | Pablo Christianno Silva Guedes           |
-| MDS | Hellen Fernanda M. de Faria              |
-| MDS | Luciano Alves do Brasil Schindel Machado |
-| MDS | Lucas Caldas Barbosa de Souza            |
+| INDEFINIDO | Francisco Heronildo Sousa Santos         |
+| INDEFINIDO | Arthur Paiva Tavares                     |
+| INDEFINIDO | Maicon Mares                             |
+| INDEFINIDO | Nathalia Lorena                          |
+| INDEFINIDO | José Aquiles Guedes de Rezende           |
+| INDEFINIDO | Lucas Lopes Rocha                        | 
+| INDEFINIDO | Gabriel Araújo Souza                     |
+| INDEFINIDO | Philipe de Sousa Barros                  |
+| INDEFINIDO | Pedro Henrique Ferreira                  |
+| INDEFINIDO | Pablo Christianno Silva Guedes           |
+| INDEFINIDO | Hellen Fernanda M. de Faria              |
+| INDEFINIDO | Luciano Alves do Brasil Schindel Machado |
+| INDEFINIDO | Lucas Caldas Barbosa de Souza            |
 
-## 3. Necessidades Básicas do Trabalho a ser Realizado
-Para Este projeto, é esperado que o produto faça cadastros de processos e registre seus status para organizar o fluxo de processos, gerando estatísticas, com busca e filtro. Tenha controle de permissão de acesso a esse fluxo de processos, podendo registrar novos usuários para gerenciar os status e fluxo de processos.
+## 3. Necessidades básicas do trabalho a ser realizado
+- Desenvolvimento do software
+- Documentação do projeto e do software
+- Controle de qualidade do software
+- Planejamento, gerenciamento e controle do projeto
+- Implantação do software
+- Testes do software
+- Gerenciamento do ambiente de desenvolvimento
 
-## 4. descrição do produto
-Esse projeto visa ajudar os trabalhadores da quarta vara da justiça do distrito federal a organizar os processos de acordo com o andamento do mesmo, deixando o fluxo do trabalho mais dinâmico.
+## 4. Principais partes interessadas
+- Professor Hilmer Neri da Universidade de Brasília
+- Diretor da Quarta Vara Cível Wellington
+- Equipe de EPS
+- Equipe de MDS
+- Engenheiros de Software
 
-## 5. Cronograma básico do projeto
-O projeto será desenvolvido durante a Disciplina de Métodos de Desenvolvimento de software, ministrada pelo professor Hilmer Rodrigues Neri. A primeira entrega do produto será na release 1 que acontecerá do dia 25 de julho até 29 de julho. A última release acontecerá entre os dias 25 à 29 de setembro de 2022. Outras N releases podem ser inclusas entre a release 1 e a última release. 
+## 5. Descrição do produto do projeto
+Para Este projeto, é esperado que o produto faça cadastros de processos e registre seus status para organizar o fluxo de processos, além da geração de estatísticas sobre processos e filtros de busca. Também é necessário o controle de acesso baseado em cargos para gerenciamento dos fluxos de processos.
 
-## 6. Estimativas Iniciais de Custo
+## 6. Descrição do projeto
+Esse projeto visa ajudar os trabalhadores da Quarta Vara Cível da Justiça Federal-DF a organizar os processos de acordo com o andamento do mesmo, deixando o fluxo do trabalho mais dinâmico.
 
-|   Custo por estudante        |||
-|-----------|-----------|------|
-|Alimentação | R$ 500,00 | mes |
-|Energia | R$ 3,43 | mes |
-|Internet | R$ 120,00 | mes |	
+## 7. Cronograma básico do projeto
+O projeto será desenvolvido durante a Disciplina de Métodos de Desenvolvimento de software, ministrada pelo professor Hilmer Rodrigues Neri. A primeira entrega do produto será na release 1 que acontecerá do dia 25 de julho até 29 de julho. A última release acontecerá entre os dias 25 à 29 de setembro de 2022. Outras releases podem ser inclusas entre a release 1 e a última release. 
 
-|Despesas Equipe|||
-|------------|----------|---|
-|Alimentação|R$ 6.500,00|mes|
-|Energia|R$ 44,62|mes|
-|Internet|R$ 1.560,00|mes|
+## 8. Estimativas iniciais de custo
+As estimativas foram calculadas com base nos custos das equipes de desenvolvimento e gerência, e podem ser consultadas em Planejamento de Custos. 
 
-|Investimento||
-|-----------------|----------|		
-Computador pessoal|R$ 39.000,00|
+## 9. Necessidades iniciais de recursos
+- Celular (meio de comunicação)
+- Computador (meio de trabalho)
+- Energia
+- Tempo
+- Conexão com internet
+- Comida
 
-|Catergoria de custos|custo por semana|
-|-------------------|----------|	
-Custeio||
-Energia		                        |R$ 0,85
-Alimentação		                    |R$ 125,00
-Internet		                    |R$ 30,00
-Valor total com custeio	            |R$ 155,85
-Valor total durante as 16 semanas	|R$ R$ 2.493,60
+## 10. Riscos de alto nível
+- Membro da equipe abandonar a disciplina
+- Fechamento da Universidade devido ao aumento de casos de Covid
+- Planejamento e entendimento do escopo inicial errados
+- Escolha de tecnologias que não favoreçam o desenvolvimento do projeto
+- Má gerência da comunicação da equipe 
 
-O projeto está previsto para ter 16 semanas, então o custo total com o valor do investimento "computador pessoal" é de:
-
-|||
-|-----------------|----------|		
-Computador pessoal|R$ 39.000,00|
-Valor Total das 16 Semanas|R$ 2.493,60|
-Valor total com investimento|R$ 41.493,60|
-
-| Horas Semanais    | Nome      | Custo semanal sem invetimento investimento "computador pessoal"
-|-----------|------------- |------------------|
-| 12 | Francisco Heronildo Sousa Santos         |R$ 1.872,00|
-| 12 | Arthur Paiva Tavares                     |R$ 1.872,00|
-| 12 | Maicon Mares                             |R$ 1.872,00|
-| 12 | Nathalia Lorena                          |R$ 1.872,00|
-| 12 | José Aquiles Guedes de Rezende           |R$ 1.872,00|
-| 12 | Lucas Lopes Rocha                        |R$ 1.872,00|
-| 12 | Gabriel Araújo Souza                     |R$ 1.872,00|
-| 12 | Philipe de Sousa Barros                  |R$ 1.872,00|
-| 12 | Pedro Henrique Ferreira                  |R$ 1.872,00|
-| 12 | Pablo Christianno Silva Guedes           |R$ 1.872,00|
-| 12 | Hellen Fernanda M. de Faria              |R$ 1.872,00|
-| 12 | Luciano Alves do Brasil Schindel Machado |R$ 1.872,00|
-| 12 | Lucas Caldas Barbosa de Souza            |R$ 1.872,00|
-
-|||
-|-----------------|----------|		
-Valor Total com investiemento do computador pessoal|R$ 71,445,60|
-
-## 7. Necessidades Iniciais de Recursos
-
-
-## 8. Necessidade de Suporte Pela Organização
-
-
-## 9. Premissas e Restrições
+## 11. Controle e gerenciamento das informações do projeto 
+Para controle e gerenciamento das informações relevantes do projeto foram dedicados o [repositório de documentação](https://github.com/fga-eps-mds/2022-1-CAPJu-Doc) e [wiki do projeto](https://fga-eps-mds.github.io/2022-1-CAPJu-Doc/#/). 
 
