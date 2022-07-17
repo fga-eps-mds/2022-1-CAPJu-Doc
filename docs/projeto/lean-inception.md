@@ -16,11 +16,11 @@ Essa é a primeira etapa para se entender o produto e como ele agrega valor ao n
 
 ## 4. O produto É - NÃO É - FAZ - NÂO FAZ
 
-O principal obejtivo dessa etapa, além de contribuir para o entedimento do produto é identificar os aspectos positivos e negativos do produto. Para essa atividade os contribuintes separaram em quadro quadrantes oque entediam que o produto era, não era, fazia e não fazia. Assim, por meio desses quadrantes o grupo tem maior entendimento da categoria do produto e oque de fato espera-se que ele seja capaz de fazer.
+O principal obejtivo dessa etapa, além de contribuir para o entedimento do produto é identificar os aspectos positivos e negativos do produto. Para essa atividade os contribuintes separaram em quatro quadrantes oque entediam que o produto era, não era, fazia e não fazia. Assim, por meio desses quadrantes o grupo tem maior entendimento da categoria do produto e oque de fato espera-se que ele seja capaz de fazer.
 
 ![É não é, Faz não faz](../assets/LeanInception/enefnf.png)
 
-## 5. Objetivos do produto
+## 5. Objetivos do Produto
 
 A ideia dessa atividade é tentar resumir o produto em três objetivos julgados realmente importantes, de forma a auxiliar no levantamento e esclarimento desse escopo. Para isso, cada integrante teve de compartilhar sua visão de objetivos do negócio. Ao final, chegou-se a um consenso.
 
@@ -37,7 +37,9 @@ A execução dessa etapa consistiu na divisão do time em três grupos a fim de 
 |                             Juninho                             |                            Wagner                             |
 | ![persona_juninho](../assets/LeanInception/persona_juninho.png) | ![persona_wagner](../assets/LeanInception/persona_wagner.png) |
 
-## 7. Jornadas de Usuário
+## 7. Jornada do Usuário
+
+Juntamente com o exercício de personas, esta atividade procura traçar, de forma sequencial, a jornada dos usuários criados até alcançar um objetivo. O intuito é alegar os diferentes pontos de contato e a interação dos envolvidos com o produto.
 
 |                                                                 |                                                               |
 | :-------------------------------------------------------------: | :-----------------------------------------------------------: |
@@ -46,15 +48,21 @@ A execução dessa etapa consistiu na divisão do time em três grupos a fim de 
 |                             Juninho                             |                            Wagner                             |
 | ![jornada_juninho](../assets/LeanInception/jornada_juninho.png) | ![jornada_wagner](../assets/LeanInception/jornada_wagner.png) |
 
-## 8. Brainstorming
+## 8. Brainstorming de Funcionalidades
+
+Nesta fase chega-se às funcionalidades. Ela determinada as ações e interações funcionais que o usuário terá com o produto de acordo com suas necessidades e objetivos de negócio que agregarão valor. A atividade foi realizada em conjunto, descrevendo-se de forma simples e concisa as possíveis aplicações e, ao final, chegando-se a um consenso.
 
 ![brainstorming](../assets/LeanInception/brainstorming.png)
 
 ## 9. Revisão Técnica, de Negócio e de UX
 
+Nesta revisão, foi esboçado o conhecimento técnico do time para cada funcionalidade de acordo com o que fazer e como fazer, sendo vermelho para baixo, amarelo para médio e verde para alto entendimento. Além disso, foi descrito, em uma escala de 1 a 3, como o time julgava cada aplicação em níveis de esforço (E), negócio ($) e UX (<3). Essa fase ajuda na compreensão da complexidade e importância das funcionalidades, consequentemente, da priorização, estimação e planejamento.
+
 ![revisao](../assets/LeanInception/revisao.png)
 
 ## 10. Sequenciador
+
+
 
 ![sequenciador](../assets/LeanInception/sequenciador.png)
 
