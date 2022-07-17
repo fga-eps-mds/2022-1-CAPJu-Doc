@@ -68,6 +68,6 @@ O Sequenciador serve para deixar as funcionalidades de forma sequencial ao desen
 
 ## 11. Canvas MVP
 
-Esta é a etapa final da Lean Inception. Trata-se do resumo das discuções e definições das fases anteriores a fim de apresentar um MVP que possa ser validado e utilizado pelo usuário. Este processo ajuda a definir estratégias de desenvolvimento.
+Esta é a etapa final da Lean Inception. Trata-se de um quadro que resume as discuções e definições das fases anteriores a fim de apresentar um MVP que possa ser validado e utilizado pelo usuário. Este processo ajuda a definir estratégias de desenvolvimento e traz como critérios a proposta do MVP, personas segmentadas, jornadas, funcionalidades, resultado esperado, métricas para validar as hipóteses do negócio e custo e cronograma.
 
 ![canvasmvp](../assets/LeanInception/canvasmvp.png)
