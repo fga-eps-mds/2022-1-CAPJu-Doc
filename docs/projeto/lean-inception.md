@@ -62,10 +62,12 @@ Nesta revisão, foi esboçado o conhecimento técnico do time para cada funciona
 
 ## 10. Sequenciador
 
-
+O Sequenciador serve para deixar as funcionalidades de forma sequencial ao desenvolvimento, informando quais aplicações serão implementadas no MVP (Mínimo Produto Viável) e o que será incremento. A etapa auxilia na visualização e organização da validação das ideias. É importante ressaltar que a atividade é discorrida a partir de regras estabelecidas pela Lean Inception.
 
 ![sequenciador](../assets/LeanInception/sequenciador.png)
 
 ## 11. Canvas MVP
+
+Esta é a etapa final da Lean Inception. Trata-se do resumo das discuções e definições das fases anteriores a fim de apresentar um MVP que possa ser validado e utilizado pelo usuário. Este processo ajuda a definir estratégias de desenvolvimento.
 
 ![canvasmvp](../assets/LeanInception/canvasmvp.png)
