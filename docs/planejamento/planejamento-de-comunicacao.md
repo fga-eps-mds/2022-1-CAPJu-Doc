@@ -17,7 +17,7 @@
 
 Posteriormente ao contato inicial entre os envolvidos do projeto, foi estabelecidos os seguintes dias da semana para realização dos encontros:
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRYiiiXPkLrwOKSVktfTpl_sa7QgY_pH0F15D5nPAfTpHghgIPZpipEDTho5Yx4itKEn9q6ay-OvcrS/pubhtml?gid=96807035&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRYiiiXPkLrwOKSVktfTpl_sa7QgY_pH0F15D5nPAfTpHghgIPZpipEDTho5Yx4itKEn9q6ay-OvcrS/pubhtml?gid=96807035&amp;single=true&amp;widget=true&amp;headers=false" width = "100%" height = "300 "></iframe>
 
 
 - Sprint reviews e plannings: Todas as terças-feiras das 22h às 00h.
