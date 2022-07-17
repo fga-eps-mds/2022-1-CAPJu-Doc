@@ -2,15 +2,15 @@
 
 ## 1. O que é Lean Inception
 
-É um método utilizado por metodologias ágeis para compreender e direcionar o projeto em seu estágio inicial. Ele auxilia no entedimento das principais funcinalidades que os clientes estimam para o produto, e ao seu final é criado o canvas MVP(produto mínimo viável).
+É um método utilizado por metodologias ágeis para compreender e direcionar o projeto em seu estágio inicial. Ele auxilia no entedimento das principais funcinalidades que os clientes estimam para o produto, e ao seu final é criado o canvas MVP (Produto Mínimo Viável).
 
 ## 2. Kick-off
 
-O kick-off é a primeira atividade do lean inception, será idetificado quem participará de cada etapa do lean inception e quem irá participar apenas do kick-off e do showcase, é feito então a abertura das atividades por meio de um discurso sobre a iniciativa, além de ser apresentado a agenda da lean inception.
+O kick-off é a primeira atividade do Lean Inception, será idetificado quem participará de cada etapa do lean inception e quem irá participar apenas do kick-off e do showcase, é feito então a abertura das atividades por meio de um discurso sobre a iniciativa, além de ser apresentado a agenda da lean inception.
 
 ## 3. Visão do Produto
 
-Essa é a primeira etapa para se entender o produto e como ele agrega valor ao negócio dos clientes. Nela são identificado importantes questões relacionadas ao produto, como exemplo, o prolema a ser solucionado, a categoria do produto, os usuários do produto, seu diferencial, entre outros. No nosso projeto foi realizado uma visão de produto para cada persona.
+Essa é a primeira etapa para se entender o produto e como ele agrega valor ao negócio dos clientes. Nela são identificados importantes questões relacionadas ao produto, como exemplo, o prolema a ser solucionado, a categoria do produto, os usuários do produto, seu diferencial, entre outros. No nosso projeto foi realizado uma visão de produto para cada persona.
 
 ![Visão do Produto](../assets/LeanInception/visao_produto.png)
 
@@ -20,11 +20,15 @@ O principal obejtivo dessa etapa, além de contribuir para o entedimento do prod
 
 ![É não é, Faz não faz](../assets/LeanInception/enefnf.png)
 
-## Objetivos do produto
+## 5. Objetivos do produto
+
+A ideia dessa atividade é tentar resumir o produto em três objetivos julgados realmente importantes, de forma a auxiliar no levantamento e esclarimento desse escopo. Para isso, cada integrante teve de compartilhar sua visão de objetivos do negócio. Ao final, chegou-se a um consenso.
 
 ![Objetivos](../assets/LeanInception/objetivos.png)
 
-## Personas
+## 6. Personas
+
+A execução dessa etapa consistiu na divisão do time em três grupos a fim de expor possíveis usuários do negócio. Esse processo cria personagens que auxiliarão o time a descrever funcionalidades de acordo com quem vai interagir com o produto final, apresentando não só o papel, mas também as características e necessidades do utente.
 
 |                                                                 |                                                               |
 | :-------------------------------------------------------------: | :-----------------------------------------------------------: |
@@ -33,7 +37,7 @@ O principal obejtivo dessa etapa, além de contribuir para o entedimento do prod
 |                             Juninho                             |                            Wagner                             |
 | ![persona_juninho](../assets/LeanInception/persona_juninho.png) | ![persona_wagner](../assets/LeanInception/persona_wagner.png) |
 
-## Jornadas de Usuário
+## 7. Jornadas de Usuário
 
 |                                                                 |                                                               |
 | :-------------------------------------------------------------: | :-----------------------------------------------------------: |
@@ -42,18 +46,18 @@ O principal obejtivo dessa etapa, além de contribuir para o entedimento do prod
 |                             Juninho                             |                            Wagner                             |
 | ![jornada_juninho](../assets/LeanInception/jornada_juninho.png) | ![jornada_wagner](../assets/LeanInception/jornada_wagner.png) |
 
-## Brainstorming
+## 8. Brainstorming
 
 ![brainstorming](../assets/LeanInception/brainstorming.png)
 
-## Revisão Técnica, de Negócio e de UX
+## 9. Revisão Técnica, de Negócio e de UX
 
 ![revisao](../assets/LeanInception/revisao.png)
 
-## Sequenciador
+## 10. Sequenciador
 
 ![sequenciador](../assets/LeanInception/sequenciador.png)
 
-## Canvas MVP
+## 11. Canvas MVP
 
 ![canvasmvp](../assets/LeanInception/canvasmvp.png)
