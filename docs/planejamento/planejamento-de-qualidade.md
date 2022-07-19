@@ -39,6 +39,10 @@ A ISO/IEC/IEEE 12207 define o ciclo de vida do software e inclui atividades e pr
 
 Para que seja possível medir a qualidade organizacional é necessário primeiramente definir os aspectos que serão avaliados dentro desse contexto. A qualidade do código fonte do time será levada em consideração, padrões de processos dentro da equipe, requisitos do projeto, entre outros. A medição da qualidade a nível organizacional permite ao próprio grupo adquirir os dados necessários para saber quais medidas devem ser tomadas para uma maior rentabilidade na qualidade do produto em todos os aspectos desejáveis. Parte da ISO/IEC 14598 propõe como avaliar sob o ponto de vista de quem desenvolve. Para isso, o desenvolvedor define as condições sob as quais as medições serão executadas. Esta norma tem o objetivo de definir, acompanhar e monitorar a qualidade durante o processo de desenvolvimento do software.
 
+### Qualidade a Nível de Projeto
+
+Para avaliar a qualidade a nível de projeto pode-se considerar aspectos como resultados que satisfaçam os padrões do projeto, para isso é fundamental, por exemplo, realizar a Verificação e Validação, pois essas técnicas em conjunto permitirão assegurar que o projeto atende às necessidades e cumpra as especificações. Além disso, o desenvolvimento de um plano de testes também é de suma importância para proporcionar uma redução de possíveis defeitos, dessa forma, resultando em entregas de maior qualidade.
+
 
 
 Histórico de Versão
@@ -50,6 +54,7 @@ Histórico de Versão
 | 18/07/2022 | 0.3 | Adição do tópico de Abordagens e metodologias | Nathalia, Luciano e Pedro|
 | 18/07/2022 | 0.4 | Atualização do tópico de Abordagens e metodologias | Nathalia, Luciano e Pedro|
 | 18/07/2022 | 0.5 | Adição do tópico de Qualidade a Nível Organizacional | Nathalia, Luciano e Pedro|
+| 18/07/2022 | 0.6 | Adição do tópico de Qualidade a Nível de Projeto | Nathalia, Luciano e Pedro|
 
 
 ## Referências
