@@ -27,7 +27,7 @@ Para definição e planejamento das atividades decidimos pela utilização da t�
 - Custo total (planejado): custo que leva em conta o custo da hora estimado por pessoa, o número de integrantes envolvidos e total de horas planejadas.
 - Custo total (real): custo que leva em conta o custo da hora estimado por pessoa, o número de integrantes envolvidos e total de horas realmente gastos.
 
-A seguir se encontra a planilha dinâmica com todas as atividades definidas e estimadas por semana, na qual as atividades são atualizadas a cada semana.
+A seguir se encontra a planilha dinâmica com todas as atividades definidas e estimadas por semana, na qual as atividades são atualizadas a cada semana. A sequência das atividades foi feita com base no Gráfico de Gantt, mas adaptada.
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTnVQ2fXbtENoLlmsAK50Iwza4HCtssgZ7x3kO1L_SOF3OWhexchKkFk5tQVJa0cw/pubhtml?widget=true&amp;headers=false" width="100%" height="480px" style="min-width: 640px; min-height: 480px; background-color: #f4f4f4; border: 1px solid #efefef;"></iframe>
 
