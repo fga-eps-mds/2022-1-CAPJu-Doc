@@ -43,6 +43,15 @@ Para que seja possível medir a qualidade organizacional é necessário primeira
 
 Para avaliar a qualidade a nível de projeto pode-se considerar aspectos como resultados que satisfaçam os padrões do projeto, para isso é fundamental, por exemplo, realizar a Verificação e Validação, pois essas técnicas em conjunto permitirão assegurar que o projeto atende às necessidades e cumpra as especificações. Além disso, o desenvolvimento de um plano de testes também é de suma importância para proporcionar uma redução de possíveis defeitos, dessa forma, resultando em entregas de maior qualidade.
 
+### Qualidade na Visão do Usuário
+
+É importante considerar que o cliente é quem está à frente. Ele tem o direito de participar e opinar durante o processo de construção do software. Neste contexto, a experiência do usuário, além das qualidades técnicas do software, é um fator determinante para a construção de sistemas de maior qualidade. Sua participação pode facilitar a compreensão dos seus desejos quanto ao software que está sendo desenvolvido. Esse aspecto da qualidade do software é chamado usabilidade. Nele o usuário procura respostas para questões como:
+
+* As funcionalidades estão disponíveis e são executadas eficientemente?
+* O software funciona corretamente sem imprevistos?
+* O software é seguro, ou seja, evita que pessoas ou sistemas não autorizados tenham acesso às informações?
+* É fácil de usar ou requer muito treinamento?
+* É fácil de integrar com outros sistemas existentes?
 
 
 Histórico de Versão
@@ -55,6 +64,7 @@ Histórico de Versão
 | 18/07/2022 | 0.4 | Atualização do tópico de Abordagens e metodologias | Nathalia, Luciano e Pedro|
 | 18/07/2022 | 0.5 | Adição do tópico de Qualidade a Nível Organizacional | Nathalia, Luciano e Pedro|
 | 18/07/2022 | 0.6 | Adição do tópico de Qualidade a Nível de Projeto | Nathalia, Luciano e Pedro|
+| 18/07/2022 | 0.7 | Adição do tópico de Qualidade na Visão de Usuário | Nathalia, Luciano e Pedro|
 
 
 ## Referências
