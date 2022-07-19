@@ -65,6 +65,18 @@ Histórico de Versão
 | 18/07/2022 | 0.5 | Adição do tópico de Qualidade a Nível Organizacional | Nathalia, Luciano e Pedro|
 | 18/07/2022 | 0.6 | Adição do tópico de Qualidade a Nível de Projeto | Nathalia, Luciano e Pedro|
 | 18/07/2022 | 0.7 | Adição do tópico de Qualidade na Visão de Usuário | Nathalia, Luciano e Pedro|
-
+| 18/07/2022 | 0.8 | Adição de Referências | Nathalia, Luciano e Pedro|
 
 ## Referências
+
+https://www.linkedin.com/pulse/import%C3%A2ncia-de-um-plano-qualidade-software-e-testes-farias-ctfl/?originalSubdomain=pt
+
+https://blog.softexpert.com/plano-gerenciamento-qualidade/
+
+https://pt.wikipedia.org/wiki/GQM
+
+https://www.atlassian.com/br/agile/project-management/user-stories
+
+http://www.linhadecodigo.com.br/artigo/1712/qualidade-qualidade-de-software-e-garantia-da-qualidade-de-software-sao-as-mesmas-coisas.aspx
+
+https://www.devmedia.com.br/qualidade-de-software-engenharia-de-software-29/18209
