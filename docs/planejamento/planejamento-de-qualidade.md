@@ -22,6 +22,19 @@ O PMBOK é um conjunto de práticas na gestão de projetos organizado pelo insti
 
 O Guia do Conhecimento em Engenharia de Software (Guia SWEBOK) descreve o conhecimento geralmente aceito sobre engenharia de software. Suas 15 áreas de conhecimento (KAs) resumem os conceitos básicos e incluem uma lista de referência que aponta para informações mais detalhadas.
 
+#### GQM
+
+O GQM (Goal Question Metrics) é uma abordagem de cima para baixo (top-down) que estabelece um sistema de medição direcionado a metas para desenvolvimento de software em que a equipe inicia com metas organizacionais, define a medição das metas, levanta questões a abordar os objetivos e identifica as métricas que proporcionem as respostas. O GQM está dividido em três níveis: Nível conceitual, nível operacional e nível quantitativo.
+
+
+#### ISO 9126
+
+A ISO/IEC 9126 tem como objetivo fundamental padrão abordar alguns dos preconceitos humanos bem conhecidos que podem afetar adversamente a entrega e a percepção de um projeto de desenvolvimento de software. Esses vieses incluem a mudança de prioridades após o início de um projeto ou a falta de definições claras de "sucesso". Ao esclarecer, depois concordar com as prioridades do projeto e, posteriormente, converter prioridades abstratas (conformidade) em valores mensuráveis (os dados de saída podem ser validados em relação ao esquema X com intervenção zero), a ISO/IEC 9126 tenta desenvolver um entendimento comum dos objetivos e metas do projeto .
+
+#### ISO 12207
+
+A ISO/IEC/IEEE 12207 define o ciclo de vida do software e inclui atividades e processos relacionados à aquisição e configuração de serviços no sistema. Cada processo sempre tem sua saída definida.
+
 
 Histórico de Versão
 
@@ -30,6 +43,6 @@ Histórico de Versão
 |  15/07/2022    | 0.1       |     Criação do plano de qualidade e adição do tópico de introdução       |      Nathalia, Luciano e Pedro    | 
 | 15/07/2022 | 0.2 | Adição do tópico de objetivos | Nathalia, Luciano e Pedro|
 | 18/07/2022 | 0.3 | Adição do tópico de Abordagens e metodologias | Nathalia, Luciano e Pedro|
-
+| 18/07/2022 | 0.4 | Atualização do tópico de Abordagens e metodologias | Nathalia, Luciano e Pedro|
 
 ## Referências
