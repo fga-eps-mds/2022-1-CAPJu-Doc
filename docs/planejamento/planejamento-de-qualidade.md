@@ -8,7 +8,7 @@ De acordo com a definição do guia PMBOK, a qualidade seria “o grau até o qu
  
 Este documento tem como objetivo estabelecer um modelo que possa definir parâmetros de medição de qualidade interna, externa e dirigida ao cliente. Desta forma, levando-se em consideração a organização do time e a visão do produto, deseja-se determinar métodos que resultem em métricas que permitam o time tomar decisões de acordo com padrões de qualidade. Para isso pretende-se dividir este Plano de Qualidade em três etapas, sendo elas: Qualidade a Nível Organizacional, Qualidade a Nível de Projeto e Qualidade a Nível de Usuário. 
  
- 
+
 ### Abordagens e metodologias
 
 Para fins de referência utilizaremos as seguintes abordagens e metodologias: GQM(Goal Question Metric), guias PMBOK, SWEBOK, ISO 9126, ISO 12207 e uma metodologia exclusiva estruturada pela própria equipe. Das quais serão descritas abaixo:
@@ -35,6 +35,11 @@ A ISO/IEC 9126 tem como objetivo fundamental padrão abordar alguns dos preconce
 
 A ISO/IEC/IEEE 12207 define o ciclo de vida do software e inclui atividades e processos relacionados à aquisição e configuração de serviços no sistema. Cada processo sempre tem sua saída definida.
 
+### Qualidade a Nível Organizacional
+
+Para que seja possível medir a qualidade organizacional é necessário primeiramente definir os aspectos que serão avaliados dentro desse contexto. A qualidade do código fonte do time será levada em consideração, padrões de processos dentro da equipe, requisitos do projeto, entre outros. A medição da qualidade a nível organizacional permite ao próprio grupo adquirir os dados necessários para saber quais medidas devem ser tomadas para uma maior rentabilidade na qualidade do produto em todos os aspectos desejáveis. Parte da ISO/IEC 14598 propõe como avaliar sob o ponto de vista de quem desenvolve. Para isso, o desenvolvedor define as condições sob as quais as medições serão executadas. Esta norma tem o objetivo de definir, acompanhar e monitorar a qualidade durante o processo de desenvolvimento do software.
+
+
 
 Histórico de Versão
 
@@ -44,5 +49,7 @@ Histórico de Versão
 | 15/07/2022 | 0.2 | Adição do tópico de objetivos | Nathalia, Luciano e Pedro|
 | 18/07/2022 | 0.3 | Adição do tópico de Abordagens e metodologias | Nathalia, Luciano e Pedro|
 | 18/07/2022 | 0.4 | Atualização do tópico de Abordagens e metodologias | Nathalia, Luciano e Pedro|
+| 18/07/2022 | 0.5 | Adição do tópico de Qualidade a Nível Organizacional | Nathalia, Luciano e Pedro|
+
 
 ## Referências
