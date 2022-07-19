@@ -1,12 +1,4 @@
 # CAPJu Documento de Abertura do Projeto
-## Histórico de Versão
-
-**Data** | **Versão** | **Descrição** | **Autor(es/as)**|
-|--- | --- | --- | ---| 
-|15/07/2022 | 0.1 | Versão inicial | Gabriel Araújo Souza |
-|15/07/2022 | 1.1 | Revisão do documento | Maicon Mares|
-|19/07/2022 | 1.2 | Adição de referência e outras modificações | Gabriel Araújo Souza |
-
 
 ## Introdução
 Este documento foi criado para validar a existência do projeto. Nele contém diversas informações sobre o projeto CAPJu, incluindo dados de custo, descrição do produto, justificativa do projeto, cronograma, entre outras características.  
@@ -80,6 +72,14 @@ As estimativas foram calculadas com base nos custos das equipes de desenvolvimen
 
 ## 11. Controle e gerenciamento das informações do projeto 
 Para controle e gerenciamento das informações relevantes do projeto foram dedicados o [repositório de documentação](https://github.com/fga-eps-mds/2022-1-CAPJu-Doc) e [wiki do projeto](https://fga-eps-mds.github.io/2022-1-CAPJu-Doc/#/). 
+
+## Histórico de Versão
+
+**Data** | **Versão** | **Descrição** | **Autor(es/as)**|
+|--- | --- | --- | ---| 
+|15/07/2022 | 0.1 | Versão inicial | Gabriel Araújo Souza |
+|15/07/2022 | 1.1 | Revisão do documento | Maicon Mares|
+|19/07/2022 | 1.2 | Adição de referência e outras modificações | Gabriel Araújo Souza |
 
 ## Referências
 Vargas, Ricardo V. Gerenciamento de Projetos: Estabelecendo diferenciais competitivos. 7ª Edição. Rio de Janeiro: Editora Brasport, 7 novembro 2009.
