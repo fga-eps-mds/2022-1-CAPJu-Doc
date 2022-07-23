@@ -4,7 +4,7 @@
   - [Custo](planejamento/planejamento-de-custo.md)
   - [Riscos](planejamento/planejamento-de-riscos.md)
   - [Tempo](planejamento/planejamento-de-tempo.md)
-  - [Treinamenteos](planejamento/treinamentos.md)
+  - [Treinamentos](planejamento/treinamentos.md)
 
 - Projeto
 
