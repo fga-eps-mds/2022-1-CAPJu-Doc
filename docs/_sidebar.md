@@ -4,7 +4,8 @@
   - [Custo](planejamento/planejamento-de-custo.md)
   - [Riscos](planejamento/planejamento-de-riscos.md)
   - [Tempo](planejamento/planejamento-de-tempo.md)
-  - [Treinamentos](planejamento/treinamentos.md)
+  - [Treinamenteos](planejamento/treinamentos.md)
+
 - Projeto
 
   - [Lean Inception](projeto/lean-inception.md)
