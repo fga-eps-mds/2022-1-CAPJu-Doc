@@ -1,10 +1,10 @@
 # Identidade Visual
 
-![1](/docs/assets/GuiaDeIdentidadeVisual/1.png)
-![2](/docs/assets/GuiaDeIdentidadeVisual/2.png)
-![3](/docs/assets/GuiaDeIdentidadeVisual/3.png)
-![4](/docs/assets/GuiaDeIdentidadeVisual/4.png)
-![5](/docs/assets/GuiaDeIdentidadeVisual/5.png)
+![1](../assets/GuiaDeIdentidadeVisual/1.png)
+![2](../assets/GuiaDeIdentidadeVisual/2.png)
+![3](../assets/GuiaDeIdentidadeVisual/3.png)
+![4](../assets/GuiaDeIdentidadeVisual/4.png)
+![5](../assets/GuiaDeIdentidadeVisual/5.png)
 
 **Histórico de Versão**
 

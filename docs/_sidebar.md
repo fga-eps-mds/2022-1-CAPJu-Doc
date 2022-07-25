@@ -12,6 +12,8 @@
   - [Roadmap](projeto/roadmap.md)
   - [Prototipação](projeto/prototipos.md)
   - [Documento de Arquitetura](projeto/documento-arquitetura.md)
+  - [Identidade Visual](projeto/identidade-visual.md)
+
 
 - Sprints
 
