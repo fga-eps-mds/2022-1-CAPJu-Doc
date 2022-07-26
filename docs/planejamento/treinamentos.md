@@ -159,6 +159,32 @@ Para inserir todos os arquivos modificados
 ---
 
 ## Ágil
+### Descrição
+
+Apresentação dos principais conceitos sobre metodologia ágil. Conceitos de Scrum, Kanban e XP, e como podem ser utilizados neste projeto.
+
+### Responsável
+[Nathalia Lorena](https://github.com/Natilorens)
+
+**Data Realizada**: 24/06/2022
+
+**Membros Participante na Vídeo Chamada**: Hellen Fernanda, Lucas Lopes, Philipe de Sousa,
+Gabriel Araujo, Pedro Henrique, Pablo Christianno, Jose Aquiles, Francisco Heronildo.
+
+## Formato do Treinamento
+
+Foi desenvolvida uma apresentação em slides na plataforma Prezi com o objetivo de disseminar conhecimentos téoricos e alguns exemplos práticos sobre a metodologia ágil para serem aplicados no contexto do projeto CAPJu da disciplica de Engenharia e Produto de Software. Foram citadas como exemplo as metodologias Scrum, Kanban e XP.
+
+O Treinamento foi realizado via Microsoft Teams e para os membros que não participaram foi disponibilizada a gravação da [reunião](https://drive.google.com/file/d/1St119JLCkBhQrl8OYFspmLC3O_f7EsXh/view?usp=sharing)
+para que todos tenham acesso.
+
+
+## Material Utilizado
+
+### Apresentação
+
+A apresentação completa em slides encontra-se disponível [aqui](https://drive.google.com/file/d/1t4oLNMVneKTDTBfy85dYx4vMhywjSkkX/view?usp=sharingusp=sharing).
+
 
 ---
 ## Docker
@@ -210,3 +236,4 @@ https://github.com/aquiles23/treinamento_mds
 | 19/07/2022 | 0.1    | Adicionando o treinamento de Git | Francisco |
 | 22/07/2022 | 0.2    | Adicionando o treinamento de docker e nodeJS | Aquiles |
 | 23/07/2022 | 0.3    | Adicionando o treinamento de Desenvolvimento Web | Maicon Mares |
+| 26/07/2022 | 0.4    | Adicionando o treinamento de Metodologia Agil | Nathalia Lorena |
