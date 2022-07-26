@@ -9,20 +9,9 @@
      duraração da sprint
  -->
 
-| Início | Fim | Duração |
-| ------ | --- | ------- |
-|        |
-
-## 2. Papéis
-
-<!-- Papeis que cada membro exerceu durante essa sprint -->
-
-| Papel                 | Membros    |
-| --------------------- | ---------- |
-| Scrum Master          | Indefinido |
-| Product Owner         | Indefinido |
-| Arquiteto de Software | Indefinido |
-| Desenvolvedor         | Indefinido |
+| Início | Fim |
+| ------ | --- |
+|        |     |
 
 ## 3. Objetivos da Sprint
 
@@ -32,8 +21,25 @@
 
 <!-- descrever as issues que definimos para essa sprint e alocar um responsavel por ela -->
 
-| Issues | Descrição | Responsáveis |
-| ------ | --------- | ------------ |
+| Issues | Descrição                                        | Responsáveis             |
+| ------ | ------------------------------------------------ | ------------------------ |
+|        | Plano de riscos                                  | Todos EPS                |
+|        | Plano de custos                                  | Todos EPS                |
+|        | Plano de qualidade                               | Nathalia,Pedro,Luciano   |
+|        | Plano de tempo                                   | Maicon,Francisco         |
+|        | Integração SonarCloud                            | Aquiles,Arthur           |
+|        | Orquestração pipelines                           | Arthur,Aquiles           |
+|        | Configuração ambientes                           | Arthur,Aquiles           |
+|        | Criar Canvas MVP                                 | Todos                    |
+|        | Validar MVP                                      | Todos                    |
+|        | Documentar Quadros de Conhecimento e Pareamentos | Maicon                   |
+|        | Atualizar RoadMap com EAP                        | Maicon,Francisco         |
+|        | Padrões de Comunidade                            | Francisco                |
+|        | Documentar os Treinamentos                       | Todos EPS                |
+|        | Termo de abertura do projeto                     | Maicon,Gabriel,Caldas    |
+|        | Template Histórias de Usuário                    | Francisco                |
+|        | Plano de comunicação                             | Francisco,Hellen,Philipe |
+|        | Documentar o Lean Inception                      | Arthur,Lopes,Pablo       |
 
 # Review
 
@@ -46,7 +52,7 @@
 
 | Início | Fim | Duração |
 | ------ | --- | ------- |
-|        |
+|        |     |         |
 
 ## 2. Conclusão
 

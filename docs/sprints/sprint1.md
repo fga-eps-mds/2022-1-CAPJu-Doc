@@ -1,4 +1,4 @@
-# Sprint 1
+# Sprint 0
 
 # Planning
 
@@ -9,20 +9,9 @@
      duraração da sprint
  -->
 
-| Início | Fim | Duração |
-| ------ | --- | ------- |
-|        |
-
-## 2. Papéis
-
-<!-- Papeis que cada membro exerceu durante essa sprint -->
-
-| Papel                 | Membros    |
-| --------------------- | ---------- |
-| Scrum Master          | Indefinido |
-| Product Owner         | Indefinido |
-| Arquiteto de Software | Indefinido |
-| Desenvolvedor         | Indefinido |
+| Início | Fim   |
+| ------ | ----- |
+| 19/07  | 26/07 |
 
 ## 3. Objetivos da Sprint
 
@@ -32,8 +21,14 @@
 
 <!-- descrever as issues que definimos para essa sprint e alocar um responsavel por ela -->
 
-| Issues | Descrição | Responsáveis |
-| ------ | --------- | ------------ |
+||Prototipo de Baixa Fidelidade| Hellen,Lucas Caldas
+||US1 | Philipe,Lucas Lopes
+||Documento de Arquitetura | Pedro,Pablo,Nathalia
+||US7 | Gabriel,Luciano
+||Prototipo de Alta Fidelidade | Francisco,Maicon
+||Pipeles | Arthur,Aquiles
+||Plano de Riscos | Todos EPSs
+||Identidade Visual | Francisco,Maicon
 
 # Review
 
@@ -44,9 +39,9 @@
      duraração da sprint
  -->
 
-| Início | Fim | Duração |
-| ------ | --- | ------- |
-|        |
+| Início | Fim |
+| ------ | --- |
+|        |     |
 
 ## 2. Conclusão
 
