@@ -1,8 +1,15 @@
 # Treinamentos
+
+- [Desenvolvimento Web](#Desenvolvimento-Web)
+- [Git](#Git)
+- [Docker](#docker)
+- [NodeJs](#nodejs)
+- [Ágil](#Ágil)
+- [ReactJs](#reactjs)
+
 ## Contexto
 
 Visando preparar a equipe de desenvolvimento pra a execução do projeto, preparamos treinamentos sobre os principais conceitos a serem abordados no projeto para garantir o conhecimento da equipe sobre o mesmo.
-
 
 ## Desenvolvimento-Web
 
@@ -10,16 +17,19 @@ Visando preparar a equipe de desenvolvimento pra a execução do projeto, prepar
 
 **Data Realizada**: 28/06/2022
 
-**Membros Participante na Vídeo Chamada**: Maicon Lucas Mares de Souza, Lucas Lopes Rocha, Gabriel Araujo Souza,
+**Membros Participantes na Vídeo Chamada**: Maicon Lucas Mares de Souza, Lucas Lopes Rocha, Gabriel Araujo Souza,
 Hellen Fernanda Mendonca De Faria, Francisco Heronildo Sousa Santos, Pablo Christianno Silva Guedes, Philipe de Sousa Barros, Pedro Henrique Ferreira Nunes
 
 ## Formato do Treinamento
+
 O treinamento teve como foco o ensinamento dos principais conceitos de HTML, incluindo as `tags` mais utilizadas, a separação de camadas da web (HTML, CSS e JS em arquivos separados) na composição de um documento HTML, principais seletores e regras CSS, principais recursos do Javascript e recursos modernos do ECMAScript6. Também foram mencionados sites úteis para a busca de conteúdo para estudo ([W3 Schools](https://www.w3schools.com/)).
 
 ## Material Utilizado
+
 O vídeo completo do treinamento pode ser encontrado em: [Assistir](https://drive.google.com/drive/folders/19Btkgstw_1epIhfzV_vxxebFAB7DiWnW?usp=sharing).
 
 ## Principais tags HTML abordadas
+
 ```bash
 - Listas: <ul></ul> e <ol></ol>
 - Títulos: <h1> a <h6>
@@ -31,6 +41,7 @@ O vídeo completo do treinamento pode ser encontrado em: [Assistir](https://driv
 ```
 
 ## CSS
+
 - border
 - display
 - Flexbox/posicionamento/responsividade
@@ -42,14 +53,16 @@ O vídeo completo do treinamento pode ser encontrado em: [Assistir](https://driv
 - padding
 
 ## Javascript
+
 - Tipos de dados
 - Funções
-- Como fazer requisições 
+- Como fazer requisições
 - async e await (assincronicidade de eventos)
 - Promises
 - Template Literals
 - Objetos
 - Principais métodos para lidar com arrays (reduce, map, filter, forEach, etc)
+
 ---
 
 ## Git
@@ -59,7 +72,6 @@ O vídeo completo do treinamento pode ser encontrado em: [Assistir](https://driv
 **Data Realizada**: 25/06/2022
 
 **Membros Participante na Vídeo Chamada**: Hellen Fernanda, Luciano Alves, Philipe de Sousa, Pedro Henrique, Gabriel Araújo, José Aquiles
-
 
 ## Formato do Treinamento
 
@@ -159,11 +171,13 @@ Para inserir todos os arquivos modificados
 ---
 
 ## Ágil
+
 ### Descrição
 
 Apresentação dos principais conceitos sobre metodologia ágil. Conceitos de Scrum, Kanban e XP, e como podem ser utilizados neste projeto.
 
 ### Responsável
+
 [Nathalia Lorena](https://github.com/Natilorens)
 
 **Data Realizada**: 24/06/2022
@@ -178,62 +192,100 @@ Foi desenvolvida uma apresentação em slides na plataforma Prezi com o objetivo
 O Treinamento foi realizado via Microsoft Teams e para os membros que não participaram foi disponibilizada a gravação da [reunião](https://drive.google.com/file/d/1St119JLCkBhQrl8OYFspmLC3O_f7EsXh/view?usp=sharing)
 para que todos tenham acesso.
 
-
 ## Material Utilizado
 
 ### Apresentação
 
 A apresentação completa em slides encontra-se disponível [aqui](https://drive.google.com/file/d/1t4oLNMVneKTDTBfy85dYx4vMhywjSkkX/view?usp=sharingusp=sharing).
 
-
 ---
+
 ## Docker
+
 ### Descrição
 
-Treinamento dos conceitos básicos sobre como rodar uma aplicação através de contêineres pelo docker
+Treinamento dos conceitos básicos do framework ReactJs e arquivos .jsx, instalação e desenvolvimento.
 
 ### Responsável
+
 @aquiles23
 
 ### Participação sincrona
+
 @Hellen159, @PhilipeSousa, @PedroHhenriq, @FranciscoHeronildo
 
 ### Material
-#### Repositório: 
+
+#### Repositório:
+
 https://github.com/aquiles23/treinamento_mds
+
 #### Gravação:
+
  <iframe src="https://drive.google.com/file/d/1uW6LbZxVvFZR8m4lChFCQIf_EAOonLO7/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ---
+
 ## NodeJs
+
 ### Descrição
+
 Treinamento sobre os principais conceitos sobre API REST usando nodeJS + express.
 
 ### Responsavel:
+
 @aquiles23
 
 ### Participação sincrona:
+
 @GabrielGaba, @PedroHhenriq .
 
 ### Material
-#### Repositório: 
+
+#### Repositório:
+
 https://github.com/aquiles23/treinamento_mds
-#### Gravação: 
+
+#### Gravação:
+
 <iframe src="https://drive.google.com/file/d/1ZR1dZcS4Vw6lhcdbrZ1Ha923My2mjdZG/preview" width="640" height="480" allow="autoplay"></iframe>
 
-#### Slides: 
+#### Slides:
+
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSyW7VhQhmnrhJ2KRlMJ3ctulzv9rmT-G8haa1oLjGrh8OSPg5Ji3c45Hj44gB7JHocm9mscSTvA_97/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ---
+
 ## ReactJs
+
+### Responsável:
+
+[Arthur Tavares](https://github.com/ArthurPaivaT)
+
+### Descrição
+
+Treinamento sobre os principais conceitos sobre API REST usando nodeJS + express.
+
+**Data Realizada**: 03/07/2022
+
+**Membros Participantes na Vídeo Chamada**: Arthur Paiva Tavares, José Aquiles Guedes, Pedro Henrique Ferreira e Pablo Christianno Silva.
+
+## Formato do Treinamento
+
+O treinamento abrangeu a instalação do framework ReactJs, estruturação de arquivos, uso de componentes, uso de react hooks, instalação de bibliotecas de terceiros e desenvolvimento com serviço local.
+
+#### Gravação:
+
+<iframe src="https://drive.google.com/file/d/1LhDgj99p1zGqd9_woF_34nrpVQN8AOit/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ---
 
 **Histórico de Versão**
 
-| Data       | Versão | Descrição                        | Autor(es) |
-| ---------- | ------ | -------------------------------- | --------- |
-| 19/07/2022 | 0.1    | Adicionando o treinamento de Git | Francisco |
-| 22/07/2022 | 0.2    | Adicionando o treinamento de docker e nodeJS | Aquiles |
-| 23/07/2022 | 0.3    | Adicionando o treinamento de Desenvolvimento Web | Maicon Mares |
-| 26/07/2022 | 0.4    | Adicionando o treinamento de Metodologia Agil | Nathalia Lorena |
+| Data       | Versão | Descrição                                        | Autor(es)       |
+| ---------- | ------ | ------------------------------------------------ | --------------- |
+| 19/07/2022 | 0.1    | Adicionando o treinamento de Git                 | Francisco       |
+| 22/07/2022 | 0.2    | Adicionando o treinamento de docker e nodeJS     | Aquiles         |
+| 23/07/2022 | 0.3    | Adicionando o treinamento de Desenvolvimento Web | Maicon Mares    |
+| 26/07/2022 | 0.4    | Adicionando o treinamento de Metodologia Agil    | Nathalia Lorena |
+| 26/07/2022 | 0.5    | Adicionando o treinamento de ReactJs             | Arthur Tavares  |
