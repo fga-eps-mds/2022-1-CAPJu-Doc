@@ -10,11 +10,14 @@
 
   - [Lean Inception](projeto/lean-inception.md)
   - [Roadmap](projeto/roadmap.md)
+  - [Quadro de Conhecimentos](projeto/quatro-de-conhecimentos.md)
   - [Prototipação](projeto/prototipos.md)
   - [Documento de Arquitetura](projeto/documento-arquitetura.md)
   - [Identidade Visual](projeto/identidade-visual.md)
 
+
 - [Atividades](gerencia/atividades/atividades.md)
+
 - Sprints
 
   - [Sprint 0](gerencia/sprints/sprint0.md)
