@@ -8,11 +8,11 @@
 | ------ | ----- |
 | 26/07  | 30/07 |
 
-## 3. Objetivos da Sprint
+## 2. Objetivos da Sprint
 
 Essa sprint tem a finalidade de terminar todas as tarefas pendentes para a finalização da Realese 1
 
-## 4. Issues
+## 3. Issues
 
 | Issues | Descrição                           | Responsáveis                    | Status | Observação |
 | ------ | ----------------------------------- | ------------------------------- | ------ | ---------- |

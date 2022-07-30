@@ -13,13 +13,13 @@
 | ------ | ----- |
 | 12/07  | 19/07 |
 
-## 3. Objetivos da Sprint
+## 2. Objetivos da Sprint
 
 <!-- descrever de forma geral o objetivo da sprint -->
 
 Essa sprint trata-se de inagural tem como objetivo documentar algums artefatos e verificar e alinhar os conhecimentos entre a equipe de mds e eps
 
-## 4. Issues
+## 3. Issues
 
 <!-- descrever as issues que definimos para essa sprint e alocar um responsavel por ela -->
 

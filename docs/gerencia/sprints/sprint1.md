@@ -8,11 +8,11 @@
 | ------ | ----- |
 | 19/07  | 26/07 |
 
-## 3. Objetivos da Sprint
+## 2. Objetivos da Sprint
 
 Essa sprint tem como objetivo iniciarmos a codificar e finalizar algumas aterfatos importantes
 
-## 4. Issues
+## 3. Issues
 
 | Issues | Descrição                     | Responsáveis           | Status     | Observação                                                                  |
 | ------ | ----------------------------- | ---------------------- | ---------- | --------------------------------------------------------------------------- |
