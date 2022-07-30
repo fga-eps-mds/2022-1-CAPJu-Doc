@@ -15,9 +15,11 @@
   - [Documento de Arquitetura](projeto/documento-arquitetura.md)
   - [Identidade Visual](projeto/identidade-visual.md)
 
+
+- [Atividades](gerencia/atividades/atividades.md)
+
 - Sprints
 
-  - [Sprint 0](sprints/sprint0.md)
-  - [Sprint 1](sprints/sprint1.md)
-
-- Pipeline
+  - [Sprint 0](gerencia/sprints/sprint0.md)
+  - [Sprint 1](gerencia/sprints/sprint1.md)
+  - [Sprint 2](gerencia/sprints/sprint2.md)
