@@ -19,4 +19,4 @@
 
   - [Sprint 0](gerencia/sprints/sprint0.md)
   - [Sprint 1](gerencia/sprints/sprint1.md)
-  - [Sprint 2](gerencia/sprints/sprint1.md)
+  - [Sprint 2](gerencia/sprints/sprint2.md)
