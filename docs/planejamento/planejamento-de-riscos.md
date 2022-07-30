@@ -43,7 +43,7 @@ O PMBOK define esta fase como o processo de determinação dos riscos que podem 
 **Externos**
 
 - **Disciplinas:** São os riscos relacionados a ocupação dos membros com outras disciplinas e que podem influenciar no andamento do projeto.
-- **Saúde/Fatores Pessoais:** São os riscos relacionados a algum problema de saúde ou problema pessoal que membro ou stakerholder pode adquirir durante o semestre. Também está associado a transmissão da COVID-19 e uma possível retorno as atividades remotas.
+- **Saúde/Fatores Pessoais:** São os riscos relacionados a algum problema de saúde ou problema pessoal que um dos membros ou stakerholder pode adquirir durante o semestre. Também está associado a transmissão da COVID-19 ou Varíola do Macaco e acontecer um possível retorno as atividades remotas.
 - **Stakeholder:** São os riscos relacionados ao stakeholder do projeto.
 
 ### Realizar Análise dos Riscos
@@ -74,7 +74,7 @@ Para isso é necessário classificar os riscos segundo sua probabilidade, impact
 
 ### Controlar Riscos
 
-Segundo o PMBOK controlar os riscos é o processo de implementação de planos de respostas aos riscos, acompanhamento dos riscos identificados, monitoramento dos riscos residuais, identificação de novos riscos e avaliação da eficácia do processo de riscos durante todo o projeto
+Segundo o PMBOK controlar os riscos é o processo de implementação de planos de respostas aos riscos, acompanhamento dos riscos identificados, monitoramento dos riscos residuais, identificação de novos riscos e avaliação da eficácia do processo de riscos durante todo o projeto.
 
 ## Documentação dos Riscos
 
@@ -92,14 +92,38 @@ E para registrar um risco foi decidio utilizar o seguinte formato:
 
 ## Levantamento dos Riscos
 
-| ID  | Descrição | Causa | Consequência | Categoria | Impacto | Probabilidade |
-| --- | --------- | ----- | ------------ | --------- | ------- | ------------- |
+| ID  | Descrição                                       | Causa                                                        | Consequência                     | Categoria           | Impacto    | Probabilidade |
+| --- | ----------------------------------------------- | ------------------------------------------------------------ | -------------------------------- | ------------------- | ---------- | ------------- |
+| 1   | Membros abandonarem a disciplina                | Problemas Pessoais                                           | Sobrecarga da Equipe             | Externo             | Alto       | Média         |
+| 2   | Fechamento da Universidade                      | Aumento da Transmissão de COVID-19/Varíola dos Macacos Greve | Cancelamento do Projeto          | Externo             | Muito Alto | Média         |
+| 3   | Mudanças de Tecnologias                         | Inexperiência da Equipe                                      | Atraso do Projeto                | Tecnologia          | Alto       | Baixa         |
+| 4   | Mudança de escopo                               | Entendimento Errado do Projeto                               | Atraso na Entrega das Atividades | Técnico             | Alto       | Média         |
+| 5   | Má gerência da comunicação da equipe            | Inexperiência da Equipe                                      | Sobrecarga de Membros            | Gerência de projeto | Alto       | Alto          |
+| 6   | Planejamento de tempo feito de forma equivocada | Inexperiência da Equipe                                      | Atraso do Projeto                | Gerência de projeto | Alto       | Média         |
+| 7   | Falta de Compromisso dos Membros                | Baixa Produtividade dos Integrantes                          | Atraso no Cronograma             | Organizacional      | Alto       | Média         |
+| 8   | Diferença de horários entre membro              | Problemas Pessoais                                           | Atraso na entrega das Atividades | Organizacional      | Alto       | Média         |
+| 9   | Problemas com Estações de Trabalho              | Estação de Trabalho com Defeito                              | Atraso no Cronograma             | Externos            | Média      | Baixa         |
+
+## Respostas aos Riscos
+
+| ID  | Respostas                                                                                                                                                                                                                                                                           |
+| --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | Adequação do Backlog com redução do escopo, compensar horas do membro entre o restante da equipe.                                                                                                                                                                                   |
+| 2   | Se possível continuar, estruturar o desenvolvimento do projeto de maneira remota.                                                                                                                                                                                                   |
+| 3   | Equipe de EPS deve intervir e realizar a migração do que foi desenvolvido até o momento para as tecnologias aderentes ao projeto a fim de minimizar o atraso no desenvolvimento.                                                                                                    |
+| 4   | Reunir e alinhar a Visão do Produto com toda a equipe em conjunto, se necessário validar novamente com o cliente.                                                                                                                                                                   |
+| 5   | Pedir para que o membro explique com suas palavras o seu entendimento a fim de confirmar a corretude da comunicação. Modificar estratégias de comunicação, realizar mais encontros presenciais, criar canais de comunicação anônimos para que todos possam se expressar livremente. |
+| 6   | Estudar metodologias que auxiliem nas estimativas e buscar entender o ritmo de cada membro a fim de planejar o tempo mais próximo do real.                                                                                                                                          |
+| 7   | Conversar constantemente com os membros da equipe, buscar estratégias de motivação, ou gamificação para aumentar o engajamento dos membros, buscar estratégias como quadros de humor para acompanhar o bem estar da equipe.                                                         |
+| 8   | Adequa os horários de acordo com o horário estabelecido no mapa de horário criado no início do projeto.                                                                                                                                                                             |
 
 **Histórico de Versão**
 
-| Data       | Versão | Descrição            | Autor(es) |
-| ---------- | ------ | -------------------- | --------- |
-| 26/07/2022 | 0.1    | Criação do documento | Francisco |
+| Data       | Versão | Descrição               | Autor(es)                                    |
+| ---------- | ------ | ----------------------- | -------------------------------------------- |
+| 26/07/2022 | 0.1    | Criação do documento    | Francisco                                    |
+| 27/07/2022 | 0.2    | Levantamento dos Riscos | Aquiles, Francsico, Nathalia, Maicon, Arthur |
+| 28/07/2022 | 0.3    | Respostas aos Riscos    | Aquiles, Francsico, Nathalia, Maicon, Arthur |
 
 ## Referências
 
