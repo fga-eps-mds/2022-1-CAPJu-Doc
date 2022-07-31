@@ -34,6 +34,43 @@ Este documento detalha os padrões arquiteturais do CAPJu, como também aborda a
 |**5**|**Visão de Implementação**| Fornece ao leitor uma base que permitirá compreender a distribuição física do sistema em um conjunto de nós de processamento
 |**6**|**Referências**| Fornece ao leitor um conhecimento das referências utilizadas durante a criação deste documento
 
+# 2. Representação da Arquitetura
+
+## 2.1 Tecnologias 
+
+No que diz respeito às tecnologias que serão necessárias para o desenvolvimento temos as seguintes:
+
+### React
+
+O React é uma biblioteca JavaScript de código aberto com foco em criar interfaces de usuário em páginas web.
+
+### Jest 
+
+Jest é um framework de teste em JavaScript projetado para garantir a correção de qualquer código JavaScript. Ele permite que você escreva testes com uma API acessível, familiar e rica em recursos que lhe dá resultados rapidamente.
+
+### Styled-Components 
+
+Styled-components é uma biblioteca para React e React Native que permite que você use estilos ao nível de componente na sua aplicação. Eles são escritos em uma mistura de JavaScript com CSS.
+
+
+### Docker 
+
+Docker é um conjunto de produtos de plataforma como serviço que usam virtualização de nível de sistema operacional para entregar software em pacotes chamados contêineres. Os contêineres são isolados uns dos outros e agrupam seus próprios softwares, bibliotecas e arquivos de configuração.
+
+### NodeJs
+
+Node.js é um software de código aberto, multiplataforma, baseado no interpretador V8 do Google e que permite a execução de códigos JavaScript fora de um navegador web.
+
+### ExpressJs 
+
+Express.js é um framework para Node.js que fornece recursos mínimos para construção de servidores web. Foi lançado como software livre e de código aberto sob a Licença MIT. É um dos mais populares frameworks para servidores em Node.js.
+
+### Joi 
+É uma poderosa linguagem de descrição de esquema e validador de dados para JavaScript. O Joi permite descrever dados usando uma linguagem simples, intuitiva e legível.
+
+### MongoDB
+
+MongoDB é um software de banco de dados orientado a documentos livres, de código aberto e multiplataforma. É classificado como um programa de banco de dados NoSQL. Além disso, o MongoDB usa documentos semelhantes a JSON com esquemas.
 
 # Histórico de versões 
 
@@ -43,3 +80,4 @@ Este documento detalha os padrões arquiteturais do CAPJu, como também aborda a
 | 26/07/2022  | 0.2| Adicionando o tópico de Escopo| Pedro, Pablo e Nathalia |
 | 31/07/2022  | 0.3| Adicionando o tópico de Definições, acrônimos e abreviações| Nathalia |
 | 31/07/2022  | 0.4| Adicionando o tópico de Visão Geral| Nathalia |
+| 31/07/2022  | 0.5| Adicionando o tópico de Representação da Arquitetura | Nathalia |
