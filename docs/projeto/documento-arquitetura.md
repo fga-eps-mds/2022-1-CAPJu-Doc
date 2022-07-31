@@ -107,6 +107,29 @@ A camada **Controller** será responsável por intermediar as requisições envi
 ### Backend
 ![Backend](https://i.imgur.com/LGhP9rk.png)
 
+# 5. Visão de implementação 
+
+
+
+# 6 Referências
+
+Marcio. Padrão MVC - Java Magazine. Devmedia, 2011. Disponível em: <https://www.devmedia.com.br/padrao-mvc-java-magazine/21995>. Acesso em: 25 de jul. de 2022.
+
+ZUCHER, Vitor. O que é padrão MVC? Entenda arquitetura de softwares!. lewagon, 2020. Disponível em: <https://www.lewagon.com/pt-BR/blog/o-que-e-padrao-mvc#:~:text=O%20MVC%20%C3%A9%20uma%20sigla,sejam%20mais%20r%C3%A1pidas%20e%20din%C3%A2micas>. Acesso em: 25 de jul. de 2022.
+
+KOVACS, Leandro. O que é e para que serve o MongoDB?. Tecnoblog, 2022. Disponível em: <https://tecnoblog.net/responde/o-que-e-e-para-que-serve-o-mongodb/>. Acesso em: 25 de jul. de 2022.
+
+Joi. Joi. Introdução ao Joi. Disponível em: <https://joi.dev/api/?v=17.6.0#introduction>. Acesso em: 25 de jul. de 2022.
+
+Jest. Jest. Página inicial. Disponível em: <https://jestjs.io/pt-BR/>. Acesso em: 25 de jul. de 2022.
+
+React. React. Página inicial. Disponível em: <https://pt-br.reactjs.org/>. Acesso em: 25 de jul. de 2022.
+
+Docker (Software). Wikipedia. Disponível em: <https://pt.wikipedia.org/wiki/Docker_(software)>. Acesso em: 25 de jul. de 2022.
+
+Express.js. Wikipedia. Disponível em: <https://pt.wikipedia.org/wiki/Express.js>. Acesso em: 25 de jul. de 2022.
+
+
 # Histórico de versões 
 
 |Data|Versão|Descrição|Autor|
@@ -118,3 +141,4 @@ A camada **Controller** será responsável por intermediar as requisições envi
 | 31/07/2022  | 0.5| Adicionando o tópico de Representação da Arquitetura | Nathalia |
 | 31/07/2022  | 0.6| Adicionando o tópico de Metas e Restrições da Arquitetura | Nathalia |
 | 31/07/2022  | 0.7| Adicionando o tópico de Visão Lógica | Nathalia |
+| 31/07/2022  | 0.8| Criando o tópico de Visão de Implementação e Adicionando Referências | Nathalia |
