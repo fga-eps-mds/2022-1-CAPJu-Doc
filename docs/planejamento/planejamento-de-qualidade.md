@@ -26,7 +26,7 @@ Para obtermos métricas de qualidade a nível organizacional, foram escolhidos o
 
 | Goal | Questions | Metrics |
 | -------- | -------- | -------- |
-| 1     |   -   | Quadro de conhecimentos, Burndown,  Velocity, Frequência de participação nas cerimonias do Scrum|
+| 1     |  O time realiza treinamentos? Existe progresso de conhecimento das tecnologias? Os membros participam das reuniões?| Quadro de conhecimentos, Burndown,  Velocity, Frequência de participação nas cerimonias do Scrum|
 
 
 ### Objetivo 2 - Qualidade a Nível de Projeto
@@ -37,11 +37,9 @@ Para avaliar a qualidade a nível de projeto serão coletadas métricas utilizan
 * confiabilidade
 * segurança
 
-
-
 | Goal |  Questions |  Metrics |
 | -------- | -------- | -------- |
-| 2     |  -   |  files,functions, complexity, comment_lines_density, duplicated_lines_density, coverage, ncloc, tests, test_errors, test_failures, test_execution_time, security_rating |
+| 2     |  O código é reaproveitado? O código é legível? Após inserir novas funcionalidades é fácil identificar bugs? |  files,functions, complexity, comment_lines_density, duplicated_lines_density, coverage, ncloc, tests, test_errors, test_failures, test_execution_time, security_rating |
 
 
 **MANUTENIBILIDADE**
@@ -109,7 +107,7 @@ Dessa forma, para medirmos a usabilidade será desenvolvido e disponibilizado um
 
 | Goal  | Questions | Metrics |
 | -------- | -------- | -------- |
-| 3     |  -  | Respostas do formulário  |
+| 3     |  As funcionalidades estão disponíveis e são executadas eficientemente? O aplicativo funciona corretamente sem imprevistos? O software é seguro, ou seja, evita que pessoas ou sistemas não autorizados tenham acesso às informações? É fácil de usar ou requer muito treinamento?| Respostas do forms que serão analisadas conforme o cliente usar a aplicação  |
 
 
 **Histórico de Versão**
@@ -124,8 +122,7 @@ Dessa forma, para medirmos a usabilidade será desenvolvido e disponibilizado um
 | 18/07/2022 | 0.6 | Adição do tópico de Qualidade a Nível de Projeto | Nathalia, Luciano e Pedro|
 | 18/07/2022 | 0.7 | Adição do tópico de Qualidade na Visão de Usuário | Nathalia, Luciano e Pedro|
 | 18/07/2022 | 0.8 | Adição de Referências | Nathalia, Luciano e Pedro|
-| 31/07/2022 | 0.8 | Refatorando o documento| Nathalia |
-
+| 31/07/2022 | 0.9 | Refatorando o documento| Nathalia |
 
 ## Referências
 
