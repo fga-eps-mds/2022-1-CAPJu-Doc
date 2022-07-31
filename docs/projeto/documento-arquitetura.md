@@ -72,6 +72,18 @@ Express.js é um framework para Node.js que fornece recursos mínimos para const
 
 MongoDB é um software de banco de dados orientado a documentos livres, de código aberto e multiplataforma. É classificado como um programa de banco de dados NoSQL. Além disso, o MongoDB usa documentos semelhantes a JSON com esquemas.
 
+# 3 Metas e Restrições da Arquitetura 
+## 3.1 Metas
+
+* Reusabilidade de código
+* Baixo acoplamento, facilitando a manutenabilidade
+* Tornar o desenvolvimento do aplicativo mais rápido
+
+
+## 3.2 Restrições
+
+* Depende de uma conexão com a internet
+
 # Histórico de versões 
 
 |Data|Versão|Descrição|Autor|
@@ -81,3 +93,4 @@ MongoDB é um software de banco de dados orientado a documentos livres, de códi
 | 31/07/2022  | 0.3| Adicionando o tópico de Definições, acrônimos e abreviações| Nathalia |
 | 31/07/2022  | 0.4| Adicionando o tópico de Visão Geral| Nathalia |
 | 31/07/2022  | 0.5| Adicionando o tópico de Representação da Arquitetura | Nathalia |
+| 31/07/2022  | 0.6| Adicionando o tópico de Metas e Restrições da Arquitetura | Nathalia |
