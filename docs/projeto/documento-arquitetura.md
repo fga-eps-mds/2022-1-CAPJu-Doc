@@ -84,6 +84,29 @@ MongoDB é um software de banco de dados orientado a documentos livres, de códi
 
 * Depende de uma conexão com a internet
 
+# 4. Visão Lógica
+
+## 4.1 Visão Geral
+
+![CAPJu](https://i.imgur.com/M8w2uwA.png)
+
+
+O projeto CAPJu utiliza uma arquitetura **MVC** que é uma sigla do termo em inglês Model (modelo) View (visão) e Controller (Controle), este modelo facilita a troca de informações entre a interface do usuário e dados no banco, fazendo com que as respostas sejam mais rápidas e dinâmicas. 
+
+A camada **Model** possui a responsabilidade da lógica/regra de negócio, de cada módulo, após fazer o tratamento dos dados, é feito mais um mapeamento para o banco de dados, que fará o processamento requisitado e irá retorná-lo. Para essa camada será utilizado o **MongoDB**.
+
+A partir da camada **View**, o cliente através de uma aplicação web, terá acesso a uma interface e poderá realizar requisições ao sistema quando for necessário interagir com o banco de dados. O **React** será responsável pela camada View.
+
+A camada **Controller** será responsável por intermediar as requisições enviadas pela camada View com as respostas fornecidas pela camada Model, processando os dados que o usuário informou e repassando para outras camadas. Nessa camada será utilizado o **NodeJs**.
+
+## 4.2 Diagrama de Pacotes
+
+### Frontend
+![Frontend](https://i.imgur.com/RDxTSwK.png)
+
+### Backend
+![Backend](https://i.imgur.com/LGhP9rk.png)
+
 # Histórico de versões 
 
 |Data|Versão|Descrição|Autor|
@@ -94,3 +117,4 @@ MongoDB é um software de banco de dados orientado a documentos livres, de códi
 | 31/07/2022  | 0.4| Adicionando o tópico de Visão Geral| Nathalia |
 | 31/07/2022  | 0.5| Adicionando o tópico de Representação da Arquitetura | Nathalia |
 | 31/07/2022  | 0.6| Adicionando o tópico de Metas e Restrições da Arquitetura | Nathalia |
+| 31/07/2022  | 0.7| Adicionando o tópico de Visão Lógica | Nathalia |
