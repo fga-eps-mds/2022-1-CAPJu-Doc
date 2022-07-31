@@ -1,60 +1,118 @@
 # Planejamento de Qualidade
 
-## Introdução
+## Objetivo
 
-De acordo com a definição do guia PMBOK, a qualidade seria “o grau até o qual um conjunto de características inerentes satisfaz as necessidades”, desta forma visando reduzir custos e imprecisões dentro de um projeto de software percebe-se a necessidade de desenvolver um plano de qualidade. Sendo possível, por exemplo, detectar não conformidades, planejar ações corretivas e melhorias para resolver resultados indesejados. 
+De acordo com a definição do guia PMBOK, a qualidade seria “o grau até o qual um conjunto de características inerentes satisfaz as necessidades”. Dessa forma, com o objetivo de detectar não conformidades dentro do projeto e estabelecer ações corretivas e preventivas para que seja possível entregar um produto que possua um grau elevado de satisfação para o usuário final, serão abordadas neste Planejamento de Qualidade, práticas, recursos e parâmetros que permitam ao time atingir esse objetivo.
 
-### Objetivo
+Para isso faremos o uso da abordagem **GQM** (Goal Question Metrics) que é uma abordagem de cima para baixo (top-down) que estabelece um sistema de medição  direcionado a metas para desenvolvimento de software em que a equipe inicia com metas organizacionais, define a medição das metas, levanta questões a abordar os objetivos e identifica as métricas que proporcionem as respostas. O modelo GQM está dividido em três níveis: Nível Conceitual, nível operacional e nível quantitativo.
+
+Essa abordagem possui 3 níveis hierárquicos, são eles:
+
+**Conceitual (Objetivos):** Uma meta é definida para algum objeto de medição, esse objeto pode ser produtos, processos ou recursos
+**Operacional (Questões):** Elaborar perguntas que nos ajudam a caracterizar o objeto de medição e nos ajuda a escolher o ponto de vista da análise de qualidade que será feita.
+**Quantitativo (Métricas):** Conjunto de dados que está associado às perguntas a fim de respondê-las.
+
  
-Este documento tem como objetivo estabelecer um modelo que possa definir parâmetros de medição de qualidade interna, externa e dirigida ao cliente. Desta forma, levando-se em consideração a organização do time e a visão do produto, deseja-se determinar métodos que resultem em métricas que permitam o time tomar decisões de acordo com padrões de qualidade. Para isso pretende-se dividir este Plano de Qualidade em três etapas, sendo elas: Qualidade a Nível Organizacional, Qualidade a Nível de Projeto e Qualidade a Nível de Usuário. 
- 
 
-### Abordagens e metodologias
+## Goals
 
-Para fins de referência utilizaremos as seguintes abordagens e metodologias: GQM(Goal Question Metric), guias PMBOK, SWEBOK, ISO 9126, ISO 12207 e uma metodologia exclusiva estruturada pela própria equipe. Das quais serão descritas abaixo:
+### Objetivo 1 - Qualidade a Nível Organizacional
 
+Para que seja possível medir a qualidade organizacional é necessário primeiramente definir os aspectos que serão avaliados dentro desse contexto. Pretende-se avaliar, por exemplo, a produtividade do time, capacitação do time, e padronização de processos dentro da equipe. A medição da qualidade a nível organizacional permite ao próprio time uma autonomia para tomar decisões e gerar uma melhoria contínua nas entregas de releases.
 
-#### PMBOK
+Conforme propõe a ISO/IEC 14598-1 que está direcionada ao ponto de vista de desenvolvedores que pretendem desenvolver um novo produto ou melhorar um produto existente e pretendam executar avaliação de produto utilizando pessoas de seu próprio corpo técnico pode-se fazer o uso de indicadores que ajudam a prever a qualidade do produto final através da medição de produtos intermediários desenvolvidos durante o ciclo de vida.
 
-O PMBOK é um conjunto de práticas na gestão de projetos organizado pelo instituto PMI e é considerado a base do conhecimento sobre gestão de projetos por profissionais da área. O guia identifica um subconjunto de conhecimentos em gerenciamento de projetos que é amplamente reconhecido como boa prática, sendo, em razão disso, utilizado como base pelo Project Management Institute (PMI). Uma boa prática não significa que o conhecimento e as práticas devem ser aplicadas uniformemente a todos os projetos, sem considerar se são ou não apropriados.
+Para obtermos métricas de qualidade a nível organizacional, foram escolhidos os seguintes aspectos para serem avaliados:
 
-#### SWEBOK
-
-O Guia do Conhecimento em Engenharia de Software (Guia SWEBOK) descreve o conhecimento geralmente aceito sobre engenharia de software. Suas 15 áreas de conhecimento (KAs) resumem os conceitos básicos e incluem uma lista de referência que aponta para informações mais detalhadas.
-
-#### GQM
-
-O GQM (Goal Question Metrics) é uma abordagem de cima para baixo (top-down) que estabelece um sistema de medição direcionado a metas para desenvolvimento de software em que a equipe inicia com metas organizacionais, define a medição das metas, levanta questões a abordar os objetivos e identifica as métricas que proporcionem as respostas. O GQM está dividido em três níveis: Nível conceitual, nível operacional e nível quantitativo.
+| Goal | Questions | Metrics |
+| -------- | -------- | -------- |
+| 1     |   -   | Quadro de conhecimentos, Burndown,  Velocity, Frequência de participação nas cerimonias do Scrum|
 
 
-#### ISO 9126
+### Objetivo 2 - Qualidade a Nível de Projeto
 
-A ISO/IEC 9126 tem como objetivo fundamental padrão abordar alguns dos preconceitos humanos bem conhecidos que podem afetar adversamente a entrega e a percepção de um projeto de desenvolvimento de software. Esses vieses incluem a mudança de prioridades após o início de um projeto ou a falta de definições claras de "sucesso". Ao esclarecer, depois concordar com as prioridades do projeto e, posteriormente, converter prioridades abstratas (conformidade) em valores mensuráveis (os dados de saída podem ser validados em relação ao esquema X com intervenção zero), a ISO/IEC 9126 tenta desenvolver um entendimento comum dos objetivos e metas do projeto .
+Para avaliar a qualidade a nível de projeto serão coletadas métricas utilizando o SonarCloud em cada release, e estão divididas conforme os aspectos de qualidade abaixo:
 
-#### ISO 12207
-
-A ISO/IEC/IEEE 12207 define o ciclo de vida do software e inclui atividades e processos relacionados à aquisição e configuração de serviços no sistema. Cada processo sempre tem sua saída definida.
-
-### Qualidade a Nível Organizacional
-
-Para que seja possível medir a qualidade organizacional é necessário primeiramente definir os aspectos que serão avaliados dentro desse contexto. A qualidade do código fonte do time será levada em consideração, padrões de processos dentro da equipe, requisitos do projeto, entre outros. A medição da qualidade a nível organizacional permite ao próprio grupo adquirir os dados necessários para saber quais medidas devem ser tomadas para uma maior rentabilidade na qualidade do produto em todos os aspectos desejáveis. Parte da ISO/IEC 14598 propõe como avaliar sob o ponto de vista de quem desenvolve. Para isso, o desenvolvedor define as condições sob as quais as medições serão executadas. Esta norma tem o objetivo de definir, acompanhar e monitorar a qualidade durante o processo de desenvolvimento do software.
-
-### Qualidade a Nível de Projeto
-
-Para avaliar a qualidade a nível de projeto pode-se considerar aspectos como resultados que satisfaçam os padrões do projeto, para isso é fundamental, por exemplo, realizar a Verificação e Validação, pois essas técnicas em conjunto permitirão assegurar que o projeto atende às necessidades e cumpra as especificações. Além disso, o desenvolvimento de um plano de testes também é de suma importância para proporcionar uma redução de possíveis defeitos, dessa forma, resultando em entregas de maior qualidade.
-
-### Qualidade na Visão do Usuário
-
-É importante considerar que o cliente é quem está à frente. Ele tem o direito de participar e opinar durante o processo de construção do software. Neste contexto, a experiência do usuário, além das qualidades técnicas do software, é um fator determinante para a construção de sistemas de maior qualidade. Sua participação pode facilitar a compreensão dos seus desejos quanto ao software que está sendo desenvolvido. Esse aspecto da qualidade do software é chamado usabilidade. Nele o usuário procura respostas para questões como:
-
-* As funcionalidades estão disponíveis e são executadas eficientemente?
-* O software funciona corretamente sem imprevistos?
-* O software é seguro, ou seja, evita que pessoas ou sistemas não autorizados tenham acesso às informações?
-* É fácil de usar ou requer muito treinamento?
-* É fácil de integrar com outros sistemas existentes?
+* Manutenibilidade do código,
+* confiabilidade
+* segurança
 
 
-Histórico de Versão
+
+| Goal |  Questions |  Metrics |
+| -------- | -------- | -------- |
+| 2     |  -   |  files,functions, complexity, comment_lines_density, duplicated_lines_density, coverage, ncloc, tests, test_errors, test_failures, test_execution_time, security_rating |
+
+
+**MANUTENIBILIDADE**
+
+O conjunto de métricas abaixo será coletado para avaliar a manutenabilidade do código do projeto. Tal aspecto é importante por nos permitir avaliar o quão fácil será para que manutenção seja feita no código.
+
+
+1. **Complexidade**
+
+Será avaliada utilizando as seguintes métricas:
+
+**functions;
+complexity;
+files;
+ncloc;**
+
+* Functions mede a quantidade de funções;
+* Files mede a quantidade de arquivos do projeto;
+* Complexity calcula a complexidade ciclomática do codigo a partir das branchs;
+* Ncloc retorna o número físico de linhas que contém, no mínimo, um caracter que não seja tabulação ou espaço em branco;
+
+2. **Comentários**
+
+Será avaliado utilizando a seguinte métrica:
+
+**comment_lines_density;**
+
+3. **Duplicidade**
+
+Será avaliado utilizando a seguinte métrica:
+
+**duplicated_lines_density;**
+
+**CONFIABILIDADE**
+
+A métrica abaixo será utilizada para calcular a confiabilidade do projeto. Esse aspecto é importante para avaliar o quão confiável o código é em realizar aquilo que propõe.
+
+1. **Testes**
+
+Será avaliado utilizando as seguintes métricas:
+
+**coverage;
+tests;
+test_execution_time;
+test_errors;
+test_failures;
+reliability_rating;**
+
+Coverage avalia a cobertura utilizando um mix de cobertura de linhas e cobertura condicional para retornar um resultado com maior acurácia do que utilizar apenas um ou outro.
+
+**SEGURANÇA**
+
+A métrica abaixo será utilizada para calcular a segurança do projeto baseado nas vulnerabilidades encontradas no mesmo.
+
+Será avaliado utilizando a seguinte métrica:
+
+**security_rating;**
+
+
+### Objetivo 3 - Qualidade na Visão do Usuário
+
+É importante considerar que o cliente é quem está à frente. Ele tem o direito de participar e opinar durante o processo de construção do software. Neste contexto, a experiência do usuário, além das qualidades técnicas do software, é um fator determinante para a construção de sistemas de maior qualidade. Sua participação pode facilitar a compreensão dos seus desejos quanto ao software que está sendo desenvolvido. Esse aspecto da qualidade do software é chamado usabilidade. 
+
+Dessa forma, para medirmos a usabilidade será desenvolvido e disponibilizado um formulário para o cliente e conforme ele for testando as novas funcionalidades implementadas será possível ele avaliar em uma escala de 0 a 10 questões qualitativas do quão intuitivo e prático foi sua experiência ao utilizar a aplicação.
+
+| Goal  | Questions | Metrics |
+| -------- | -------- | -------- |
+| 3     |  -  | Respostas do formulário  |
+
+
+**Histórico de Versão**
 
 | Data | Versão | Descrição | Autor(es) |
 | ---- | ------ | --------- | --------- |
@@ -66,17 +124,19 @@ Histórico de Versão
 | 18/07/2022 | 0.6 | Adição do tópico de Qualidade a Nível de Projeto | Nathalia, Luciano e Pedro|
 | 18/07/2022 | 0.7 | Adição do tópico de Qualidade na Visão de Usuário | Nathalia, Luciano e Pedro|
 | 18/07/2022 | 0.8 | Adição de Referências | Nathalia, Luciano e Pedro|
+| 31/07/2022 | 0.8 | Refatorando o documento| Nathalia |
+
 
 ## Referências
 
-https://www.linkedin.com/pulse/import%C3%A2ncia-de-um-plano-qualidade-software-e-testes-farias-ctfl/?originalSubdomain=pt
+RODRIGUES, Claudia. A importância de um plano de qualidade de software e a estratégia de testes. Linkedin, 2017. Disponível em: <https://www.linkedin.com/pulse/import%C3%A2ncia-de-um-plano-qualidade-software-e-testes-farias-ctfl/?originalSubdomain=pt>. Acesso em: 30 de jul. de 2022.
 
-https://blog.softexpert.com/plano-gerenciamento-qualidade/
+ARIAS, Raphael. Como criar um plano de gerenciamento da qualidade. Excellence Blog, 2020. Disponível em: <https://blog.softexpert.com/plano-gerenciamento-qualidade/>. Acesso em: 30 de jul. de 2022.
 
-https://pt.wikipedia.org/wiki/GQM
+SILVA, C. V. P.  GQM - Goal Question Metric. Ago 2009. Disponível em: <https://www.cin.ufpe.br/~scbs/metricas/seminarios/GQM_texto.pdf> Acesso em: 30 jul. 2022.
 
-https://www.atlassian.com/br/agile/project-management/user-stories
+CAMPOS, Fábio. Qualidade, Qualidade de Software e Garantia da Qualidade de Software são as mesmas coisas?. Linha de Código, 2022. Disponível em: <http://www.linhadecodigo.com.br/artigo/1712/qualidade-qualidade-de-software-e-garantia-da-qualidade-de-software-sao-as-mesmas-coisas.aspx>. Acesso em: 30 jul. 2022.
 
-http://www.linhadecodigo.com.br/artigo/1712/qualidade-qualidade-de-software-e-garantia-da-qualidade-de-software-sao-as-mesmas-coisas.aspx
+LENILDO. Qualidade de Software - Engenharia de Software 29. DEVMEDIA, 2010. Disponível em: <https://www.devmedia.com.br/qualidade-de-software-engenharia-de-software-29/18209>. Acesso em: 30 jul. 2022.
 
-https://www.devmedia.com.br/qualidade-de-software-engenharia-de-software-29/18209
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR ISO/IEC 14598-1: Tecnologia de informação: Avaliação de produto de software. Rio de Janeiro, p. 07. 2001.
