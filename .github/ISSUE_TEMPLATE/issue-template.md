@@ -1,6 +1,6 @@
 ---
 name: Issue Template
-about: Issue Template
+about: Template para criação de issues genéricas
 title: ''
 labels: ''
 assignees: ''
@@ -10,8 +10,8 @@ assignees: ''
 ## Descrição
 
 ## Tarefas
-- [ ] Tasks1
-- [ ] Tasks2
+- [ ] Tarefa1
+- [ ] Tarefa2
 
 ## Critérios de Aceitação
 

@@ -1,27 +1,37 @@
 
-# Contribuindo com o CAPJu
+# Guia de Contribuição
 
-# Como eu posso contribuir para o CAPJu?
+Oi, estamos realmente felizes em saber em seu interesse em contribuir para o CAPJu - Controle de Acompanhamento de Processos da Justiça. Antes disso, certifique-se de tirar um momento e ler as seguintes orientações.
 
-## Reportando _bugs_
+## Como eu posso contribuir para o CAPJu?
 
-* Este projeto possui um padrão para criação de [_Issue_](https://github.com/fga-eps-mds/2022-1-CAPJu-Doc/blob/main/.github/ISSUE_TEMPLATE/issue-template.md). Logo, se você encontrar um bug, cheque se já se encontra cadastrado nas nossas [issues](https://github.com/fga-eps-mds/2022-1-CAPJu-Doc/issues), caso a resposta seja não, apenas abra uma [nova issues](https://github.com/fga-eps-mds/2022-1-CAPJu-Doc/issues/new/) utilizando como tag a label que adequa-se.
+* Leia o nosso [**Código de Conduta**](./CODE_OF_CONDUCT.md)
+* Crie sua [**Issue**](#crie-sua-issue)
+* Crie uma [**Branch**](#política-de-branches)
+* Fazer seus [**Commits**](#política-de-commits)
+* Crie um [**Pull Request**](#crie-um-pull-request)
 
-## Sugerindo mudanças em funcionalidades existentes
+---
+
+## Crie sua _Issue_
+
+* Este projeto possui um padrão para criação de [_issue_](https://github.com/fga-eps-mds/2022-1-CAPJu-Doc/blob/main/.github/ISSUE_TEMPLATE/). Logo, se você encontrar um bug ou melhoria cheque se já se encontra cadastrado nas nossas [issues](https://github.com/fga-eps-mds/2022-1-CAPJu-Doc/issues), caso a resposta seja não, apenas abra uma [nova issues](https://github.com/fga-eps-mds/2022-1-CAPJu-Doc/issues/new/) utilizando uma label que adequa-se.
+
+## Crie um Pull Request
 
 1. Primeiramente, verifique se não existe nenhuma issue já cadastrada que solicite essa modificação nas  [_Issues_](https://github.com/fga-eps-mds/2022-1-CAPJu-Doc/issues). 
 
-2. Se não existir, será preciso criar uma nova, com uma boa descrição da sugestão de mudança em [_Nova_Issue_](https://github.com/fga-eps-mds/2022-1-CAPJu-Doc/issues/new/) e um título de fácil entendimento.
+2. Se não existir, será preciso criar uma nova, com uma boa descrição da sugestão de mudança em [_Nova Issue_](https://github.com/fga-eps-mds/2022-1-CAPJu-Doc/issues/new/) e um título de fácil entendimento.
 
 3. As suas mudanças devem ser submetidas por meio de [_Pull Requests_](https://github.com/fga-eps-mds/2022-1-CAPJu-Doc/pulls), que conta com um [_Template_](https://github.com/fga-eps-mds/2022-1-CAPJu-Doc/blob/main/.github/pull_request_template.md).
 
-# Política de _Commits_
+## Política de _Commits_
 
 ### Mensagem do _Commit_
 
 A descrição dos _commits_ devem está em **português** e devem ser sucintas e objetivas, representando claramente o que está sendo alterado naquele _commit_. A mensagem deve estar acompanhada do número da _issue_ relacionada, como no exemplo abaixo:
 
-> `git commit -m'#X my message'`
+> `git commit -m'X-Mensagem'`
 
 __Onde X representa o número da _issue_ relacionada.__
 
@@ -33,7 +43,7 @@ Quando houver pareamento o _commit_ deve vir acompanhado da mensagem: `Co-author
 1. Inserir a descrição do _commit_ na primeira linha
 1. Na linha seguinte inserir a mensagem `Co-authored-by: CoAuthorName <coauthoremail@mail.com>`, com os respectivos dados do co-autor.
 
-# Política de _Branches_
+## Política de _Branches_
 
 Objetivando manter a confiabilidade do código fonte do nosso produto, propõe-se o uso de uma política de branches para orientar os desenvolvedores no modo de organização das suas contribuições neste repositório. Assim, estabelecemos:
 
