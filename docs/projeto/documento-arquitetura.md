@@ -109,7 +109,9 @@ A camada **Controller** será responsável por intermediar as requisições envi
 
 # 5. Visão de implementação 
 
+## 5.1 Diagrama de Classes
 
+![Diagrama de Classes](https://i.imgur.com/MACcrVs.png)
 
 # 6 Referências
 
@@ -142,3 +144,4 @@ Express.js. Wikipedia. Disponível em: <https://pt.wikipedia.org/wiki/Express.js
 | 31/07/2022  | 0.6| Adicionando o tópico de Metas e Restrições da Arquitetura | Nathalia |
 | 31/07/2022  | 0.7| Adicionando o tópico de Visão Lógica | Nathalia |
 | 31/07/2022  | 0.8| Criando o tópico de Visão de Implementação e Adicionando Referências | Nathalia |
+| 31/07/2022  | 0.9| Adicionando imagem no tópico de Visão de Implementação | Nathalia |
