@@ -4,7 +4,9 @@
   - [Custo](planejamento/planejamento-de-custo.md)
   - [Riscos](planejamento/planejamento-de-riscos.md)
   - [Tempo](planejamento/planejamento-de-tempo.md)
+  - [Qualidade](planejamento/planejamento-de-qualidade.md)
   - [Treinamentos](planejamento/treinamentos.md)
+
 
 - Projeto
 
