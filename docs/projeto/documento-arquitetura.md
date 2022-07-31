@@ -83,6 +83,9 @@ MongoDB é um software de banco de dados orientado a documentos livres, de códi
 ## 3.2 Restrições
 
 * Depende de uma conexão com a internet
+* Possuir conexão com a API;
+* Possuir conexão com o Banco de Dados;
+
 
 # 4. Visão Lógica
 
