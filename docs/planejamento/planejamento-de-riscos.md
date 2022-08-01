@@ -90,6 +90,11 @@ E para registrar um risco foi decidio utilizar o seguinte formato:
 - **Impacto**: define qual o grau de impacto da ocorrência do risco no projeto.
 - **Categoria**: é determinada pela categoria segundo os tipos definidos
 
+### Matriz de riscos
+
+Foi utilizado a seguinte planilha para o gerenciamento dos Riscos
+![matrix-risk](https://i.imgur.com/XgRpEhO.png)
+
 ## Levantamento dos Riscos
 
 | ID  | Descrição                                       | Causa                                                        | Consequência                     | Categoria           | Impacto    | Probabilidade |
