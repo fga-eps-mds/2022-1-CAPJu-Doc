@@ -7,16 +7,14 @@
   - [Qualidade](planejamento/planejamento-de-qualidade.md)
   - [Treinamentos](planejamento/treinamentos.md)
 
-
 - Projeto
 
+  - [Termo de Abertura do Projeto](projeto/termo-de-abertura-do-projeto.md)
   - [Lean Inception](projeto/lean-inception.md)
-  - [Roadmap](projeto/roadmap.md)
   - [Quadro de Conhecimentos](projeto/quatro-de-conhecimentos.md)
   - [Prototipação](projeto/prototipos.md)
   - [Documento de Arquitetura](projeto/documento-arquitetura.md)
   - [Identidade Visual](projeto/identidade-visual.md)
-
 
 - [Atividades](gerencia/atividades/atividades.md)
 

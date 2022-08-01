@@ -12,7 +12,7 @@ Esse documento visa descrever os custos gerados para ao decorrer do desenvolvime
 | Data | Versão | Descrição | Autor(es) |
 | ---------- | ------ | --------------------- | -------------------------------------------- |
 | 22/06/2022 | 0.1 | Criação da Planilha | Aquiles, Francsico, Nathalia, Maicon, Arthur |
-| 30/07/2022 | 0.1 | Adição a documentação | Aquiles, Francsico, Nathalia, Maicon, Arthur |
+| 30/07/2022 | 0.2 | Adição a documentação | Aquiles, Francsico, Nathalia, Maicon, Arthur |
 
 > PMI. Um guia do conhecimento em gerenciamento de projetos. Guia PMBOK 5a. ed. - EUA: Project Management Institute, 2013.
 
