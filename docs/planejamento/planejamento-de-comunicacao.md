@@ -2,7 +2,7 @@
 
 ## Introdução
 
- O plano de Comunicação é uma estratégia para quais inclui os processos necessários para assegurar que as informações do projeto sejam planejadas, coletadas, criadas, distribuídas, armazenadas, recuperadas,gerenciadas, controladas, monitoradas e finalmente dispostas de maneira oportuna e apropriada.
+O plano de Comunicação é uma estratégia para quais inclui os processos necessários para assegurar que as informações do projeto sejam planejadas, coletadas, criadas, distribuídas, armazenadas, recuperadas,gerenciadas, controladas, monitoradas e finalmente dispostas de maneira oportuna e apropriada.
 
 ### Ferramentas
 
@@ -19,20 +19,17 @@ Posteriormente ao contato inicial entre os envolvidos do projeto, foi estabeleci
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRYiiiXPkLrwOKSVktfTpl_sa7QgY_pH0F15D5nPAfTpHghgIPZpipEDTho5Yx4itKEn9q6ay-OvcrS/pubhtml?gid=96807035&amp;single=true&amp;widget=true&amp;headers=false" width = "100%" height = "300 "></iframe>
 
-
 - Sprint reviews e plannings: Todas as terças-feiras das 22h às 00h.
 - Reunião com os stakeholders: Todas as quartas-feiras das 13h às 14h.
 
-
 **Histórico de Versão**
 
-| Data       | Versão | Descrição                      | Autor(es)                  |
-| ---------- | ------ | ------------------------------ | -------------------------- |
-| 13/07/2022 | 0.1    | Criação do plano de comuicação | Francisco, Philipe, Hellen |
+| Data       | Versão | Descrição                                                        | Autor(es)                  |
+| ---------- | ------ | ---------------------------------------------------------------- | -------------------------- |
+| 13/07/2022 | 0.1    | Criação do plano de comuicação                                   | Francisco, Philipe, Hellen |
 | 13/07/2022 | 0.2    | Adicionado a introdução e listando as ferramentas de comunicação | Francisco, Philipe, Hellen |
-| 15/07/2022 | 0.3    | Adicionado algumas imagens e revisando | Francisco, Philipe, Hellen |
-| 16/07/2022 | 0.4    | Revisão no documento | Francisco, Philipe, Hellen |
-
+| 15/07/2022 | 0.3    | Adicionado algumas imagens e revisando                           | Francisco, Philipe, Hellen |
+| 16/07/2022 | 0.4    | Revisão no documento                                             | Francisco, Philipe, Hellen |
 
 ## Referências
 
