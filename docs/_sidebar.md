@@ -1,6 +1,6 @@
 - Planejamento
 
-  - [EAP](docs/planejamento/eap.md) 
+  - [EAP](planejamento/eap.md) 
   - [Comunicação](planejamento/planejamento-de-comunicacao.md)
   - [Custo](planejamento/planejamento-de-custo.md)
   - [Riscos](planejamento/planejamento-de-riscos.md)

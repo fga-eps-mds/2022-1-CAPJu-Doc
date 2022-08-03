@@ -6,11 +6,13 @@ Esse documento visa descrever os custos gerados para ao decorrer do desenvolvime
 
 # Planilha de Custos Gerais
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRSYpnvGF55QKW97awFou9gZBMk7eK697RVQYc2uyuA4My4wMGxdGfFSkkI0_pFUmxBkAb404Vb7-hy/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRSYpnvGF55QKW97awFou9gZBMk7eK697RVQYc2uyuA4My4wMGxdGfFSkkI0_pFUmxBkAb404Vb7-hy/pubhtml?widget=true&amp;headers=false" height="1000" ></iframe>
+
 
 **Histórico de Versão**
-| Data | Versão | Descrição | Autor(es) |
-| ---------- | ------ | --------------------- | -------------------------------------------- |
+
+| Data       | Versão | Descrição               | Autor(es)                                    |
+| ---------- | ------ | ----------------------- | -------------------------------------------- |
 | 22/06/2022 | 0.1 | Criação da Planilha | Aquiles, Francsico, Nathalia, Maicon, Arthur |
 | 30/07/2022 | 0.2 | Adição a documentação | Aquiles, Francsico, Nathalia, Maicon, Arthur |
 
