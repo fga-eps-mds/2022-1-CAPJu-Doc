@@ -65,7 +65,7 @@ O vídeo completo do treinamento pode ser encontrado em: [Assistir](https://driv
 
 ---
 
-## Git
+## Git/GitHub
 
 **Responsáveis**: [Francisco Heronildo](https://github.com/FranciscoHeronildo)
 
@@ -86,7 +86,7 @@ Além disso, foi proposto um desafio para fixaxão do conteúdo apresentado, des
 
 ### Apresentação
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTeIX7WsM4dDkb1NRWs_SA0XwCl5JayuRPYDC0hQE69zWoSA8Y23w4Ite1LsU5qQw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1920" height="1109" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTeIX7WsM4dDkb1NRWs_SA0XwCl5JayuRPYDC0hQE69zWoSA8Y23w4Ite1LsU5qQw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 E a seguir estão algum dos comandos apresentados e uma breve descrição de cada.
 
@@ -170,7 +170,7 @@ Para inserir todos os arquivos modificados
 
 ---
 
-## Ágil
+## Desenvolvimento Ágil
 
 ### Descrição
 

@@ -1,4 +1,4 @@
-# Plano de Comunicação
+# Planejamento de Comunicação
 
 ## Introdução
 

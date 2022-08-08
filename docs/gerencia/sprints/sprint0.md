@@ -48,7 +48,3 @@ Essa sprint trata-se de inagural tem como objetivo documentar algums artefatos e
 ## 1. Conclusão
 
 A Sprint mesmo com algumas tarefas incompletas obteve resultados produtivos em seus pareamentos.
-
-## 2. Quadro de Conhecimento
-
-<!-- Adicionar o quadro de conhecimentos atualizados da equipe -->

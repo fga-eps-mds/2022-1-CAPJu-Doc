@@ -1,21 +1,8 @@
 # CAPJu
 
-Documentação sobre o projeto CAPJu, destinado à 4ª vara cível da Justiça Federal.
+## Sobre projetos
 
-O CAPJu é um sistema web feito com o propósito de auxiliar a gerência de fluxos de processos da Justiça.
-
-## Repositórios
-
-- [Service](https://github.com/fga-eps-mds/2022-1-CAPJu-Service)
-- [Interface](https://github.com/fga-eps-mds/2022-1-CAPJu-Interface)
-
-## Contribuição
-
-Certifique-se de ler o [Guia de Contribuição](https://github.com/fga-eps-mds/2022-1-CAPJu-Doc/blob/main/.github/CONTRIBUTING.md)!
-
-## Licença
-
-[MIT Lincese](https://github.com/fga-eps-mds/2022-1-CAPJu-Doc/blob/main/LICENSE)
+O CAPJu é abrevisaão para _Controle e Acompanhamento de Processos da Justiça_, e trata-se de um sistema Web feito com o propósito de auxiliar a gerência de fluxos de processos da Justiça.
 
 ## Contribuidores
 
@@ -114,3 +101,17 @@ Certifique-se de ler o [Guia de Contribuição](https://github.com/fga-eps-mds/2
   </div>
 
 </div>
+
+## Repositórios
+
+- [User](https://github.com/fga-eps-mds/2022-1-CAPJu-User)
+- [Service](https://github.com/fga-eps-mds/2022-1-CAPJu-Service)
+- [Interface](https://github.com/fga-eps-mds/2022-1-CAPJu-Interface)
+
+## Contribuição
+
+Certifique-se de ler o [Guia de Contribuição](https://github.com/fga-eps-mds/2022-1-CAPJu-Doc/blob/main/.github/CONTRIBUTING.md)!
+
+## Licença
+
+[MIT Lincese](https://github.com/fga-eps-mds/2022-1-CAPJu-Doc/blob/main/LICENSE)
