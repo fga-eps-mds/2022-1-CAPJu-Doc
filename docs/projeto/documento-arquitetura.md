@@ -51,10 +51,6 @@ Jest é um framework de teste em JavaScript projetado para garantir a correção
 
 Styled-components é uma biblioteca para React e React Native que permite que você use estilos ao nível de componente na sua aplicação. Eles são escritos em uma mistura de JavaScript com CSS.
 
-### Docker
-
-Docker é um conjunto de produtos de plataforma como serviço que usam virtualização de nível de sistema operacional para entregar software em pacotes chamados contêineres. Os contêineres são isolados uns dos outros e agrupam seus próprios softwares, bibliotecas e arquivos de configuração.
-
 ### NodeJs
 
 Node.js é um software de código aberto, multiplataforma, baseado no interpretador V8 do Google e que permite a execução de códigos JavaScript fora de um navegador web.
@@ -89,7 +85,9 @@ MongoDB é um software de banco de dados orientado a documentos livres, de códi
 
 ## 4.1 Visão Geral
 
-![CAPJu](https://i.imgur.com/M8w2uwA.png)
+![CAPJu](../assets/Arquitetura/arquitetura.png)
+
+O servidor é dividido em dois microsserviços, um para a gerência de perfis e usuários e outro para a gerência de fluxos e processos. Cada um conectando-se ao mesmo banco de dados e executando em nodeJs com expressJs.
 
 O projeto CAPJu utiliza uma arquitetura **MVC** que é uma sigla do termo em inglês Model (modelo) View (visão) e Controller (Controle), este modelo facilita a troca de informações entre a interface do usuário e dados no banco, fazendo com que as respostas sejam mais rápidas e dinâmicas.
 
@@ -105,7 +103,7 @@ A camada **Controller** será responsável por intermediar as requisições envi
 
 ![Frontend](https://i.imgur.com/RDxTSwK.png)
 
-### Backend
+### Backend (Ambos Service e User)
 
 ![Backend](https://i.imgur.com/LGhP9rk.png)
 
@@ -113,7 +111,7 @@ A camada **Controller** será responsável por intermediar as requisições envi
 
 ## 5.1 Diagrama de Classes
 
-![Diagrama de Classes](https://i.imgur.com/MACcrVs.png)
+![Diagrama de Classes](../assets/Arquitetura/classes.png)
 
 # 6 Referências
 
@@ -129,20 +127,19 @@ Jest. Jest. Página inicial. Disponível em: <https://jestjs.io/pt-BR/>. Acesso 
 
 React. React. Página inicial. Disponível em: <https://pt-br.reactjs.org/>. Acesso em: 25 de jul. de 2022.
 
-Docker (Software). Wikipedia. Disponível em: <https://pt.wikipedia.org/wiki/Docker_(software)>. Acesso em: 25 de jul. de 2022.
-
 Express.js. Wikipedia. Disponível em: <https://pt.wikipedia.org/wiki/Express.js>. Acesso em: 25 de jul. de 2022.
 
 # Histórico de versões
 
-| Data       | Versão | Descrição                                                            | Autor                   |
-| ---------- | ------ | -------------------------------------------------------------------- | ----------------------- |
-| 26/07/2022 | 0.1    | Adicionando o tópico de Introdução e Objetivo                        | Pedro, Pablo e Nathalia |
-| 26/07/2022 | 0.2    | Adicionando o tópico de Escopo                                       | Pedro, Pablo e Nathalia |
-| 31/07/2022 | 0.3    | Adicionando o tópico de Definições, acrônimos e abreviações          | Nathalia                |
-| 31/07/2022 | 0.4    | Adicionando o tópico de Visão Geral                                  | Nathalia                |
-| 31/07/2022 | 0.5    | Adicionando o tópico de Representação da Arquitetura                 | Nathalia                |
-| 31/07/2022 | 0.6    | Adicionando o tópico de Metas e Restrições da Arquitetura            | Nathalia                |
-| 31/07/2022 | 0.7    | Adicionando o tópico de Visão Lógica                                 | Nathalia                |
-| 31/07/2022 | 0.8    | Criando o tópico de Visão de Implementação e Adicionando Referências | Nathalia                |
-| 31/07/2022 | 0.9    | Adicionando imagem no tópico de Visão de Implementação               | Nathalia                |
+| Data       | Versão | Descrição                                                                   | Autor                   |
+| ---------- | ------ | --------------------------------------------------------------------------- | ----------------------- |
+| 26/07/2022 | 0.1    | Adicionando o tópico de Introdução e Objetivo                               | Pedro, Pablo e Nathalia |
+| 26/07/2022 | 0.2    | Adicionando o tópico de Escopo                                              | Pedro, Pablo e Nathalia |
+| 31/07/2022 | 0.3    | Adicionando o tópico de Definições, acrônimos e abreviações                 | Nathalia                |
+| 31/07/2022 | 0.4    | Adicionando o tópico de Visão Geral                                         | Nathalia                |
+| 31/07/2022 | 0.5    | Adicionando o tópico de Representação da Arquitetura                        | Nathalia                |
+| 31/07/2022 | 0.6    | Adicionando o tópico de Metas e Restrições da Arquitetura                   | Nathalia                |
+| 31/07/2022 | 0.7    | Adicionando o tópico de Visão Lógica                                        | Nathalia                |
+| 31/07/2022 | 0.8    | Criando o tópico de Visão de Implementação e Adicionando Referências        | Nathalia                |
+| 31/07/2022 | 0.9    | Adicionando imagem no tópico de Visão de Implementação                      | Nathalia                |
+| 10/08/2022 | 1.0    | Atualizando documentação de acordo com a nova arquitetura de microsserviços | Arthur Paiva            |
