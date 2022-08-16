@@ -6,25 +6,20 @@
 
 | Início | Fim   |
 | ------ | ----- |
-| 09/08  | 16/08 |
+| 02/08  | 09/08 |
 
 ## 2. Objetivos da Sprint
 
-Após a entrega da primeira Realese e a alteração da Arquitera e a refatoração das histórias de usuário que estavam de forma micro deixando muita dependencia. Assim iniciamos a terceira sprint, que tem como o objetivo a implementação das historias de usuários 1,2,6,8 e correções de alguns artefatos.
+Essa sprint tem como finalidade corrigir a arquitetura do projeto, iniciar a correço de alguns artefatos, refatoração das US's e MDS's testar as funcionalidades implementadas que não foram testadas.
 
 ## 3. Issues
 
-| Issues | Descrição                                                                         | Responsáveis                  | Status | Observação |
-| ------ | --------------------------------------------------------------------------------- | ----------------------------- | ------ | ---------- |
-| #68    | US01 - Manter Processos                                                           | Luciano,Lucas Lopes,Aquiles   |        |            |
-| #69    | US02 - Gerenciar autenticação                                                     | Hellen,Nathalia,Arthur        |        |            |
-| #79    | US06 - Manter fluxos                                                              | Philipe,Pablo,Francisco       |        |            |
-| #105   | US08 - Manter Etapas                                                              | Lucas Caldas, Gabriel, Maicon |        |            |
-| #128   | Correção de Artefatos                                                             | Nathalia,Francisco,Arthur     |        |            |
-| -      | EVM                                                                               | Todos EPS                     |        |            |
-| -      | Formulario de Teste de Aceitação                                                  | Todos EPS                     |        |            |
-| -      | Adequação das Funcionalidas já Implementadas(Testes e Resposividades no Frontend) | -                             |
+| Issues | Descrição | Responsáveis | Status | Observação |
+| ------ | --------- | ------------ | ------ | ---------- |
+|        |           |              |        |            |
 
 # Review
 
 ## Conclusão
+
+A arquitetura do projeto foi alterada para micro-serviço possuindo um serviço para os processos e fluxos e outro para os usuários, os artefatos foram iniciados suas correções e MDS ainda com bastante dificuldade.

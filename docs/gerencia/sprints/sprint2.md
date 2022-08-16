@@ -10,7 +10,7 @@
 
 ## 2. Objetivos da Sprint
 
-Essa sprint tem a finalidade de terminar todas as tarefas pendentes para a finalização da Realese 1 e alguns ajustes da documentação
+Essa sprint tem a finalidade de terminar todas as tarefas pendentes para a finalização da Realese 1 e alguns ajustes da documentação.
 
 ## 3. Issues
 
@@ -37,8 +37,22 @@ Essa sprint tem a finalidade de terminar todas as tarefas pendentes para a final
 | #32    | Orquestração das Pipeles            | Arthur, Aquiles                 | Finalizada |
 | -      | Realese 1                           | Todos                           | Finalizada | Apresentação ocorrerá no dia 03/08                |
 
+## 4. Planning Poker
+
+| US  | Pontuação |
+| --- | --------- |
+| 01  | 05        |
+| 02  | 03        |
+| 03  | 03        |
+| 04  | 05        |
+| 05  | 05        |
+| 07  | 08        |
+| 15  | 13        |
+| 16  | 08        |
+| 17  | 13        |
+
 # Review
 
 ## Conclusão
 
-OS documentos de gestão foram finalizados com exetito , a equipe formada pelo alunos da disciplina de MDS ainda continuam com dificuldades, então os alunos de EPS tomaram algums responsabilidades de desenvolvimento para a finalização das US's
+Os documentos de gestão foram finalizados com êxito , a equipe formada pelo alunos da disciplina de MDS ainda continuam com dificuldades, então os alunos de EPS tomaram algums responsabilidades de desenvolvimento para a finalização das US's.
