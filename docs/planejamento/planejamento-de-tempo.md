@@ -1,4 +1,4 @@
-# Plano de Tempo
+# Planejamento de Tempo
 
 ## Introdução
 
@@ -31,7 +31,8 @@ Para definição e planejamento das atividades decidimos pela utilização da t�
 - Realizada: se foi entregue.
 - Custo total (planejado): custo que leva em conta o custo da hora estimado por pessoa, o número de integrantes envolvidos e total de horas planejadas.
 - Custo total (real): custo que leva em conta o custo da hora estimado por pessoa, o número de integrantes envolvidos e total de horas realmente gastos.
-<!-- 
+
+<!--
 A seguir se encontra a planilha dinâmica com todas as atividades definidas e estimadas por semana, na qual as atividades são atualizadas a cada semana. A sequência das atividades foi feita com base no Gráfico de Gantt, mas adaptada.
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTnVQ2fXbtENoLlmsAK50Iwza4HCtssgZ7x3kO1L_SOF3OWhexchKkFk5tQVJa0cw/pubhtml?widget=true&amp;headers=false" width="100%" height="480px" style="min-width: 640px; min-height: 480px; background-color: #f4f4f4; border: 1px solid #efefef;"></iframe>
@@ -56,9 +57,3 @@ As estimativas das atividades foram realizadas em minutos a fim de simplificar a
 ## Referências
 
 > PMI. Um guia do conhecimento em gerenciamento de projetos. Guia PMBOK 5a. ed. - EUA: Project Management Institute, 2013.
-
-> Apuração do Custo do Ensino e do Custo Aluno, segundo a Metodologia de Apuração desenvolvida pela UnB. Disponível: https://www.dpo.unb.br/images/phocadownload/documentosdegestao/relatoriogestao/2015/Apurao_do_Custo_do_Ensino_e_do_Custo_Aluno.pdf.
-
-> TABELA DE TARIFAS DE ENERGIA ELÉTRICA. Disponível em: https://www.neoenergiabrasilia.com.br/residencial-e-rural/Documents/2022-04-tarifas-abril/Grupo-B.pdf.
-
-> Notebooks para Lenovo . Disponível: https://www.lenovo.com/br/pt/d/promocoes

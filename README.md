@@ -6,13 +6,14 @@
 
 ## Sobre projetos
 
-O CAPJu é abrevisaão para _Controle e Acompanhamento de Processos da Justiça_, que trata-se de uma aplicação que
+O CAPJu é abreviação para _Controle e Acompanhamento de Processos da Justiça_, que trata-se de uma aplicação que
 tem como objetivo gerência os processos da Justiça Federal.
 
 ## Repositórios
 
+- [User](https://github.com/fga-eps-mds/2022-1-CAPJu-User)
 - [Service](https://github.com/fga-eps-mds/2022-1-CAPJu-Service)
-- [Interface](https://github.com/fga-eps-mds/2022-1-CAPJu-Interface/)
+- [Interface](https://github.com/fga-eps-mds/2022-1-CAPJu-Interface)
 
 ## Rodando a Documentação Localmente
 
@@ -48,7 +49,6 @@ Certifique-se de ler o [Guia de Contribuição](https://github.com/fga-eps-mds/2
 | MDS        | 170142434 | Gabriel Araújo      | [GabrielGaba](https://github.com/GabrielGaba)               |
 | MDS        | 180126130 | Luciano Alves       | [githubviramundo](https://github.com/githubviramundo)       |
 | MDS        | 200042416 | Pablo Christianno   | [PabloChristianno](https://github.com/PabloChristianno)     |
-| MDS        | 200026151 | Pedro Henrique      | [PedroHhenriq](https://github.com/PedroHhenriq)             |
 | MDS        | 190091606 | Lucas Caldas        | [lucascaldasb](https://github.com/lucascaldasb)             |
 | EPS        | 160006210 | Francisco Heronildo | [FranciscoHeronildo](https://github.com/FranciscoHeronildo) |
 | EPS        | 140156909 | Nathalia Lorena     | [Natilorens](https://github.com/Natilorens)                 |

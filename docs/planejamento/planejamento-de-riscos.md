@@ -1,4 +1,4 @@
-# Gerenciamento de Riscos
+# Planejamento de Gerenciamento de Riscos
 
 ## Objetivos
 
@@ -93,42 +93,25 @@ E para registrar um risco foi decidio utilizar o seguinte formato:
 ### Matriz de riscos
 
 Foi utilizado a seguinte planilha para o gerenciamento dos Riscos
+
 ![matrix-risk](https://i.imgur.com/XgRpEhO.png)
 
 ## Levantamento dos Riscos
 
-| ID  | Descrição                                       | Causa                                                        | Consequência                     | Categoria           | Impacto    | Probabilidade |
-| --- | ----------------------------------------------- | ------------------------------------------------------------ | -------------------------------- | ------------------- | ---------- | ------------- |
-| 1   | Membros abandonarem a disciplina                | Problemas Pessoais                                           | Sobrecarga da Equipe             | Externo             | Alto       | Média         |
-| 2   | Fechamento da Universidade                      | Aumento da Transmissão de COVID-19/Varíola dos Macacos Greve | Cancelamento do Projeto          | Externo             | Muito Alto | Média         |
-| 3   | Mudanças de Tecnologias                         | Inexperiência da Equipe                                      | Atraso do Projeto                | Tecnologia          | Alto       | Baixa         |
-| 4   | Mudança de escopo                               | Entendimento Errado do Projeto                               | Atraso na Entrega das Atividades | Técnico             | Alto       | Média         |
-| 5   | Má gerência da comunicação da equipe            | Inexperiência da Equipe                                      | Sobrecarga de Membros            | Gerência de projeto | Alto       | Alto          |
-| 6   | Planejamento de tempo feito de forma equivocada | Inexperiência da Equipe                                      | Atraso do Projeto                | Gerência de projeto | Alto       | Média         |
-| 7   | Falta de Compromisso dos Membros                | Baixa Produtividade dos Integrantes                          | Atraso no Cronograma             | Organizacional      | Alto       | Média         |
-| 8   | Diferença de horários entre membro              | Problemas Pessoais                                           | Atraso na entrega das Atividades | Organizacional      | Alto       | Média         |
-| 9   | Problemas com Estações de Trabalho              | Estação de Trabalho com Defeito                              | Atraso no Cronograma             | Externos            | Média      | Baixa         |
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT2-ts9rrVCGfNwuryENgQ94ORbEue7M64-PBS4gDV1pTS9ijblNszi4Ice1ZqSL2rtUae6ClcM4ilA/pubhtml?widget=true&amp;headers=false" height="400px" width="1000px"></iframe>
 
-## Respostas aos Riscos
+## Respostas aos riscos
 
-| ID  | Respostas                                                                                                                                                                                                                                                                           |
-| --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | Adequação do Backlog com redução do escopo, compensar horas do membro entre o restante da equipe.                                                                                                                                                                                   |
-| 2   | Se possível continuar, estruturar o desenvolvimento do projeto de maneira remota.                                                                                                                                                                                                   |
-| 3   | Equipe de EPS deve intervir e realizar a migração do que foi desenvolvido até o momento para as tecnologias aderentes ao projeto a fim de minimizar o atraso no desenvolvimento.                                                                                                    |
-| 4   | Reunir e alinhar a Visão do Produto com toda a equipe em conjunto, se necessário validar novamente com o cliente.                                                                                                                                                                   |
-| 5   | Pedir para que o membro explique com suas palavras o seu entendimento a fim de confirmar a corretude da comunicação. Modificar estratégias de comunicação, realizar mais encontros presenciais, criar canais de comunicação anônimos para que todos possam se expressar livremente. |
-| 6   | Estudar metodologias que auxiliem nas estimativas e buscar entender o ritmo de cada membro a fim de planejar o tempo mais próximo do real.                                                                                                                                          |
-| 7   | Conversar constantemente com os membros da equipe, buscar estratégias de motivação, ou gamificação para aumentar o engajamento dos membros, buscar estratégias como quadros de humor para acompanhar o bem estar da equipe.                                                         |
-| 8   | Adequa os horários de acordo com o horário estabelecido no mapa de horário criado no início do projeto.                                                                                                                                                                             |
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQfpSL-0CmHapTdqDO9IrMqb8u2l48zIvK0Z-5Ha5Pz-PfkPUsx3pwCiKJu3FTXe6ppxoiopapcEWkk/pubhtml?widget=true&amp;headers=false" height="400px" width="1000px"></iframe>
 
 **Histórico de Versão**
 
-| Data       | Versão | Descrição               | Autor(es)                                    |
-| ---------- | ------ | ----------------------- | -------------------------------------------- |
-| 26/07/2022 | 0.1    | Criação do documento    | Francisco                                    |
-| 27/07/2022 | 0.2    | Levantamento dos Riscos | Aquiles, Francsico, Nathalia, Maicon, Arthur |
-| 28/07/2022 | 0.3    | Respostas aos Riscos    | Aquiles, Francsico, Nathalia, Maicon, Arthur |
+| Data       | Versão | Descrição                          | Autor(es)                                    |
+| ---------- | ------ | ---------------------------------- | -------------------------------------------- |
+| 26/07/2022 | 0.1    | Criação do documento               | Francisco                                    |
+| 27/07/2022 | 0.2    | Levantamento dos Riscos            | Aquiles, Francisco, Nathalia, Maicon, Arthur |
+| 28/07/2022 | 0.3    | Respostas aos Riscos               | Aquiles, Francisco, Nathalia, Maicon, Arthur |
+| 07/08/2022 | 0.4    | Trocando tabelas fixas por iframes | Francisco                                    |
 
 ## Referências
 
