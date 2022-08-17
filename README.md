@@ -6,7 +6,7 @@
 
 ## Sobre projetos
 
-O CAPJu é abrevisão para _Controle e Acompanhamento de Processos da Justiça_, que trata-se de uma aplicação que
+O CAPJu é abreviação para _Controle e Acompanhamento de Processos da Justiça_, que trata-se de uma aplicação que
 tem como objetivo gerência os processos da Justiça Federal.
 
 ## Repositórios
