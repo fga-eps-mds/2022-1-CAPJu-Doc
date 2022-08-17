@@ -16,10 +16,10 @@ Após a entrega da primeira Realese e a alteração da arquitera e a refatoraç�
 
 | Issues | Descrição                                                                         | Responsáveis                  | Status | Observação |
 | ------ | --------------------------------------------------------------------------------- | ----------------------------- | ------ | ---------- |
-| #68    | US01 - Manter Processos                                                           | Luciano,Lucas Lopes,Aquiles   |        |            |
-| #69    | US02 - Gerenciar autenticação                                                     | Hellen,Nathalia,Arthur        |        |            |
-| #79    | US06 - Manter fluxos                                                              | Philipe,Pablo,Francisco       |        |            |
-| #105   | US08 - Manter Etapas                                                              | Lucas Caldas, Gabriel, Maicon |        |            |
+| #68    | US01 - Manter Processos               | Luciano,Lucas Lopes,Aquiles   | Não finalizada       |            |
+| #69    | US02 - Gerenciar autenticação | Hellen,Nathalia,Arthur        |  Não finalizada |            |
+| #79    | US06 - Manter fluxos    | Philipe,Pablo,Francisco       |  Não finalizada      |            |
+| #105   | US08 - Manter Etapas    | Lucas Caldas, Gabriel, Maicon |    finalizada    |            |
 | #128   | Correção de Artefatos                                                             | Nathalia,Francisco,Arthur     |        |            |
 | -      | EVM                                                                               | Todos EPS                     |        |            |
 | -      | Formulario de Teste de Aceitação                                                  | Todos EPS                     |        |            |
