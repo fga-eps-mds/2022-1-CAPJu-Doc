@@ -113,6 +113,10 @@ A camada **Controller** será responsável por intermediar as requisições envi
 
 ![Diagrama de Classes](../assets/Arquitetura/classes.png)
 
+# 5.2 Diagrama de Dados
+
+![Diagrama de Dados](https://i.imgur.com/NCQ4HjH.png)
+
 # 6 Referências
 
 Marcio. Padrão MVC - Java Magazine. Devmedia, 2011. Disponível em: <https://www.devmedia.com.br/padrao-mvc-java-magazine/21995>. Acesso em: 25 de jul. de 2022.
@@ -131,15 +135,16 @@ Express.js. Wikipedia. Disponível em: <https://pt.wikipedia.org/wiki/Express.js
 
 # Histórico de versões
 
-| Data       | Versão | Descrição                                                                   | Autor                   |
-| ---------- | ------ | --------------------------------------------------------------------------- | ----------------------- |
-| 26/07/2022 | 0.1    | Adicionando o tópico de Introdução e Objetivo                               | Pedro, Pablo e Nathalia |
-| 26/07/2022 | 0.2    | Adicionando o tópico de Escopo                                              | Pedro, Pablo e Nathalia |
-| 31/07/2022 | 0.3    | Adicionando o tópico de Definições, acrônimos e abreviações                 | Nathalia                |
-| 31/07/2022 | 0.4    | Adicionando o tópico de Visão Geral                                         | Nathalia                |
-| 31/07/2022 | 0.5    | Adicionando o tópico de Representação da Arquitetura                        | Nathalia                |
-| 31/07/2022 | 0.6    | Adicionando o tópico de Metas e Restrições da Arquitetura                   | Nathalia                |
-| 31/07/2022 | 0.7    | Adicionando o tópico de Visão Lógica                                        | Nathalia                |
-| 31/07/2022 | 0.8    | Criando o tópico de Visão de Implementação e Adicionando Referências        | Nathalia                |
-| 31/07/2022 | 0.9    | Adicionando imagem no tópico de Visão de Implementação                      | Nathalia                |
-| 10/08/2022 | 1.0    | Atualizando documentação de acordo com a nova arquitetura de microsserviços | Arthur Paiva            |
+| Data       | Versão | Descrição                                                                   | Autor                                        |
+| ---------- | ------ | --------------------------------------------------------------------------- | -------------------------------------------- |
+| 26/07/2022 | 0.1    | Adicionando o tópico de Introdução e Objetivo                               | Pedro, Pablo e Nathalia                      |
+| 26/07/2022 | 0.2    | Adicionando o tópico de Escopo                                              | Pedro, Pablo e Nathalia                      |
+| 31/07/2022 | 0.3    | Adicionando o tópico de Definições, acrônimos e abreviações                 | Nathalia                                     |
+| 31/07/2022 | 0.4    | Adicionando o tópico de Visão Geral                                         | Nathalia                                     |
+| 31/07/2022 | 0.5    | Adicionando o tópico de Representação da Arquitetura                        | Nathalia                                     |
+| 31/07/2022 | 0.6    | Adicionando o tópico de Metas e Restrições da Arquitetura                   | Nathalia                                     |
+| 31/07/2022 | 0.7    | Adicionando o tópico de Visão Lógica                                        | Nathalia                                     |
+| 31/07/2022 | 0.8    | Criando o tópico de Visão de Implementação e Adicionando Referências        | Nathalia                                     |
+| 31/07/2022 | 0.9    | Adicionando imagem no tópico de Visão de Implementação                      | Nathalia                                     |
+| 10/08/2022 | 1.0    | Atualizando documentação de acordo com a nova arquitetura de microsserviços | Arthur Paiva                                 |
+| 22/08/2022 | 1.1    | Adicionado o diagrama de dados ao documento                                 | Francisco, Aquiles, Arthur, Nathalia, Maicon |
