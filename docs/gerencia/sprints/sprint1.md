@@ -37,4 +37,4 @@ Essa sprint tem como objetivo iniciarmos a codificar as US01 e US07 e também fi
 
 ## 1. Conclusão
 
-A sprint não teve conclusão pois teve muitas atividades imcompletas, isso é notável a falta de planejamento
+A sprint não teve conclusão pois teve muitas atividades incompletas

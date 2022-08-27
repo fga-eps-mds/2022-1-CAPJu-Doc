@@ -2,9 +2,10 @@
 
   - [EAP](planejamento/eap.md)
   - [Comunicação](planejamento/planejamento-de-comunicacao.md)
-  - [Custo](planejamento/planejamento-de-custo.md)
-  - [Riscos](planejamento/planejamento-de-riscos.md)
   - [Tempo](planejamento/planejamento-de-tempo.md)
+  - [Riscos](planejamento/planejamento-de-riscos.md)
+  - [Custo](planejamento/planejamento-de-custo.md)
+  - [EVM](planejamento/evm.md)
   - [Qualidade](planejamento/planejamento-de-qualidade.md)
   - [Treinamentos](planejamento/treinamentos.md)
 
@@ -31,6 +32,7 @@
     - [Sprint 3](gerencia/sprints/sprint3.md)
     - [Sprint 4](gerencia/sprints/sprint4.md)
     - [Sprint 5](gerencia/sprints/sprint5.md)
+    - [Sprint 6](gerencia/sprints/sprint6.md)
 
 - ➢ **Guias**
   - [Guia de Contribuição](gerencia/guia-de-contribuicao/guia-de-contribuicao.md)
