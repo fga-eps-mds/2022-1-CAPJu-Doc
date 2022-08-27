@@ -32,6 +32,7 @@
     - [Sprint 3](gerencia/sprints/sprint3.md)
     - [Sprint 4](gerencia/sprints/sprint4.md)
     - [Sprint 5](gerencia/sprints/sprint5.md)
+    - [Sprint 6](gerencia/sprints/sprint6.md)
 
 - ➢ **Guias**
   - [Guia de Contribuição](gerencia/guia-de-contribuicao/guia-de-contribuicao.md)
