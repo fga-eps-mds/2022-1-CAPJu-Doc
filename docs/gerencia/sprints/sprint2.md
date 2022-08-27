@@ -10,7 +10,7 @@
 
 ## 2. Objetivos da Sprint
 
-Essa sprint tem a finalidade de terminar todas as tarefas pendentes para a finalização da Realese 1 e alguns ajustes da documentação.
+Essa sprint tem a finalidade de terminar todas as tarefas pendentes para a apresentação da Realese 1 e os desenvolvimentos das Histórias de Usuáio 1,2,3,435,7,15,16,17,18.
 
 ## 3. Issues
 
@@ -55,4 +55,4 @@ Essa sprint tem a finalidade de terminar todas as tarefas pendentes para a final
 
 ## Conclusão
 
-Os documentos de gestão foram finalizados com êxito , a equipe formada pelo alunos da disciplina de MDS ainda continuam com dificuldades, então os alunos de EPS tomaram algums responsabilidades de desenvolvimento para a finalização das US's.
+A versão incial dos documentos foram finalizados com êxito , a equipe formada pelo alunos da disciplina de MDS ainda continuam com dificuldades, então os alunos de EPS tomaram algums responsabilidades de desenvolvimento para a finalização das Histórias de Usuário.

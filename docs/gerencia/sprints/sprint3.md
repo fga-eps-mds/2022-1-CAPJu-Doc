@@ -10,7 +10,7 @@
 
 ## 2. Objetivos da Sprint
 
-Essa sprint tem como finalidade corrigir a arquitetura do projeto, iniciar a correço de alguns artefatos, refatoração das US's e MDS's testar as funcionalidades implementadas que não foram testadas.
+Essa sprint tem como finalidade corrigir a arquitetura do projeto, iniciar a correço de alguns artefatos, refatoração das US's e aumentar a cobertura dos testes.
 
 ## 3. Issues
 
@@ -22,4 +22,4 @@ Essa sprint tem como finalidade corrigir a arquitetura do projeto, iniciar a cor
 
 ## Conclusão
 
-A arquitetura do projeto foi alterada para micro-serviço possuindo um serviço para os processos e fluxos e outro para os usuários, os artefatos foram iniciados suas correções e MDS ainda com bastante dificuldade.
+A arquitetura do projeto foi alterada para micro-serviço possuindo um serviço para os processos e fluxos e outro para os usuários, os artefatos foram iniciados suas correções e a equipe continua desbalanceada.
