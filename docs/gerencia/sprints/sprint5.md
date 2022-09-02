@@ -10,7 +10,7 @@
 
 ## 2. Objetivos da Sprint
 
-o objetivo dessa sprint é continuar com as atividades pendentes e melhorias das histórias de usuário 1,2,6,8.
+O objetivo dessa sprint é continuar com as atividades pendentes e melhorias das histórias de usuário 1,2,6,8.
 
 ## 3. Issues
 
