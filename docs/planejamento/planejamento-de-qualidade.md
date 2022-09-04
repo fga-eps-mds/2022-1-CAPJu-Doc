@@ -86,6 +86,8 @@ Fonte: Próprio autor
 Fonte: Próprio autor
 </p>
 
+### Cálculo Manutenibilidade e Interpretação
+
 Tendo cada uma das 3 métricas acima calculadas partimos para o cálculo do fator de qualidade *Code Quality*, sendo o único fator de qualidade que compõe o aspecto de qualidade Manutenibilidade e, portanto, seu resultado definirá tal aspecto. O cálculo é definido como:
 
 <p align="center">
@@ -95,27 +97,69 @@ Fonte: Próprio autor
 </p>
 
 <p align="center">
-<strong>Manutenibilidade (Qualidade de Código)</strong><br>
+<strong>Constantes na Equação Qualidade de Código</strong><br>
 <img src="../assets/Qualidade/weights-code-quality.png"><br>
 Fonte: Próprio autor
 </p>
 
-**CONFIABILIDADE**
+Onde, m1, m2 e m3 remetem a Complexidade, Comentários e Duplicidade, respectivamente. O resultado final é um valor entre 0 e 1 (0: péssimo, 1: excelente)
 
-A métrica abaixo será utilizada para calcular a confiabilidade do projeto. Esse aspecto é importante para avaliar o quão confiável o código é em realizar aquilo que propõe.
+**Aspecto Confiabilidade**
 
-1. **Testes**
+Para mensurar esse aspecto é necessário antes o cálculo do fator de qualidade *Testing Status*. Esse aspecto é importante para avaliar o quão confiável o código é em realizar aquilo que propõe.
+#### Fator *Testing Status*
+A fim de mensurá-lo, são necessárias 3 métricas: *Passed Tests*, *Fast Test Builds* e *Test Coverage*.
 
-Será avaliado utilizando as seguintes métricas:
+1. ***Passed tests***
 
-**coverage;
-tests;
-test_execution_time;
-test_errors;
-test_failures;
-reliability_rating;**
+Calcula a densidade de testes unitários com sucesso. É definida como:
 
-Coverage avalia a cobertura utilizando um mix de cobertura de linhas e cobertura condicional para retornar um resultado com maior acurácia do que utilizar apenas um ou outro.
+<p align="center">
+<strong>Quantidade de testes com sucesso</strong><br>
+<img src="../assets/Qualidade/passed-tests.png"><br>
+Fonte: Próprio autor
+</p>
+
+2. ***Fast Test Builds***
+
+Tem como objetivo o cálculo das *builds* de teste cuja duração esteja abaixo do limite definido (300 segundos).
+
+<p align="center">
+<strong>Construções de teste rápidas</strong><br>
+<img src="../assets/Qualidade/fast-test-builds.png"><br>
+Fonte: Próprio autor
+</p>
+
+Obs.: *fast unit test* são os testes cuja duração de execução está abaixo de 300 segundos.
+
+3. ***Test Coverage***
+
+Avalia a cobertura de código do Projeto considerando os arquivos de teste unitários que estejam acima do limite definido (60% por padrão).
+
+<p align="center">
+<strong>Cobertura de código</strong><br>
+<img src="../assets/Qualidade/coverage.png"><br>
+Fonte: Próprio autor
+</p>
+
+Obs.: Onde *AcceptedUnitTestFiles* são aqueles arquivos de teste unitário que testam ao menos 60% do código de seu componente alvo para o qual foi implementado.
+
+### Cálculo Confiabilidade e Interpretação
+Finalmente partimos para o cálculo do fator de qualidade *Testing Status* que, por ser o único fator de qualidade que compõe o aspecto Confiabilidade, definirá o seu valor final.
+
+<p align="center">
+<strong>Cálculo fator Testing Status</strong><br>
+<img src="../assets/Qualidade/testing-status.png"><br>
+Fonte: Próprio autor
+</p>
+
+<p align="center">
+<strong>Constantes na equação Testing Status</strong><br>
+<img src="../assets/Qualidade/weights-testing-status.png"><br>
+Fonte: Próprio autor
+</p>
+
+Onde, m4, m5 e m6 remetem a *Passed Tests*, *Fast Test Builds* e *Coverage*, respectivamente. O resultado final é um valor entre 0 e 1 (0: péssimo, 1: excelente)
 
 **SEGURANÇA**
 
