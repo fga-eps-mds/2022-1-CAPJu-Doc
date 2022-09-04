@@ -161,14 +161,6 @@ Fonte: Próprio autor
 
 Onde, m4, m5 e m6 remetem a *Passed Tests*, *Fast Test Builds* e *Coverage*, respectivamente. O resultado final é um valor entre 0 e 1 (0: péssimo, 1: excelente)
 
-**SEGURANÇA**
-
-A métrica abaixo será utilizada para calcular a segurança do projeto baseado nas vulnerabilidades encontradas no mesmo.
-
-Será avaliado utilizando a seguinte métrica:
-
-**security_rating;**
-
 ### Objetivo 3 - Qualidade na Visão do Usuário
 
 É importante considerar que o cliente é quem está à frente. Ele tem o direito de participar e opinar durante o processo de construção do software. Neste contexto, a experiência do usuário, além das qualidades técnicas do software, é um fator determinante para a construção de sistemas de maior qualidade. Sua participação pode facilitar a compreensão dos seus desejos quanto ao software que está sendo desenvolvido. Esse aspecto da qualidade do software é chamado usabilidade.
