@@ -28,45 +28,77 @@ Para obtermos métricas de qualidade a nível organizacional, foram escolhidos o
 
 ### Objetivo 2 - Qualidade a Nível de Projeto
 
-Para avaliar a qualidade a nível de projeto serão coletadas métricas utilizando o SonarCloud em cada release, e estão divididas conforme os aspectos de qualidade abaixo:
+Para avaliar a qualidade a nível de projeto serão coletadas métricas, por meio do SonarCloud após cada *Pull Request* submetido e cujo *merge* tenha sido realizado. Após coletadas, essas métricas são combinadas para calcular cada um dos aspectos de qualidade que interessa a este Projeto, estando esses divididos em:
 
-- Manutenibilidade do código,
-- confiabilidade
-- segurança
+- Manutenibilidade do código
+- Confiabilidade
 
 | Goal | Questions                                                                                                  | Metrics                                                                                                                                                                |
 | ---- | ---------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2    | O código é reaproveitado? O código é legível? Após inserir novas funcionalidades é fácil identificar bugs? | files,functions, complexity, comment_lines_density, duplicated_lines_density, coverage, ncloc, tests, test_errors, test_failures, test_execution_time, security_rating |
 
-**MANUTENIBILIDADE**
+**Aspecto Manutenibilidade**
+#### Fator *Code Quality*
 
-O conjunto de métricas abaixo será coletado para avaliar a manutenabilidade do código do projeto. Tal aspecto é importante por nos permitir avaliar o quão fácil será para que manutenção seja feita no código.
+O conjunto de métricas abaixo, referentes ao fator de qualidade *Code Quality* que compõe o aspecto de qualidade Manutenibilidade, será coletado para avaliar a manutenibilidade do código do projeto. Tal aspecto é importante por nos permitir avaliar o quão fácil será realizar a manutenção no código do projeto.
 
 1. **Complexidade**
 
-Será avaliada utilizando as seguintes métricas:
+Essa métrica tem por objetivo identificar a densidade de arquivos não complexos, sendo estes definidos como os arquivos que estão fora do limite de complexidade ciclomática definido (por padrão 10).
 
-**functions;
-complexity;
-files;
-ncloc;**
+<p align="center">
+<strong>Densidade de arquivos não complexos</strong><br>
+<img src="../assets/Qualidade/complexity.png"><br>
+Fonte: Próprio autor
+</p>
 
-- Functions mede a quantidade de funções;
-- Files mede a quantidade de arquivos do projeto;
-- Complexity calcula a complexidade ciclomática do codigo a partir das branchs;
-- Ncloc retorna o número físico de linhas que contém, no mínimo, um caracter que não seja tabulação ou espaço em branco;
+Obs.: onde um arquivo complexo é definido como aquele cuja complexidade ciclomática por função é maior que 10 (valor padrão). A Complexidade Ciclomática contabiliza quantos caminhos possíveis um fluxo inicial de código pode assumir.
 
 2. **Comentários**
 
-Será avaliado utilizando a seguinte métrica:
+Essa métrica tem como objetivo identificar a densidade de arquivos comentados. Um arquivo é tido como comentado se a sua densidade de linhas comentadas estiver dentro do limite definido (entre 10% e 30% por padrão).
 
-**comment_lines_density;**
+<p align="center">
+<strong>Densidade de arquivos comentados</strong><br>
+<img src="../assets/Qualidade/comments.png"><br>
+Fonte: Próprio autor
+</p>
+
+<p align="center">
+<strong>Densidade de linhas comentadas</strong><br>
+<img src="../assets/Qualidade/comment-lines.png"><br>
+Fonte: Próprio autor
+</p>
 
 3. **Duplicidade**
 
-Será avaliado utilizando a seguinte métrica:
+Essa métrica avalia a quantidade de arquivos abaixo do limite definido para a porcentagem de linhas duplicadas. Onde, um arquivo é definido como não havendo duplicações se a sua densidade de duplicação é menor que 5% (valor padrão estabelecido).
 
-**duplicated_lines_density;**
+<p align="center">
+<strong>Ausência de duplicações</strong><br>
+<img src="../assets/Qualidade/duplication.png"><br>
+Fonte: Próprio autor
+</p>
+
+<p align="center">
+<strong>Densidade de duplicação</strong><br>
+<img src="../assets/Qualidade/density-of-duplication.png"><br>
+Fonte: Próprio autor
+</p>
+
+Tendo cada uma das 3 métricas acima calculadas partimos para o cálculo do fator de qualidade *Code Quality*, sendo o único fator de qualidade que compõe o aspecto de qualidade Manutenibilidade e, portanto, seu resultado definirá tal aspecto. O cálculo é definido como:
+
+<p align="center">
+<strong>Manutenibilidade (Qualidade de Código)</strong><br>
+<img src="../assets/Qualidade/code-quality.png"><br>
+Fonte: Próprio autor
+</p>
+
+<p align="center">
+<strong>Manutenibilidade (Qualidade de Código)</strong><br>
+<img src="../assets/Qualidade/weights-code-quality.png"><br>
+Fonte: Próprio autor
+</p>
 
 **CONFIABILIDADE**
 
