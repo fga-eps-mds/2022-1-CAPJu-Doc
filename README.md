@@ -16,11 +16,11 @@ O CAPJu é uma aplicação _Web_ compatível com qualquer navegador.
 
 ## Tecnologias
 
-<img src="https://www.logigroup.com/images/modules/technologies/framework/nodejs.gif" alt="nodeJS" height="50" width="100"/><img src="https://i.imgur.com/0KUZgRP.png
-" alt="Express" height="50" width="100"/><img src="https://logos-download.com/wp-content/uploads/2016/09/MongoDB_logo_Mongo_DB.png" alt="MongoBD" height="50" width="100"/><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" alt="Mogoose" height="80" width="auto"/><img src="https://media0.giphy.com/media/hUL5gdlvDgtRbOElZS/giphy.gif?cid=790b7611864543b94b67676a6e42c9c1e436b83b9bdbdf15&rid=giphy.gif&ct=s" alt="ReactJS" height="70" width="110"/><img src="https://avatars.githubusercontent.com/u/40133106?s=200&v=4" alt="Docsify" height="60" width="auto"/>
+<img src="https://download.logo.wine/logo/Node.js/Node.js-Logo.wine.png" alt="nodeJS" height="80" width="auto"/><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmiro.medium.com%2Fmax%2F5000%2F1*M1XoId5pZaVJiIDAMDTDiw.png&f=1&nofb=1" alt="Express" height="50" width="100"/><img src="https://logos-download.com/wp-content/uploads/2016/09/MongoDB_logo_Mongo_DB.png" alt="MongoBD" height="50" width="100"/><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" alt="Mogoose" height="80" width="auto"/><img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F09%2FReact_logo_logotype_emblem.png&f=1&nofb=1" alt="ReactJS" height="60" width="auto"/><img src="https://avatars.githubusercontent.com/u/40133106?s=200&v=4" alt="Docsify" height="60" width="auto"/>
 
 ## Repositórios
 
+- [Doc](https://github.com/fga-eps-mds/2022-1-CAPJu-Doc)
 - [User](https://github.com/fga-eps-mds/2022-1-CAPJu-User)
 - [Service](https://github.com/fga-eps-mds/2022-1-CAPJu-Service)
 - [Interface](https://github.com/fga-eps-mds/2022-1-CAPJu-Interface)
@@ -129,8 +129,3 @@ O CAPJu está sob as regras aplicadas na licença [MIT](https://github.com/fga-e
   <img src="https://contrib.rocks/image?repo=fga-eps-mds/2022-1-CAPJu-Interface" />
 </a>
 
-_Made with [contrib.rocks](https://contrib.rocks)._
-
----
-
-<p align="center"><a href="https://fga.unb.br" target="_blank"><img width="230"src="https://4.bp.blogspot.com/-0aa6fAFnSnA/VzICtBQgciI/AAAAAAAARn4/SxVsQPFNeE0fxkCPVgMWbhd5qIEAYCMbwCLcB/s1600/unb-gama.png"></a></p>
