@@ -37,7 +37,7 @@ Você precisará ter o [NodeJS](https://nodejs.org/en/) e o [Yarn](https://yarnp
 
 E o projeto foi implementado em máquinas com sistemas operacionais de distribuição Linux, portanto os passos encontrando a seguir mostram orientações de sistemas Linux.
 
-Em caso tentativa de execução em outro sistema operacional como, o Windows, recomenda-se uma pesquisa breve. E os usuários do MacOS certamente podem pagar alguém para descobrir como fazer isso.
+Em caso de tentativa de execução em outros sistemas operacionais como, o Windows, recomenda-se uma pesquisa. E os usuários do MacOS certamente podem pagar alguém para descobrir como fazer isso.
 
 **Executando os Serviços**
 
@@ -67,9 +67,9 @@ No arquvo `.env` também será necessário que adicione um string com nome `JWT_
 No repositórios _2022-1-CAPJu-Interface_:
 
 ```bash
-cd ~/your/directory/
-git clone https://github.com/fga-eps-mds/2022-1-CAPJu-Interface.git
-cd 2022-1-CAPJu-Interface
+$ cd ~/your/directory/
+$ git clone https://github.com/fga-eps-mds/2022-1-CAPJu-Interface.git
+$ cd 2022-1-CAPJu-Interface
 ```
 
 Será necessário que adicione uma variavel em um arquivo `.env` dentro na pasta raiz do projeto com nome `REACT_APP_DEV=true` para que possa executar na porta 3000 do serviço local
@@ -98,11 +98,11 @@ $ docsify serve docs
 
 ### Deployment
 
-A implantação da documentação está definido a utilização do [GitHub Actions](https://github.com/fga-eps-mds/2022-1-CAPJu-Doc/actions).
+O build e deploy da documentação encontra-se no [GitHub Actions](https://github.com/fga-eps-mds/2022-1-CAPJu-Doc/actions).
 
 ## Contribuição
 
-Certifique-se de ler o [Guia de Contribuição](https://github.com/fga-eps-mds/2022-1-CAPJu-Doc/blob/main/.github/CONTRIBUTING.md) antes de realizar qualquer atividade no projeto!
+Certifique-se de ler o [Guia de Contribuição](https://github.com/fga-eps-mds/2022-1-CAPJu-Doc/blob/main/.github/CONTRIBUTING.md) antes de realizar qualquer atividade ao projeto!
 
 ## Licença
 
@@ -128,4 +128,3 @@ O CAPJu está sob as regras aplicadas na licença [MIT](https://github.com/fga-e
 <a href="https://github.com/fga-eps-mds/2022-1-CAPJu-Doc/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=fga-eps-mds/2022-1-CAPJu-Interface" />
 </a>
-
