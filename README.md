@@ -16,11 +16,10 @@ O CAPJu é uma aplicação _Web_ compatível com qualquer navegador.
 
 ## Tecnologias
 
-<img src="https://download.logo.wine/logo/Node.js/Node.js-Logo.wine.png" alt="nodeJS" height="80" width="auto"/><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmiro.medium.com%2Fmax%2F5000%2F1*M1XoId5pZaVJiIDAMDTDiw.png&f=1&nofb=1" alt="Express" height="50" width="100"/><img src="https://logos-download.com/wp-content/uploads/2016/09/MongoDB_logo_Mongo_DB.png" alt="MongoBD" height="50" width="100"/><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" alt="Mogoose" height="80" width="auto"/><img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F09%2FReact_logo_logotype_emblem.png&f=1&nofb=1" alt="ReactJS" height="60" width="auto"/><img src="https://avatars.githubusercontent.com/u/40133106?s=200&v=4" alt="Docsify" height="60" width="auto"/>
+<img src="https://download.logo.wine/logo/Node.js/Node.js-Logo.wine.png" alt="nodeJS" height="80" width="auto"/><img src="https://user-images.githubusercontent.com/30841230/189471974-4c3eb0da-1481-4aa3-ad94-18f44ce2b355.png" alt="Express" height="50" width="100"/><img src="https://logos-download.com/wp-content/uploads/2016/09/MongoDB_logo_Mongo_DB.png" alt="MongoBD" height="40" width="100"/><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" alt="Mogoose" height="80" width="auto"/><img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F09%2FReact_logo_logotype_emblem.png&f=1&nofb=1" alt="ReactJS" height="60" width="auto"/><img src="https://avatars.githubusercontent.com/u/40133106?s=200&v=4" alt="Docsify" height="60" width="auto"/>
 
-## Repositórios
+## Demais Repositórios
 
-- [Doc](https://github.com/fga-eps-mds/2022-1-CAPJu-Doc)
 - [User](https://github.com/fga-eps-mds/2022-1-CAPJu-User)
 - [Service](https://github.com/fga-eps-mds/2022-1-CAPJu-Service)
 - [Interface](https://github.com/fga-eps-mds/2022-1-CAPJu-Interface)
@@ -37,7 +36,7 @@ Você precisará ter o [NodeJS](https://nodejs.org/en/) e o [Yarn](https://yarnp
 
 E o projeto foi implementado em máquinas com sistemas operacionais de distribuição Linux, portanto os passos encontrando a seguir mostram orientações de sistemas Linux.
 
-Em caso de tentativa de execução em outros sistemas operacionais como, o Windows, recomenda-se uma pesquisa. E os usuários do MacOS certamente podem pagar alguém para descobrir como fazer isso.
+Em caso tentativa de execução em outro sistema operacional como, o Windows, recomenda-se uma pesquisa breve. E os usuários do MacOS certamente podem pagar alguém para descobrir como fazer isso.
 
 **Executando os Serviços**
 
@@ -98,11 +97,11 @@ $ docsify serve docs
 
 ### Deployment
 
-O build e deploy da documentação encontra-se no [GitHub Actions](https://github.com/fga-eps-mds/2022-1-CAPJu-Doc/actions).
+A implantação da documentação está definido a utilização do [GitHub Actions](https://github.com/fga-eps-mds/2022-1-CAPJu-Doc/actions).
 
 ## Contribuição
 
-Certifique-se de ler o [Guia de Contribuição](https://github.com/fga-eps-mds/2022-1-CAPJu-Doc/blob/main/.github/CONTRIBUTING.md) antes de realizar qualquer atividade ao projeto!
+Certifique-se de ler o [Guia de Contribuição](https://github.com/fga-eps-mds/2022-1-CAPJu-Doc/blob/main/.github/CONTRIBUTING.md) antes de realizar qualquer atividade no projeto!
 
 ## Licença
 
