@@ -8,9 +8,9 @@
 
 ## Sobre Projetos
 
-O CAPJu é abreviação para _"Controle e Acompanhamento de Processos da Justiça"_, no qual trata-se de uma projeto de código aberto que tem como objetivo ajudar os usuários da 4ª vara cível da Justiça Federal na realização de gerenciar os processos.
+O CAPJu é abreviação para _"Controle e Acompanhamento de Processos da Justiça"_, no qual trata-se de um projeto de código aberto que tem como objetivo ajudar os usuários da 4ª Vara Cível da Justiça Federal a gerenciar processos jurídicos.
 
-Este repositório é destinado exclusivamente a Documentação do projeto, que está em sua maioria em Português do Brasil, devido aos interessados do público alvo.
+Este repositório é destinado exclusivamente à Documentação do projeto, que está em sua maioria em Português do Brasil, devido aos interessados do público alvo.
 
 O CAPJu é uma aplicação _Web_ compatível com qualquer navegador.
 
@@ -34,7 +34,7 @@ Quer ver o projeto funcionando em sua máquina?
 
 Você precisará ter o [NodeJS](https://nodejs.org/en/) e o [Yarn](https://yarnpkg.com/) previamente instalados.
 
-E o projeto foi implementado em máquinas com sistemas operacionais de distribuição Linux, portanto os passos encontrando a seguir mostram orientações de sistemas Linux.
+E o projeto foi implementado em máquinas com sistemas operacionais de distribuição Linux, portanto os passos encontrados a seguir mostram orientações de sistemas Linux.
 
 Em caso tentativa de execução em outro sistema operacional como, o Windows, recomenda-se uma pesquisa breve. E os usuários do MacOS certamente podem pagar alguém para descobrir como fazer isso.
 
@@ -58,7 +58,7 @@ Caso exista um serviço MongoDB em nuvem, adicione a string de conexão a um arq
 
 Caso não seja configurada uma string de conexão personalizada, a aplicação se conectará à porta 27017 do serviço local
 
-No arquvo `.env` também será necessário que adicione um string com nome `JWT_SECRET` para realização autenticação do usuário
+No arquvo `.env` também será necessário que adicione um string com nome `JWT_SECRET` para realizar a autenticação do usuário
 
 <br>
 <br>
@@ -97,7 +97,7 @@ $ docsify serve docs
 
 ### Deployment
 
-A implantação da documentação está definido a utilização do [GitHub Actions](https://github.com/fga-eps-mds/2022-1-CAPJu-Doc/actions).
+A implantação da documentação está definida a utilização do [GitHub Actions](https://github.com/fga-eps-mds/2022-1-CAPJu-Doc/actions).
 
 ## Contribuição
 
