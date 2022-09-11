@@ -4,7 +4,7 @@
 
 De acordo com a definição do guia PMBOK, a qualidade seria “o grau até o qual um conjunto de características inerentes satisfaz as necessidades”. Dessa forma, com o objetivo de detectar não conformidades dentro do projeto e estabelecer ações corretivas e preventivas para que seja possível entregar um produto que possua um grau elevado de satisfação para o usuário final, serão abordadas neste Planejamento de Qualidade, práticas, recursos e parâmetros que permitam ao time atingir esse objetivo.
 
-Para isso faremos o uso da abordagem **GQM** (Goal Question Metrics) que é uma abordagem de cima para baixo (top-down) que estabelece um sistema de medição direcionado a metas para desenvolvimento de software em que a equipe inicia com metas organizacionais, define a medição das metas, levanta questões a abordar os objetivos e identifica as métricas que proporcionem as respostas. O modelo GQM está dividido em três níveis: Nível Conceitual, nível operacional e nível quantitativo.
+Para isso faremos o uso da abordagem **GQM** (Goal Question Metrics) que é uma abordagem de cima para baixo (top-down) que estabelece um sistema de medição direcionado a metas para desenvolvimento de software em que a equipe inicia com metas organizacionais, define a medição das metas, levanta questões a abordar os objetivos e identifica as métricas que proporcionem as respostas. O modelo GQM está dividido em três níveis: Nível Conceitual, nível Operacional e nível Quantitativo.
 
 Essa abordagem possui 3 níveis hierárquicos, são eles:
 
@@ -14,7 +14,7 @@ Essa abordagem possui 3 níveis hierárquicos, são eles:
 
 ## Goals
 
-### Objetivo 1 - Qualidade a Nível Organizacional
+### Objetivo 1 - Medir a Qualidade Organizacional do time
 
 Para que seja possível medir a qualidade organizacional é necessário primeiramente definir os aspectos que serão avaliados dentro desse contexto. Pretende-se avaliar, por exemplo, a produtividade do time, capacitação do time, e padronização de processos dentro da equipe. A medição da qualidade a nível organizacional permite ao próprio time uma autonomia para tomar decisões e gerar uma melhoria contínua nas entregas de releases.
 
@@ -26,9 +26,9 @@ Para obtermos métricas de qualidade a nível organizacional, foram escolhidos o
 | ---- | ------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------- |
 | 1    | O time realiza treinamentos? Existe progresso de conhecimento das tecnologias? Os membros participam das reuniões? | Quadro de conhecimentos, Burndown, Velocity, Frequência de participação nas cerimonias do Scrum |
 
-### Objetivo 2 - Qualidade a Nível de Projeto
+### Objetivo 2 - Medir a Qualidade do Produto
 
-Para avaliar a qualidade a nível de projeto serão coletadas métricas, por meio do SonarCloud após cada *Pull Request* submetido e cujo *merge* tenha sido realizado. Após coletadas, essas métricas são combinadas para calcular cada um dos aspectos de qualidade que interessa a este Projeto, estando esses divididos em:
+Para avaliar a qualidade do produto serão coletadas métricas, por meio do SonarCloud após cada _Pull Request_ submetido e cujo _merge_ tenha sido realizado. Após coletadas, essas métricas são combinadas para calcular cada um dos aspectos de qualidade que interessa a este Projeto, estando esses divididos em:
 
 - Manutenibilidade do código
 - Confiabilidade
@@ -38,9 +38,10 @@ Para avaliar a qualidade a nível de projeto serão coletadas métricas, por mei
 | 2    | O código é reaproveitado? O código é legível? Após inserir novas funcionalidades é fácil identificar bugs? | files,functions, complexity, comment_lines_density, duplicated_lines_density, coverage, ncloc, tests, test_errors, test_failures, test_execution_time, security_rating |
 
 **Aspecto Manutenibilidade**
-#### Fator *Code Quality*
 
-O conjunto de métricas abaixo, referentes ao fator de qualidade *Code Quality* que compõe o aspecto de qualidade Manutenibilidade, será coletado para avaliar a manutenibilidade do código do projeto. Tal aspecto é importante por nos permitir avaliar o quão fácil será realizar a manutenção no código do projeto.
+#### Fator _Code Quality_
+
+O conjunto de métricas abaixo, referentes ao fator de qualidade _Code Quality_ que compõe o aspecto de qualidade Manutenibilidade, será coletado para avaliar a manutenibilidade do código do projeto. Tal aspecto é importante por nos permitir avaliar o quão fácil será realizar a manutenção no código do projeto.
 
 1. **Complexidade**
 
@@ -88,7 +89,7 @@ Fonte: Próprio autor
 
 ### Cálculo Manutenibilidade e Interpretação
 
-Tendo cada uma das 3 métricas acima calculadas partimos para o cálculo do fator de qualidade *Code Quality*, sendo o único fator de qualidade que compõe o aspecto de qualidade Manutenibilidade e, portanto, seu resultado definirá tal aspecto. O cálculo é definido como:
+Tendo cada uma das 3 métricas acima calculadas partimos para o cálculo do fator de qualidade _Code Quality_, sendo o único fator de qualidade que compõe o aspecto de qualidade Manutenibilidade e, portanto, seu resultado definirá tal aspecto. O cálculo é definido como:
 
 <p align="center">
 <strong>Manutenibilidade (Qualidade de Código)</strong><br>
@@ -106,11 +107,13 @@ Onde, m1, m2 e m3 remetem a Complexidade, Comentários e Duplicidade, respectiva
 
 **Aspecto Confiabilidade**
 
-Para mensurar esse aspecto é necessário antes o cálculo do fator de qualidade *Testing Status*. Esse aspecto é importante para avaliar o quão confiável o código é em realizar aquilo que propõe.
-#### Fator *Testing Status*
-A fim de mensurá-lo, são necessárias 3 métricas: *Passed Tests*, *Fast Test Builds* e *Test Coverage*.
+Para mensurar esse aspecto é necessário antes o cálculo do fator de qualidade _Testing Status_. Esse aspecto é importante para avaliar o quão confiável o código é em realizar aquilo que propõe.
 
-1. ***Passed tests***
+#### Fator _Testing Status_
+
+A fim de mensurá-lo, são necessárias 3 métricas: _Passed Tests_, _Fast Test Builds_ e _Test Coverage_.
+
+1. **_Passed tests_**
 
 Calcula a densidade de testes unitários com sucesso. É definida como:
 
@@ -120,9 +123,9 @@ Calcula a densidade de testes unitários com sucesso. É definida como:
 Fonte: Próprio autor
 </p>
 
-2. ***Fast Test Builds***
+2. **_Fast Test Builds_**
 
-Tem como objetivo o cálculo das *builds* de teste cuja duração esteja abaixo do limite definido (300 segundos).
+Tem como objetivo o cálculo das _builds_ de teste cuja duração esteja abaixo do limite definido (300 segundos).
 
 <p align="center">
 <strong>Construções de teste rápidas</strong><br>
@@ -130,9 +133,9 @@ Tem como objetivo o cálculo das *builds* de teste cuja duração esteja abaixo 
 Fonte: Próprio autor
 </p>
 
-Obs.: *fast unit test* são os testes cuja duração de execução está abaixo de 300 segundos.
+Obs.: _fast unit test_ são os testes cuja duração de execução está abaixo de 300 segundos.
 
-3. ***Test Coverage***
+3. **_Test Coverage_**
 
 Avalia a cobertura de código do Projeto considerando os arquivos de teste unitários que estejam acima do limite definido (60% por padrão).
 
@@ -142,10 +145,11 @@ Avalia a cobertura de código do Projeto considerando os arquivos de teste unit�
 Fonte: Próprio autor
 </p>
 
-Obs.: Onde *AcceptedUnitTestFiles* são aqueles arquivos de teste unitário que testam ao menos 60% do código de seu componente alvo para o qual foi implementado.
+Obs.: Onde _AcceptedUnitTestFiles_ são aqueles arquivos de teste unitário que testam ao menos 60% do código de seu componente alvo para o qual foi implementado.
 
 ### Cálculo Confiabilidade e Interpretação
-Finalmente partimos para o cálculo do fator de qualidade *Testing Status* que, por ser o único fator de qualidade que compõe o aspecto Confiabilidade, definirá o seu valor final.
+
+Finalmente partimos para o cálculo do fator de qualidade _Testing Status_ que, por ser o único fator de qualidade que compõe o aspecto Confiabilidade, definirá o seu valor final.
 
 <p align="center">
 <strong>Cálculo fator Testing Status</strong><br>
@@ -159,17 +163,17 @@ Fonte: Próprio autor
 Fonte: Próprio autor
 </p>
 
-Onde, m4, m5 e m6 remetem a *Passed Tests*, *Fast Test Builds* e *Coverage*, respectivamente. O resultado final é um valor entre 0 e 1 (0: péssimo, 1: excelente)
+Onde, m4, m5 e m6 remetem a _Passed Tests_, _Fast Test Builds_ e _Coverage_, respectivamente. O resultado final é um valor entre 0 e 1 (0: péssimo, 1: excelente)
 
-### Objetivo 3 - Qualidade na Visão do Usuário
+### Objetivo 3 - Medir a Qualidade em Uso
 
 É importante considerar que o cliente é quem está à frente. Ele tem o direito de participar e opinar durante o processo de construção do software. Neste contexto, a experiência do usuário, além das qualidades técnicas do software, é um fator determinante para a construção de sistemas de maior qualidade. Sua participação pode facilitar a compreensão dos seus desejos quanto ao software que está sendo desenvolvido. Esse aspecto da qualidade do software é chamado usabilidade.
 
-Dessa forma, para medirmos a usabilidade será desenvolvido e disponibilizado um formulário para o cliente e conforme ele for testando as novas funcionalidades implementadas será possível ele avaliar em uma escala de 0 a 10 questões qualitativas do quão intuitivo e prático foi sua experiência ao utilizar a aplicação.
+Dessa forma, para medirmos a qualidade do nosso software em uso, optamos por fazer testes de usabilidade com uma adaptação da escala Likert. Será desenvolvido e disponibilizado um formulário para o cliente a cada fim de sprint, serão disponibilizadas as funcionalidades em ambiente de homologação e conforme ele for testando as novas funcionalidades implementadas será possível ele avaliar o software em uso. Para isso, adaptamos a escala Likert que representa um dos melhores exemplos de como podemos tentar entender o nível de satisfação do cliente. Portanto, definimos uma escala de 1 a 5, onde 1 seria Insatisfeito e 5 Satisfeito.
 
-| Goal | Questions                                                                                                                                                                                                                                                                        | Metrics                                                                     |
-| ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| 3    | As funcionalidades estão disponíveis e são executadas eficientemente? O aplicativo funciona corretamente sem imprevistos? O software é seguro, ou seja, evita que pessoas ou sistemas não autorizados tenham acesso às informações? É fácil de usar ou requer muito treinamento? | Respostas do forms que serão analisadas conforme o cliente usar a aplicação |
+| Goal | Questions                                                                 | Metrics                                               |
+| ---- | ------------------------------------------------------------------------- | ----------------------------------------------------- |
+| 3    | Qual o nível de satisfação do cliente ao navegar por cada funcionalidade? | Respostas do formulário de acordo com a Escala Likert |
 
 **Histórico de Versão**
 
@@ -183,7 +187,9 @@ Dessa forma, para medirmos a usabilidade será desenvolvido e disponibilizado um
 | 18/07/2022 | 0.6    | Adição do tópico de Qualidade a Nível de Projeto               | Nathalia, Luciano e Pedro |
 | 18/07/2022 | 0.7    | Adição do tópico de Qualidade na Visão de Usuário              | Nathalia, Luciano e Pedro |
 | 18/07/2022 | 0.8    | Adição de Referências                                          | Nathalia, Luciano e Pedro |
-| 31/07/2022 | 0.9    | Refatorando o documento                                        | Nathalia                  |
+| 31/07/2022 | 0.9    | Refatorando o documento                                        | Nathalia Lorena           |
+| 04/09/2022 | 1.0    | Refatorando o Objetivo 2                                       | Maicon Mares              |
+| 10/09/2022 | 1.1    | Refatorando o Objetivo 3 e acrescentando referências           | Nathalia Lorena           |
 
 ## Referências
 
@@ -198,3 +204,5 @@ Dessa forma, para medirmos a usabilidade será desenvolvido e disponibilizado um
 > LENILDO. Qualidade de Software - Engenharia de Software 29. DEVMEDIA, 2010. Disponível em: <https://www.devmedia.com.br/qualidade-de-software-engenharia-de-software-29/18209>. Acesso em: 30 jul. 2022.
 
 > ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR ISO/IEC 14598-1: Tecnologia de informação: Avaliação de produto de software. Rio de Janeiro, p. 07. 2001.
+
+> QuestionPro. Question Pro, 2022. Blog de pesquisa online e inteligẽncia de mercado. Disponível em: <https://www.questionpro.com/blog/pt-br/exemplos-de-escalas-likert/>. Acesso em: 10 set. 2022.
