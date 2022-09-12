@@ -8,27 +8,29 @@ Para isso faremos o uso da abordagem **GQM** (Goal Question Metrics) que é uma 
 
 Essa abordagem possui 3 níveis hierárquicos, são eles:
 
-**Conceitual (Objetivos):** Uma meta é definida para algum objeto de medição, esse objeto pode ser produtos, processos ou recursos
-**Operacional (Questões):** Elaborar perguntas que nos ajudam a caracterizar o objeto de medição e nos ajuda a escolher o ponto de vista da análise de qualidade que será feita.
+**Conceitual (Objetivos):** Uma meta é definida para algum objeto de medição, esse objeto pode ser produtos, processos ou recursos.<br>
+**Operacional (Questões):** Elaborar perguntas que nos ajudam a caracterizar o objeto de medição e nos ajuda a escolher o ponto de vista da análise de qualidade que será feita.<br>
 **Quantitativo (Métricas):** Conjunto de dados que está associado às perguntas a fim de respondê-las.
 
 ## Goals
 
 ### Objetivo 1 - Medir a Qualidade Organizacional do time
 
-Para que seja possível medir a qualidade organizacional é necessário primeiramente definir os aspectos que serão avaliados dentro desse contexto. Pretende-se avaliar, por exemplo, a produtividade do time, capacitação do time, e padronização de processos dentro da equipe. A medição da qualidade a nível organizacional permite ao próprio time uma autonomia para tomar decisões e gerar uma melhoria contínua nas entregas de releases.
+Para que seja possível medir a qualidade organizacional é necessário primeiramente definir os aspectos que serão avaliados dentro desse contexto. Pretende-se avaliar dentro do Objetivo 1, por exemplo, a participação do time nas cerimônias do Scrum e capacidade de entrega do time. A medição da qualidade a nível organizacional permite ao próprio time uma autonomia para tomar decisões e gerar uma melhoria contínua nas entregas de releases.
 
 Conforme propõe a ISO/IEC 14598-1 que está direcionada ao ponto de vista de desenvolvedores que pretendem desenvolver um novo produto ou melhorar um produto existente e pretendam executar avaliação de produto utilizando pessoas de seu próprio corpo técnico pode-se fazer o uso de indicadores que ajudam a prever a qualidade do produto final através da medição de produtos intermediários desenvolvidos durante o ciclo de vida.
 
+Para medirmos a participação do time nas cerimonias do Scrum, inicialmente coletamos a cada reunião de _Retrospective_ e _Planning_ o relatório de presença gerado pela plataforma _Microsoft Teams_. Após esse passo, o time de EPS definiu uma escala própria para obter os resultados da participação do time nas reuniões de acordo com a tabela abaixo:
+
 Para obtermos métricas de qualidade a nível organizacional, foram escolhidos os seguintes aspectos para serem avaliados:
 
-| Goal | Questions                                                                                                          | Metrics                                                                                         |
-| ---- | ------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------- |
-| 1    | O time realiza treinamentos? Existe progresso de conhecimento das tecnologias? Os membros participam das reuniões? | Quadro de conhecimentos, Burndown, Velocity, Frequência de participação nas cerimonias do Scrum |
+| Goal | Questions                                                                                                            | Metrics                                                  |
+| ---- | -------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
+| 1    | Qual é a frequência de participação dos membros nas cerimonias do Scrum? Com que velocidade o time realiza entregas? | Velocity, Escala de participação nas cerimonias do Scrum |
 
 ### Objetivo 2 - Medir a Qualidade do Produto
 
-Para avaliar a qualidade do produto serão coletadas métricas, por meio do SonarCloud após cada _Pull Request_ submetido e cujo _merge_ tenha sido realizado. Após coletadas, essas métricas são combinadas para calcular cada um dos aspectos de qualidade que interessa a este Projeto, estando esses divididos em:
+Para avaliar a qualidade do produto serão coletadas métricas por meio do SonarCloud após cada _Pull Request_ submetido e cujo _merge_ tenha sido realizado. Após coletadas, essas métricas são combinadas para calcular cada um dos aspectos de qualidade que interessa a este Projeto, estando esses divididos em:
 
 - Manutenibilidade do código
 - Confiabilidade
@@ -171,9 +173,9 @@ Onde, m4, m5 e m6 remetem a _Passed Tests_, _Fast Test Builds_ e _Coverage_, res
 
 Dessa forma, para medirmos a qualidade do nosso software em uso, optamos por fazer testes de usabilidade com uma adaptação da escala Likert. Será desenvolvido e disponibilizado um formulário para o cliente a cada fim de sprint, serão disponibilizadas as funcionalidades em ambiente de homologação e conforme ele for testando as novas funcionalidades implementadas será possível ele avaliar o software em uso. Para isso, adaptamos a escala Likert que representa um dos melhores exemplos de como podemos tentar entender o nível de satisfação do cliente. Portanto, definimos uma escala de 1 a 5, onde 1 seria Insatisfeito e 5 Satisfeito.
 
-| Goal | Questions                                                                 | Metrics                                               |
-| ---- | ------------------------------------------------------------------------- | ----------------------------------------------------- |
-| 3    | Qual o nível de satisfação do cliente ao navegar por cada funcionalidade? | Respostas do formulário de acordo com a Escala Likert |
+| Goal | Questions                                                                 | Metrics                                                            |
+| ---- | ------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| 3    | Qual o nível de satisfação do cliente ao navegar por cada funcionalidade? | Respostas do formulário de acordo com a adaptação da Escala Likert |
 
 **Histórico de Versão**
 
@@ -190,6 +192,7 @@ Dessa forma, para medirmos a qualidade do nosso software em uso, optamos por faz
 | 31/07/2022 | 0.9    | Refatorando o documento                                        | Nathalia Lorena           |
 | 04/09/2022 | 1.0    | Refatorando o Objetivo 2                                       | Maicon Mares              |
 | 10/09/2022 | 1.1    | Refatorando o Objetivo 3 e acrescentando referências           | Nathalia Lorena           |
+| 12/09/2022 | 1.1    | Refatorando o Objetivo 1                                       | Nathalia Lorena           |
 
 ## Referências
 
