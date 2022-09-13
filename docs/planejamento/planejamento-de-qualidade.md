@@ -48,6 +48,14 @@ Para obtermos métricas de qualidade a nível organizacional, foram escolhidos o
 | 30/08           | 100%                        |
 | 06/09           | 91,66%                      |
 
+### Resultados da métrica de capacidade de entrega do time
+
+#### Velocity
+
+O Velocity é utilizado para medir a quantidade média de trabalho que uma equipe pode completar em um “ciclo de entrega” – normalmente um sprint.
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQNVZMDKy8K8NRDpOKHrT-rJR4PrXZ1qvqBeyo1YFqyjGybu9POY0DAvuedkYm1rjrW8_xVtRCn5zos/pubhtml?gid=969790840&amp;single=true&amp;widget=true&amp;headers=false" height="600px" width="800px"></iframe>
+
 ### Objetivo 2 - Medir a Qualidade do Produto
 
 Para avaliar a qualidade do produto serão coletadas métricas por meio do SonarCloud após cada _Pull Request_ submetido e cujo _merge_ tenha sido realizado. Após coletadas, essas métricas são combinadas para calcular cada um dos aspectos de qualidade que interessa a este Projeto, estando esses divididos em:
