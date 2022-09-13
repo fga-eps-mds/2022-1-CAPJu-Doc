@@ -22,11 +22,31 @@ Conforme propõe a ISO/IEC 14598-1 que está direcionada ao ponto de vista de de
 
 Para medirmos a participação do time nas cerimonias do Scrum, inicialmente coletamos a cada reunião de _Retrospective_ e _Planning_ o relatório de presença gerado pela plataforma _Microsoft Teams_. Após esse passo, o time de EPS definiu uma escala própria para obter os resultados da participação do time nas reuniões de acordo com a tabela abaixo:
 
+| Escala de Participação | Significado |
+| ---------------------- | ----------- |
+| De 0% a 50%            | Ruim        |
+| De 50% a 70%           | Boa         |
+| De 70% a 100%          | Ótima       |
+
 Para obtermos métricas de qualidade a nível organizacional, foram escolhidos os seguintes aspectos para serem avaliados:
 
 | Goal | Questions                                                                                                            | Metrics                                                  |
 | ---- | -------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
 | 1    | Qual é a frequência de participação dos membros nas cerimonias do Scrum? Com que velocidade o time realiza entregas? | Velocity, Escala de participação nas cerimonias do Scrum |
+
+### Resultados da métrica de participação
+
+| Data da reunião | Porcentagem de participação |
+| --------------- | --------------------------- |
+| 12/07           | 100%                        |
+| 19/07           | 92,30%                      |
+| 26/07           | 84,61%                      |
+| 02/08           | 100%                        |
+| 09/08           | 91,66%                      |
+| 16/08           | 100%                        |
+| 23/08           | 91,66%                      |
+| 30/08           | 100%                        |
+| 06/09           | 91,66%                      |
 
 ### Objetivo 2 - Medir a Qualidade do Produto
 
