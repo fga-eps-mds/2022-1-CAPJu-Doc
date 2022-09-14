@@ -47,6 +47,7 @@ Para obtermos métricas de qualidade a nível organizacional, foram escolhidos o
 | 23/08           | 91,66%                      |
 | 30/08           | 100%                        |
 | 06/09           | 91,66%                      |
+| 14/09           | 91,66%                      |
 
 ### Resultados da métrica de capacidade de entrega do time
 
@@ -207,20 +208,21 @@ Dessa forma, para medirmos a qualidade do nosso software em uso seria necessári
 
 **Histórico de Versão**
 
-| Data       | Versão | Descrição                                                      | Autor(es)                 |
-| ---------- | ------ | -------------------------------------------------------------- | ------------------------- |
-| 15/07/2022 | 0.1    | Criação do plano de qualidade e adição do tópico de introdução | Nathalia, Luciano e Pedro |
-| 15/07/2022 | 0.2    | Adição do tópico de objetivos                                  | Nathalia, Luciano e Pedro |
-| 18/07/2022 | 0.3    | Adição do tópico de Abordagens e metodologias                  | Nathalia, Luciano e Pedro |
-| 18/07/2022 | 0.4    | Atualização do tópico de Abordagens e metodologias             | Nathalia, Luciano e Pedro |
-| 18/07/2022 | 0.5    | Adição do tópico de Qualidade a Nível Organizacional           | Nathalia, Luciano e Pedro |
-| 18/07/2022 | 0.6    | Adição do tópico de Qualidade a Nível de Projeto               | Nathalia, Luciano e Pedro |
-| 18/07/2022 | 0.7    | Adição do tópico de Qualidade na Visão de Usuário              | Nathalia, Luciano e Pedro |
-| 18/07/2022 | 0.8    | Adição de Referências                                          | Nathalia, Luciano e Pedro |
-| 31/07/2022 | 0.9    | Refatorando o documento                                        | Nathalia Lorena           |
-| 04/09/2022 | 1.0    | Refatorando o Objetivo 2                                       | Maicon Mares              |
-| 10/09/2022 | 1.1    | Refatorando o Objetivo 3 e acrescentando referências           | Nathalia Lorena           |
-| 12/09/2022 | 1.1    | Refatorando o Objetivo 1                                       | Nathalia Lorena           |
+| Data       | Versão | Descrição                                                             | Autor(es)                 |
+| ---------- | ------ | --------------------------------------------------------------------- | ------------------------- |
+| 15/07/2022 | 0.1    | Criação do plano de qualidade e adição do tópico de introdução        | Nathalia, Luciano e Pedro |
+| 15/07/2022 | 0.2    | Adição do tópico de objetivos                                         | Nathalia, Luciano e Pedro |
+| 18/07/2022 | 0.3    | Adição do tópico de Abordagens e metodologias                         | Nathalia, Luciano e Pedro |
+| 18/07/2022 | 0.4    | Atualização do tópico de Abordagens e metodologias                    | Nathalia, Luciano e Pedro |
+| 18/07/2022 | 0.5    | Adição do tópico de Qualidade a Nível Organizacional                  | Nathalia, Luciano e Pedro |
+| 18/07/2022 | 0.6    | Adição do tópico de Qualidade a Nível de Projeto                      | Nathalia, Luciano e Pedro |
+| 18/07/2022 | 0.7    | Adição do tópico de Qualidade na Visão de Usuário                     | Nathalia, Luciano e Pedro |
+| 18/07/2022 | 0.8    | Adição de Referências                                                 | Nathalia, Luciano e Pedro |
+| 31/07/2022 | 0.9    | Refatorando o documento                                               | Nathalia Lorena           |
+| 04/09/2022 | 1.0    | Refatorando o Objetivo 2                                              | Maicon Mares              |
+| 10/09/2022 | 1.1    | Refatorando o Objetivo 3 e acrescentando referências                  | Nathalia Lorena           |
+| 12/09/2022 | 1.2    | Refatorando o Objetivo 1                                              | Nathalia Lorena           |
+| 14/09/2022 | 1.3    | Corrigindo o Objetivo 3 e acrescentando dados na tabela do Objetivo 1 | Nathalia Lorena           |
 
 ## Referências
 
