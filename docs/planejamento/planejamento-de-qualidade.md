@@ -199,11 +199,11 @@ Onde, m4, m5 e m6 remetem a _Passed Tests_, _Fast Test Builds_ e _Coverage_, res
 
 É importante considerar que o cliente é quem está à frente. Ele tem o direito de participar e opinar durante o processo de construção do software. Neste contexto, a experiência do usuário, além das qualidades técnicas do software, é um fator determinante para a construção de sistemas de maior qualidade. Sua participação pode facilitar a compreensão dos seus desejos quanto ao software que está sendo desenvolvido. Esse aspecto da qualidade do software é chamado usabilidade.
 
-Dessa forma, para medirmos a qualidade do nosso software em uso, optamos por fazer testes de usabilidade com uma adaptação da escala Likert. Será desenvolvido e disponibilizado um formulário para o cliente a cada fim de sprint, serão disponibilizadas as funcionalidades em ambiente de homologação e conforme ele for testando as novas funcionalidades implementadas será possível ele avaliar o software em uso. Para isso, adaptamos a escala Likert que representa um dos melhores exemplos de como podemos tentar entender o nível de satisfação do cliente. Portanto, definimos uma escala de 1 a 5, onde 1 seria Insatisfeito e 5 Satisfeito.
+Dessa forma, para medirmos a qualidade do nosso software em uso seria necessário termos finalizado o desenvolvimento do software e disponibilizado para os usuários finais, no entanto, no momento isso não ase aplica, visto que ainda estamos em fase de desenvolvimento e sem acesso aos usuários finais. Mas futuramente pretendemos realizar testes de usabilidade com os usuários finais.
 
-| Goal | Questions                                                                 | Metrics                                                            |
-| ---- | ------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| 3    | Qual o nível de satisfação do cliente ao navegar por cada funcionalidade? | Respostas do formulário de acordo com a adaptação da Escala Likert |
+| Goal | Questions                                                                 | Metrics                                            |
+| ---- | ------------------------------------------------------------------------- | -------------------------------------------------- |
+| 3    | Qual o nível de satisfação do cliente ao navegar por cada funcionalidade? | Respostas dos testes de usabilidade via formulário |
 
 **Histórico de Versão**
 
