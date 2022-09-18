@@ -2,9 +2,10 @@
 
 ## Objetivo
 
-De acordo com a definição do guia PMBOK, a qualidade seria “o grau até o qual um conjunto de características inerentes satisfaz as necessidades”. Dessa forma, com o objetivo de detectar não conformidades dentro do projeto e estabelecer ações corretivas e preventivas para que seja possível entregar um produto que possua um grau elevado de satisfação para o usuário final, serão abordadas neste Planejamento de Qualidade, práticas, recursos e parâmetros que permitam ao time atingir esse objetivo.
+Segundo a ISO/IEC 25010 a "Qualidade de um sistema é o grau em que o sistema satisfaz as necessidades declaradas e implícitas de suas várias partes interessadas e, portanto, fornece valor. Essas necessidades dos stakeholders (funcionalidade, desempenho, segurança, manutenibilidade etc.) são justamente o que está representado no modelo de qualidade, que categoriza a qualidade do produto em características e subcaracterísticas". Dessa forma, com o objetivo de detectar não conformidades dentro do projeto e estabelecer ações corretivas e preventivas para que seja possível entregar um produto que possua um grau elevado de satisfação para o usuário final, serão abordadas neste Planejamento de Qualidade, práticas, modelos e parâmetros que permitam ao time atingir esse objetivo.
 
-Para isso faremos o uso da abordagem **GQM** (Goal Question Metrics) que é uma abordagem de cima para baixo (top-down) que estabelece um sistema de medição direcionado a metas para desenvolvimento de software em que a equipe inicia com metas organizacionais, define a medição das metas, levanta questões a abordar os objetivos e identifica as métricas que proporcionem as respostas. O modelo GQM está dividido em três níveis: Nível Conceitual, nível Operacional e nível Quantitativo.
+Este documento usa como apoio o modelo de qualidade Q-Rapids que busca a integração de fontes de dados heterogêneas, a agregação e interpretação de dados brutos e a seleção de métricas relevantes e orientadas para o
+negócio. Além disso, em paralelo utilizamos também a abordagem **GQM** (Goal Question Metrics) que é uma abordagem de cima para baixo (top-down) que estabelece um sistema de medição direcionado a metas para desenvolvimento de software em que a equipe inicia com metas organizacionais, define a medição das metas, levanta questões a abordar os objetivos e identifica as métricas que proporcionem as respostas. O modelo GQM está dividido em três níveis: Nível Conceitual, nível Operacional e nível Quantitativo.
 
 Essa abordagem possui 3 níveis hierárquicos, são eles:
 
@@ -208,21 +209,22 @@ Dessa forma, para medirmos a qualidade do nosso software em uso seria necessári
 
 **Histórico de Versão**
 
-| Data       | Versão | Descrição                                                             | Autor(es)                 |
-| ---------- | ------ | --------------------------------------------------------------------- | ------------------------- |
-| 15/07/2022 | 0.1    | Criação do plano de qualidade e adição do tópico de introdução        | Nathalia, Luciano e Pedro |
-| 15/07/2022 | 0.2    | Adição do tópico de objetivos                                         | Nathalia, Luciano e Pedro |
-| 18/07/2022 | 0.3    | Adição do tópico de Abordagens e metodologias                         | Nathalia, Luciano e Pedro |
-| 18/07/2022 | 0.4    | Atualização do tópico de Abordagens e metodologias                    | Nathalia, Luciano e Pedro |
-| 18/07/2022 | 0.5    | Adição do tópico de Qualidade a Nível Organizacional                  | Nathalia, Luciano e Pedro |
-| 18/07/2022 | 0.6    | Adição do tópico de Qualidade a Nível de Projeto                      | Nathalia, Luciano e Pedro |
-| 18/07/2022 | 0.7    | Adição do tópico de Qualidade na Visão de Usuário                     | Nathalia, Luciano e Pedro |
-| 18/07/2022 | 0.8    | Adição de Referências                                                 | Nathalia, Luciano e Pedro |
-| 31/07/2022 | 0.9    | Refatorando o documento                                               | Nathalia Lorena           |
-| 04/09/2022 | 1.0    | Refatorando o Objetivo 2                                              | Maicon Mares              |
-| 10/09/2022 | 1.1    | Refatorando o Objetivo 3 e acrescentando referências                  | Nathalia Lorena           |
-| 12/09/2022 | 1.2    | Refatorando o Objetivo 1                                              | Nathalia Lorena           |
-| 14/09/2022 | 1.3    | Corrigindo o Objetivo 3 e acrescentando dados na tabela do Objetivo 1 | Nathalia Lorena           |
+| Data       | Versão | Descrição                                                                | Autor(es)                 |
+| ---------- | ------ | ------------------------------------------------------------------------ | ------------------------- |
+| 15/07/2022 | 0.1    | Criação do plano de qualidade e adição do tópico de introdução           | Nathalia, Luciano e Pedro |
+| 15/07/2022 | 0.2    | Adição do tópico de objetivos                                            | Nathalia, Luciano e Pedro |
+| 18/07/2022 | 0.3    | Adição do tópico de Abordagens e metodologias                            | Nathalia, Luciano e Pedro |
+| 18/07/2022 | 0.4    | Atualização do tópico de Abordagens e metodologias                       | Nathalia, Luciano e Pedro |
+| 18/07/2022 | 0.5    | Adição do tópico de Qualidade a Nível Organizacional                     | Nathalia, Luciano e Pedro |
+| 18/07/2022 | 0.6    | Adição do tópico de Qualidade a Nível de Projeto                         | Nathalia, Luciano e Pedro |
+| 18/07/2022 | 0.7    | Adição do tópico de Qualidade na Visão de Usuário                        | Nathalia, Luciano e Pedro |
+| 18/07/2022 | 0.8    | Adição de Referências                                                    | Nathalia, Luciano e Pedro |
+| 31/07/2022 | 0.9    | Refatorando o documento                                                  | Nathalia Lorena           |
+| 04/09/2022 | 1.0    | Refatorando o Objetivo 2                                                 | Maicon Mares              |
+| 10/09/2022 | 1.1    | Refatorando o Objetivo 3 e acrescentando referências                     | Nathalia Lorena           |
+| 12/09/2022 | 1.2    | Refatorando o Objetivo 1                                                 | Nathalia Lorena           |
+| 14/09/2022 | 1.3    | Corrigindo o Objetivo 3 e acrescentando dados na tabela do Objetivo 1    | Nathalia Lorena           |
+| 18/09/2022 | 1.4    | Corrigindo o tópico de Objetivo do documento e acrescentando referências | Nathalia Lorena           |
 
 ## Referências
 
@@ -236,6 +238,9 @@ Dessa forma, para medirmos a qualidade do nosso software em uso seria necessári
 
 > LENILDO. Qualidade de Software - Engenharia de Software 29. DEVMEDIA, 2010. Disponível em: <https://www.devmedia.com.br/qualidade-de-software-engenharia-de-software-29/18209>. Acesso em: 30 jul. 2022.
 
-> ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR ISO/IEC 14598-1: Tecnologia de informação: Avaliação de produto de software. Rio de Janeiro, p. 07. 2001.
+> ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR ISO/IEC 25010: Systems and software engineering — Systems and software Quality Requirements and Evaluation (SQuaRE) — System and software quality models, 2011.
 
 > QuestionPro. Question Pro, 2022. Blog de pesquisa online e inteligẽncia de mercado. Disponível em: <https://www.questionpro.com/blog/pt-br/exemplos-de-escalas-likert/>. Acesso em: 10 set. 2022.
+
+> Fernandez, S. M. Jedlitschka, A. Guzman, L. Vollmer, A. M. A Quality Model for Actionable Analytics in Rapid
+> Software Development. 2018 44th Euromicro Conference on Software Engineering and Advanced Applications. Kaiserslautern, Germany, 2018. Disponível em: <https://ieeexplore.ieee.org/abstract/document/8498234?casa_token=8aE9OufxCwwAAAAA:0LeENRkDbLsapTL2LvdAXVk1pv2PMfMoAa1auLEu1OOqsAD0guuZnLG3V36Bf0JgGgkXnb7YqHE> Acesso em: 18 out. 2022.
