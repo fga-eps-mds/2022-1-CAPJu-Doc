@@ -78,9 +78,9 @@ Segundo o PMBOK controlar os riscos é o processo de implementação de planos d
 
 ## Documentação dos Riscos
 
-O principal resultado do processo Identificar os riscos é a entrada inicial no registro dos riscos. O registro dos riscos é o documento em que os resultados da análise dos riscos e o planejamento das respostas aos riscos são registrados.
+O principal resultado do processo de identificar os riscos é a entrada inicial no registro dos riscos. O registro dos riscos é o documento em que os resultados da análise dos riscos e o planejamento das respostas aos riscos são registrados.
 
-E para registrar um risco foi decidio utilizar o seguinte formato:
+E para registrar um risco foi decidido utilizar o seguinte formato:
 
 - **Identificador**: é um identificador único que está relacionado com o risco para que haja maior facilidade ao referenciar o risco.
 - **Descrição**: especificação do risco.
