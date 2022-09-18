@@ -8,9 +8,9 @@
 | ------ | ----- |
 | 09/08  | 16/08 |
 
-## 2. Objetivos da Sprint
+## 2. Objetivos do Sprint
 
-Após a entrega da primeira Realese e a alteração da arquitera e a refatoração das histórias de usuário que estavam de forma micro deixando muita dependencia. Assim iniciamos mais uma sprint, que tem como o objetivo a implementação das histórias de usuários 1,2,6,8, correções de alguns artefatos e a elaboração do EVM.
+Após a entrega da primeira Realese, alteração da arquitera e a refatoração das histórias de usuário que estavam de forma micro deixando muita dependência, iniciamos mais um sprint, que tem como o objetivo a implementação das histórias de usuários 1,2,6,8, correções de alguns artefatos e a elaboração do EVM.
 
 ## 3. Issues
 
@@ -24,11 +24,19 @@ Após a entrega da primeira Realese e a alteração da arquitera e a refatoraç�
 | -      | EVM                              | Todos EPS's                   |                |            |
 | -      | Formulario de Teste de Aceitação | Todos EPS's                   |                |            |
 
+## 4. PlannitPoker
+
+As pontuações votadas na ferramenta PlannitPoker agora encontram-se no board do [ZenHub](https://github.com/fga-eps-mds/2022-1-CAPJu-Doc#workspaces/2022-1-capju-62b4faabaec0e60011fcf170/board) do time CAPJu.
+
+## 5. Retrospective
+
+A Retro desse sprint encontra-se no [MetroRetro](https://metroretro.io/board/LBFXV1LCP89B).
+
 # Review
 
 ## Conclusão
 
-Após um definição de Pronto para as Historia de Usuário, a equipe terminamos uma sprint sem historia de usuário prontas, pois a equipe encontrou dificuldades na implementação dos testes unitários e de integração.
+Após o time ter uma definição de "pronto" para as Historias de Usuário, a equipe terminou um sprint sem histórias de usuário prontas, pois a equipe encontrou dificuldades na implementação dos testes unitários e de integração.
 
 **Apontamentos levandos pelo Wellington:**
 

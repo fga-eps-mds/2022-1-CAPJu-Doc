@@ -10,7 +10,7 @@
 
 ## 2. Objetivos da Sprint
 
-O objetivo dessa sprint é adicionar as melhorias nas histórias de usuário 1,2,6 levantada pelo PO, o desenvolvimento de uma nova história de usuário a US7 e a adição de uma nova história ao escopo.
+O objetivo desse sprint é adicionar as melhorias nas histórias de usuário 1,2,6 levantadas pelo PO, o desenvolvimento de uma nova história de usuário a US7 e a adição de uma nova história ao escopo.
 
 ## 3. Issues
 
@@ -25,6 +25,14 @@ O objetivo dessa sprint é adicionar as melhorias nas histórias de usuário 1,2
 |        | Adicionar os Requisitos Funcionais no Roadmap |                             |        |            |
 |        | Analisar o EscopoXTempoXCusto                 |                             |        |            |
 |        | Analisar os 3 principais Riscos do Projeto    |                             |        |            |
+
+## 4. PlannitPoker
+
+As pontuações votadas na ferramenta PlannitPoker agora encontram-se no board do [ZenHub](https://github.com/fga-eps-mds/2022-1-CAPJu-Doc#workspaces/2022-1-capju-62b4faabaec0e60011fcf170/board) do time CAPJu.
+
+## 5. Retrospective
+
+A Retro desse sprint encontra-se no [MetroRetro](https://metroretro.io/board/LBFXV1LCP89B).
 
 # Review
 

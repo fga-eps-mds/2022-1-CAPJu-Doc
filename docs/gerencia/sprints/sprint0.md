@@ -13,11 +13,11 @@
 | ------ | ----- |
 | 12/07  | 19/07 |
 
-## 2. Objetivos da Sprint
+## 2. Objetivos do Sprint
 
 <!-- descrever de forma geral o objetivo da sprint -->
 
-Essa sprint trata-se de inagural tem como objetivo documentar algums artefatos e verificar e alinhar os conhecimentos entre a equipe de mds e eps
+Esse sprint é o sprint inagural e tem como objetivo documentar alguns artefatos, verificar e alinhar os conhecimentos entre os membros de MDS e EPS. Nesse sprint também definimos duas ferramentas que nos apoiarão nas cerimonias do scrum, utilizaremos a ferramenta [MetroRetro](https://metroretro.io/board/LBFXV1LCP89B) na sprint Retrospective e o [PlannItPoker](https://www.planitpoker.com/board/#/room/8e33d4983dc0439f810897f757d83346) para pontuar nossas US's durante a Planning do time.
 
 ## 3. Issues
 
@@ -47,4 +47,4 @@ Essa sprint trata-se de inagural tem como objetivo documentar algums artefatos e
 
 ## 1. Conclusão
 
-A Sprint mesmo com algumas tarefas incompletas obteve resultados produtivos em seus pareamentos.
+O Sprint mesmo com algumas tarefas incompletas obteve resultados produtivos em seus pareamentos.
