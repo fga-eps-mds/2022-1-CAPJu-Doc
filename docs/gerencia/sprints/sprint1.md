@@ -8,9 +8,9 @@
 | ------ | ----- |
 | 19/07  | 26/07 |
 
-## 2. Objetivos da Sprint
+## 2. Objetivos do Sprint
 
-Essa sprint tem como objetivo iniciarmos a codificar as US01 e US07 e também finalizar algumas artefatos importantes
+Esse sprint tem como objetivo iniciarmos a codificar as US01 e US07 e também finalizar alguns artefatos importantes.
 
 ## 3. Issues
 
@@ -26,15 +26,19 @@ Essa sprint tem como objetivo iniciarmos a codificar as US01 e US07 e também fi
 | #74    | Identidade Visual             | Francisco, Maicon      | Finalizado | Validado com o cliente                                                      |
 | -      | Documentar os Treinamentos    | Todos EPS              | Finalizado | -                                                                           |
 
-## 4. Planning Poker
+## 4. PlannitPoker
 
 | US  | Pontuação |
 | --- | --------- |
 | 01  | 05        |
 | 07  | 08        |
 
+## 5. Retrospective
+
+A Retro desse sprint encontra-se no [MetroRetro](https://metroretro.io/board/LBFXV1LCP89B).
+
 # Review
 
 ## 1. Conclusão
 
-A sprint não teve conclusão pois teve muitas atividades incompletas
+O sprint não teve conclusão, pois tivemos muitas atividades incompletas, devido a um planjemento falho.

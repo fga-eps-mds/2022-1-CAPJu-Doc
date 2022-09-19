@@ -10,7 +10,7 @@
 
 ## 2. Objetivos da Sprint
 
-O objetivo dessa sprint é continuar com implementação da US 7 com as melhorias exigidas pelo cliente e implementar as novas US 1,3,5.
+O objetivo desse sprint é continuar com implementação da US7 com as melhorias exigidas pelo cliente e implementar as novas US 1,3,5.
 
 ## 3. Issues
 
@@ -22,6 +22,14 @@ O objetivo dessa sprint é continuar com implementação da US 7 com as melhoria
 | #75    | US05 - Manter Perfis de Acesso        | Pablo, Philipe  |        |            |
 | #149   | Documento de Qualidade                | EPS's           |        |            |
 |        | Prototipagem das Funcionalidades      | MDS's           |        |            |
+
+## 4. PlannitPoker
+
+As pontuações votadas na ferramenta PlannitPoker agora encontram-se no board do [ZenHub](https://github.com/fga-eps-mds/2022-1-CAPJu-Doc#workspaces/2022-1-capju-62b4faabaec0e60011fcf170/board) do time CAPJu.
+
+## 5. Retrospective
+
+A Retro desse sprint encontra-se no [MetroRetro](https://metroretro.io/board/LBFXV1LCP89B).
 
 # Review
 

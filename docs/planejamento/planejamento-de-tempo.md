@@ -32,22 +32,6 @@ Para definição e planejamento das atividades decidimos pela utilização da t�
 - Custo total (planejado): custo que leva em conta o custo da hora estimado por pessoa, o número de integrantes envolvidos e total de horas planejadas.
 - Custo total (real): custo que leva em conta o custo da hora estimado por pessoa, o número de integrantes envolvidos e total de horas realmente gastos.
 
-<!--
-A seguir se encontra a planilha dinâmica com todas as atividades definidas e estimadas por semana, na qual as atividades são atualizadas a cada semana. A sequência das atividades foi feita com base no Gráfico de Gantt, mas adaptada.
-
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTnVQ2fXbtENoLlmsAK50Iwza4HCtssgZ7x3kO1L_SOF3OWhexchKkFk5tQVJa0cw/pubhtml?widget=true&amp;headers=false" width="100%" height="480px" style="min-width: 640px; min-height: 480px; background-color: #f4f4f4; border: 1px solid #efefef;"></iframe>
-
-## Estimativas
-
-As estimativas das atividades foram realizadas com base na técnica _Program Evalutation and Review Technique_ (PERT). Nesta, é calculada uma média ponderada para a estimativa da atividade em questão, onde:
-
-<strong style="text-align: center;">Equação análise PERT</strong><br>
-![Screenshot from 2022-07-18 23-42-17](https://user-images.githubusercontent.com/47460478/179653196-1c6b40b8-20fd-4722-8a19-04affb5e7af7.png)
-
-<p>Fonte: Ricardo Vargas. Gerenciamento de Projetos: Estabelecendo diferenciais competitivos. 7. ed. Rio de Janeiro: Brasport, 2009. p. 208.</p>
-
-As estimativas das atividades foram realizadas em minutos a fim de simplificar as comparações e noção de tempo das mesmas. -->
-
 ## Histórico de Versão
 
 | Data       | Versão | Descrição                                       | Autor(es/as)                                                                   |

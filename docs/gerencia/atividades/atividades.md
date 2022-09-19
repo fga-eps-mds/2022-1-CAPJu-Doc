@@ -1,6 +1,6 @@
 # Atividades
 
-No período que antecedeu o início das Sprints foram realizadas algumas atividades envolvendo a equipe 5, com o intuito de nos organizar, disseminar e alinhar conhecimentos em relação ao projeto proposto nas disciplinas de Engenharia de Produto de Software e Métodos de Desevolvimento de Software.
+No período que antecedeu o início dos Sprints foram realizadas algumas atividades envolvendo a equipe 5, com o intuito de nos organizar, disseminar e alinhar conhecimentos em relação ao projeto proposto nas disciplinas de Engenharia de Produto de Software e Métodos de Desevolvimento de Software.
 
 | Data  | Atividade                                                                                                                                                     |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
