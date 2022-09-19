@@ -8,9 +8,9 @@
 | ------ | ----- |
 | 26/07  | 31/07 |
 
-## 2. Objetivos da Sprint
+## 2. Objetivos do Sprint
 
-Essa sprint tem a finalidade de terminar todas as tarefas pendentes para a apresentação da Realese 1 e os desenvolvimentos das Histórias de Usuáio 1,2,3,435,7,15,16,17,18.
+Esse sprint tem a finalidade de terminar todas as tarefas pendentes para a apresentação da Realese 1 e os desenvolvimentos das Histórias de Usuário 1,2,3,4,5,7,15,16,17,18.
 
 ## 3. Issues
 
@@ -37,7 +37,7 @@ Essa sprint tem a finalidade de terminar todas as tarefas pendentes para a apres
 | #32    | Orquestração das Pipeles            | Arthur, Aquiles                 | Finalizada |
 | -      | Realese 1                           | Todos                           | Finalizada | Apresentação ocorrerá no dia 03/08                |
 
-## 4. Planning Poker
+## 4. PlannitPoker
 
 | US  | Pontuação |
 | --- | --------- |
@@ -51,8 +51,12 @@ Essa sprint tem a finalidade de terminar todas as tarefas pendentes para a apres
 | 16  | 08        |
 | 17  | 13        |
 
+## 5. Retrospective
+
+A Retro desse sprint encontra-se no [MetroRetro](https://metroretro.io/board/LBFXV1LCP89B).
+
 # Review
 
 ## Conclusão
 
-A versão incial dos documentos foram finalizados com êxito , a equipe formada pelo alunos da disciplina de MDS ainda continuam com dificuldades, então os alunos de EPS tomaram algums responsabilidades de desenvolvimento para a finalização das Histórias de Usuário.
+A versão inicial dos documentos foi finalizada com êxito, a equipe formada pelos alunos da disciplina de MDS ainda continuam com dificuldades de desenvolver algumas Histórias de Usuário, então os alunos de EPS decidiram responsabilizar-se pelo desenvolvimento para a finalização das Histórias de Usuário.

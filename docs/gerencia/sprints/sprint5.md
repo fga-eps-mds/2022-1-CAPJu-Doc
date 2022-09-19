@@ -10,7 +10,7 @@
 
 ## 2. Objetivos da Sprint
 
-O objetivo dessa sprint é continuar com as atividades pendentes e melhorias das histórias de usuário 1,2,6,8.
+O objetivo desse sprint é continuar com as atividades pendentes e melhorias das histórias de usuário 1,2,6,8.
 
 ## 3. Issues
 
@@ -23,6 +23,14 @@ O objetivo dessa sprint é continuar com as atividades pendentes e melhorias das
 | #128   | Documento de Qualidade                         |                             | Em andamento   |            |
 | #128   | Elaboração do diagrama de dados na Arquitetura | Todos EPS's                 |                |            |
 |        | Treinamento de Teste                           | Todos                       |                |            |
+
+## 4. PlannitPoker
+
+As pontuações votadas na ferramenta PlannitPoker agora encontram-se no board do [ZenHub](https://github.com/fga-eps-mds/2022-1-CAPJu-Doc#workspaces/2022-1-capju-62b4faabaec0e60011fcf170/board) do time CAPJu.
+
+## 5. Retrospective
+
+A Retro desse sprint encontra-se no [MetroRetro](https://metroretro.io/board/LBFXV1LCP89B).
 
 # Review
 
