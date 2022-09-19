@@ -18,7 +18,7 @@
   - Prototipação
     - [Protótipo de Baixa Fidelidade](projeto/prototipos/baixa.md)
     - [Protótipo de Alta Fidelidade](projeto/prototipos/alta.md)
-  - [Quadro de Conhecimentos](projeto/quatro-de-conhecimentos.md)
+  - [Quadro de Conhecimentos](projeto/quadro-de-conhecimentos.md)
 
 - ➢ **Gestão**
 
