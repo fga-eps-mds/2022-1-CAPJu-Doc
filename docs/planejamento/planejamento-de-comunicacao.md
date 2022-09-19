@@ -2,7 +2,7 @@
 
 ## Introdução
 
-O plano de Comunicação é uma estratégia para quais inclui os processos necessários para assegurar que as informações do projeto sejam planejadas, coletadas, criadas, distribuídas, armazenadas, recuperadas,gerenciadas, controladas, monitoradas e finalmente dispostas de maneira oportuna e apropriada.
+O plano de Comunicação é uma estratégia que pretende determinar os processos necessários para assegurar que as informações do projeto sejam planejadas, coletadas, criadas, distribuídas, armazenadas, recuperadas, gerenciadas, controladas, monitoradas e finalmente dispostas de maneira oportuna e apropriada.
 
 ### Ferramentas
 
@@ -15,7 +15,7 @@ O plano de Comunicação é uma estratégia para quais inclui os processos neces
 
 ### Reuniões
 
-Posteriormente ao contato inicial entre os envolvidos do projeto, foi estabelecidos os seguintes dias da semana para realização dos encontros:
+Posteriormente ao contato inicial entre os envolvidos do projeto, foram estabelecidos os seguintes dias da semana para realização dos encontros:
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRYiiiXPkLrwOKSVktfTpl_sa7QgY_pH0F15D5nPAfTpHghgIPZpipEDTho5Yx4itKEn9q6ay-OvcrS/pubhtml?gid=96807035&amp;single=true&amp;widget=true&amp;headers=false" width = "100%" height = "300 "></iframe>
 
@@ -30,6 +30,7 @@ Posteriormente ao contato inicial entre os envolvidos do projeto, foi estabeleci
 | 13/07/2022 | 0.2    | Adicionado a introdução e listando as ferramentas de comunicação | Francisco, Philipe, Hellen |
 | 15/07/2022 | 0.3    | Adicionado algumas imagens e revisando                           | Francisco, Philipe, Hellen |
 | 16/07/2022 | 0.4    | Revisão no documento                                             | Francisco, Philipe, Hellen |
+| 18/09/2022 | 0.5    | Revisão no documento                                             | Nathalia Lorena            |
 
 ## Referências
 

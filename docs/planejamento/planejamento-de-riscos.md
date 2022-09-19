@@ -92,7 +92,7 @@ E para registrar um risco foi decidido utilizar o seguinte formato:
 
 ### Matriz de riscos
 
-Foi utilizado a seguinte planilha para o gerenciamento dos Riscos
+Foi utilizada a seguinte planilha para o gerenciamento dos Riscos
 
 ![matrix-risk](https://i.imgur.com/XgRpEhO.png)
 
