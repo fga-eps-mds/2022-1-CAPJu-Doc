@@ -104,14 +104,19 @@ Foi utilizada a seguinte planilha para o gerenciamento dos Riscos
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQfpSL-0CmHapTdqDO9IrMqb8u2l48zIvK0Z-5Ha5Pz-PfkPUsx3pwCiKJu3FTXe6ppxoiopapcEWkk/pubhtml?widget=true&amp;headers=false" height="400px" width="1000px"></iframe>
 
+## Burndown de riscos
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRn1TCYGv6PwTCfa1OKCTFwYD5FxFAv-73_Ef50odxuLIIrE9Pl9LwksLxGUBhiNQ/pubhtml?widget=true&amp;headers=false" height="900px" width="1000px"></iframe>
+
 **Histórico de Versão**
 
-| Data       | Versão | Descrição                          | Autor(es)                                    |
-| ---------- | ------ | ---------------------------------- | -------------------------------------------- |
-| 26/07/2022 | 0.1    | Criação do documento               | Francisco                                    |
-| 27/07/2022 | 0.2    | Levantamento dos Riscos            | Aquiles, Francisco, Nathalia, Maicon, Arthur |
-| 28/07/2022 | 0.3    | Respostas aos Riscos               | Aquiles, Francisco, Nathalia, Maicon, Arthur |
-| 07/08/2022 | 0.4    | Trocando tabelas fixas por iframes | Francisco                                    |
+| Data       | Versão | Descrição                           | Autor(es)                                    |
+| ---------- | ------ | ----------------------------------- | -------------------------------------------- |
+| 26/07/2022 | 0.1    | Criação do documento                | Francisco                                    |
+| 27/07/2022 | 0.2    | Levantamento dos Riscos             | Aquiles, Francisco, Nathalia, Maicon, Arthur |
+| 28/07/2022 | 0.3    | Respostas aos Riscos                | Aquiles, Francisco, Nathalia, Maicon, Arthur |
+| 07/08/2022 | 0.4    | Trocando tabelas fixas por iframes  | Francisco                                    |
+| 07/08/2022 | 0.5    | adicionando o Burndown no documento | Francisco                                    |
 
 ## Referências
 
