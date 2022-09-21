@@ -2,7 +2,7 @@
   "paging": {
     "pageIndex": 1,
     "pageSize": 500,
-    "total": 30
+    "total": 27
   },
   "baseComponent": {
     "id": "AYI6PeQf9v_790bye7Cc",
@@ -17,11 +17,11 @@
       },
       {
         "metric": "functions",
-        "value": "28"
+        "value": "24"
       },
       {
         "metric": "test_execution_time",
-        "value": "0"
+        "value": "1924"
       },
       {
         "metric": "test_failures",
@@ -40,28 +40,28 @@
       },
       {
         "metric": "tests",
-        "value": "0"
-      },
-      {
-        "metric": "files",
         "value": "18"
       },
       {
+        "metric": "files",
+        "value": "15"
+      },
+      {
         "metric": "complexity",
-        "value": "46"
+        "value": "40"
       },
       {
         "metric": "ncloc",
-        "value": "641"
+        "value": "526"
       },
       {
         "metric": "coverage",
-        "value": "19.6",
+        "value": "62.0",
         "bestValue": false
       },
       {
         "metric": "comment_lines_density",
-        "value": "1.2",
+        "value": "1.3",
         "bestValue": false
       }
     ]
@@ -76,7 +76,7 @@
       "measures": [
         {
           "metric": "test_execution_time",
-          "value": "0"
+          "value": "1924"
         },
         {
           "metric": "test_failures",
@@ -95,7 +95,7 @@
         },
         {
           "metric": "tests",
-          "value": "0"
+          "value": "18"
         }
       ]
     },
@@ -225,7 +225,7 @@
         },
         {
           "metric": "functions",
-          "value": "20"
+          "value": "16"
         },
         {
           "metric": "security_rating",
@@ -234,19 +234,19 @@
         },
         {
           "metric": "files",
-          "value": "4"
+          "value": "3"
         },
         {
           "metric": "complexity",
-          "value": "31"
+          "value": "25"
         },
         {
           "metric": "ncloc",
-          "value": "315"
+          "value": "242"
         },
         {
           "metric": "coverage",
-          "value": "0.7",
+          "value": "67.2",
           "bestValue": false
         },
         {
@@ -304,7 +304,7 @@
         },
         {
           "metric": "ncloc",
-          "value": "15"
+          "value": "14"
         },
         {
           "metric": "coverage",
@@ -425,11 +425,11 @@
         },
         {
           "metric": "ncloc",
-          "value": "84"
+          "value": "83"
         },
         {
           "metric": "coverage",
-          "value": "0.0",
+          "value": "76.1",
           "bestValue": false
         },
         {
@@ -517,7 +517,7 @@
         },
         {
           "metric": "ncloc",
-          "value": "17"
+          "value": "16"
         },
         {
           "metric": "coverage",
@@ -638,11 +638,11 @@
         },
         {
           "metric": "ncloc",
-          "value": "104"
+          "value": "102"
         },
         {
           "metric": "coverage",
-          "value": "2.2",
+          "value": "57.8",
           "bestValue": false
         },
         {
@@ -741,7 +741,7 @@
         },
         {
           "metric": "ncloc",
-          "value": "113"
+          "value": "93"
         },
         {
           "metric": "coverage",
@@ -755,7 +755,7 @@
         },
         {
           "metric": "comment_lines_density",
-          "value": "3.4",
+          "value": "3.1",
           "bestValue": false
         },
         {
@@ -802,7 +802,7 @@
         },
         {
           "metric": "files",
-          "value": "6"
+          "value": "5"
         },
         {
           "metric": "complexity",
@@ -810,12 +810,12 @@
         },
         {
           "metric": "ncloc",
-          "value": "86"
+          "value": "69"
         },
         {
           "metric": "coverage",
-          "value": "100.0",
-          "bestValue": true
+          "value": "77.8",
+          "bestValue": false
         },
         {
           "metric": "comment_lines_density",
@@ -924,11 +924,11 @@
         },
         {
           "metric": "functions",
-          "value": "28"
+          "value": "24"
         },
         {
           "metric": "test_execution_time",
-          "value": "0"
+          "value": "1924"
         },
         {
           "metric": "test_failures",
@@ -947,28 +947,28 @@
         },
         {
           "metric": "tests",
-          "value": "0"
-        },
-        {
-          "metric": "files",
           "value": "18"
         },
         {
+          "metric": "files",
+          "value": "15"
+        },
+        {
           "metric": "complexity",
-          "value": "46"
+          "value": "40"
         },
         {
           "metric": "ncloc",
-          "value": "641"
+          "value": "526"
         },
         {
           "metric": "coverage",
-          "value": "19.6",
+          "value": "62.0",
           "bestValue": false
         },
         {
           "metric": "comment_lines_density",
-          "value": "1.2",
+          "value": "1.3",
           "bestValue": false
         }
       ]
@@ -991,7 +991,7 @@
         },
         {
           "metric": "ncloc",
-          "value": "14"
+          "value": "13"
         },
         {
           "metric": "coverage",
@@ -1112,11 +1112,11 @@
         },
         {
           "metric": "ncloc",
-          "value": "58"
+          "value": "57"
         },
         {
           "metric": "coverage",
-          "value": "0.0",
+          "value": "67.9",
           "bestValue": false
         },
         {
@@ -1156,11 +1156,11 @@
         },
         {
           "metric": "test_execution_time",
-          "value": "0"
+          "value": "630"
         },
         {
           "metric": "tests",
-          "value": "0"
+          "value": "4"
         },
         {
           "metric": "test_errors",
@@ -1194,11 +1194,11 @@
         },
         {
           "metric": "test_execution_time",
-          "value": "0"
+          "value": "657"
         },
         {
           "metric": "tests",
-          "value": "0"
+          "value": "8"
         },
         {
           "metric": "test_errors",
@@ -1232,11 +1232,11 @@
         },
         {
           "metric": "test_execution_time",
-          "value": "0"
+          "value": "637"
         },
         {
           "metric": "tests",
-          "value": "0"
+          "value": "6"
         },
         {
           "metric": "test_errors",
@@ -1264,7 +1264,7 @@
       "measures": [
         {
           "metric": "test_execution_time",
-          "value": "0"
+          "value": "1924"
         },
         {
           "metric": "test_failures",
@@ -1283,175 +1283,7 @@
         },
         {
           "metric": "tests",
-          "value": "0"
-        }
-      ]
-    },
-    {
-      "id": "AYNd0MTBf2Mi-5ff1QQp",
-      "key": "fga-eps-mds_2022-1-CAPJu-Service:src/schemas/Unity.js",
-      "name": "Unity.js",
-      "qualifier": "FIL",
-      "path": "src/schemas/Unity.js",
-      "language": "js",
-      "measures": [
-        {
-          "metric": "complexity",
-          "value": "0"
-        },
-        {
-          "metric": "functions",
-          "value": "0"
-        },
-        {
-          "metric": "ncloc",
-          "value": "12"
-        },
-        {
-          "metric": "coverage",
-          "value": "100.0",
-          "bestValue": true
-        },
-        {
-          "metric": "security_rating",
-          "value": "1.0",
-          "bestValue": true
-        },
-        {
-          "metric": "comment_lines_density",
-          "value": "0.0",
-          "bestValue": false
-        },
-        {
-          "metric": "files",
-          "value": "1"
-        },
-        {
-          "metric": "test_errors",
-          "value": "0",
-          "bestValue": true
-        },
-        {
-          "metric": "duplicated_lines_density",
-          "value": "0.0",
-          "bestValue": true
-        },
-        {
-          "metric": "test_failures",
-          "value": "0",
-          "bestValue": true
-        }
-      ]
-    },
-    {
-      "id": "AYNd0MTBf2Mi-5ff1QQq",
-      "key": "fga-eps-mds_2022-1-CAPJu-Service:src/validators/Unity.js",
-      "name": "Unity.js",
-      "qualifier": "FIL",
-      "path": "src/validators/Unity.js",
-      "language": "js",
-      "measures": [
-        {
-          "metric": "complexity",
-          "value": "0"
-        },
-        {
-          "metric": "functions",
-          "value": "0"
-        },
-        {
-          "metric": "ncloc",
-          "value": "5"
-        },
-        {
-          "metric": "coverage",
-          "value": "100.0",
-          "bestValue": true
-        },
-        {
-          "metric": "security_rating",
-          "value": "1.0",
-          "bestValue": true
-        },
-        {
-          "metric": "comment_lines_density",
-          "value": "0.0",
-          "bestValue": false
-        },
-        {
-          "metric": "files",
-          "value": "1"
-        },
-        {
-          "metric": "test_errors",
-          "value": "0",
-          "bestValue": true
-        },
-        {
-          "metric": "duplicated_lines_density",
-          "value": "0.0",
-          "bestValue": true
-        },
-        {
-          "metric": "test_failures",
-          "value": "0",
-          "bestValue": true
-        }
-      ]
-    },
-    {
-      "id": "AYNUV7qbSTo9r2SLr4OV",
-      "key": "fga-eps-mds_2022-1-CAPJu-Service:src/controllers/UnityController.js",
-      "name": "UnityController.js",
-      "qualifier": "FIL",
-      "path": "src/controllers/UnityController.js",
-      "language": "js",
-      "measures": [
-        {
-          "metric": "functions",
-          "value": "4"
-        },
-        {
-          "metric": "security_rating",
-          "value": "5.0",
-          "bestValue": false
-        },
-        {
-          "metric": "files",
-          "value": "1"
-        },
-        {
-          "metric": "complexity",
-          "value": "6"
-        },
-        {
-          "metric": "ncloc",
-          "value": "69"
-        },
-        {
-          "metric": "coverage",
-          "value": "0.0",
-          "bestValue": false
-        },
-        {
-          "metric": "comment_lines_density",
-          "value": "0.0",
-          "bestValue": false
-        },
-        {
-          "metric": "test_errors",
-          "value": "0",
-          "bestValue": true
-        },
-        {
-          "metric": "duplicated_lines_density",
-          "value": "0.0",
-          "bestValue": true
-        },
-        {
-          "metric": "test_failures",
-          "value": "0",
-          "bestValue": true
+          "value": "18"
         }
       ]
     },
@@ -1473,12 +1305,12 @@
         },
         {
           "metric": "ncloc",
-          "value": "22"
+          "value": "20"
         },
         {
           "metric": "coverage",
-          "value": "100.0",
-          "bestValue": true
+          "value": "0.0",
+          "bestValue": false
         },
         {
           "metric": "security_rating",
@@ -1534,7 +1366,7 @@
         },
         {
           "metric": "files",
-          "value": "4"
+          "value": "3"
         },
         {
           "metric": "complexity",
@@ -1542,7 +1374,7 @@
         },
         {
           "metric": "ncloc",
-          "value": "59"
+          "value": "54"
         },
         {
           "metric": "coverage",
