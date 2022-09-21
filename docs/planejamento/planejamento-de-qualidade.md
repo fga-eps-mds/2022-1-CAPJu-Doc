@@ -15,9 +15,13 @@ Essa abordagem possui 3 níveis hierárquicos, são eles:
 
 ## Goals
 
+Para definição dos nossos objetivos de qualidade estamos separando a qualidade em duas categorias, sendo elas: Qualidade de Projeto e Qualidade de Produto.
+
+## Qualidade do Projeto
+
 ### Objetivo 1 - Medir a Qualidade Organizacional do time
 
-Para que seja possível medir a qualidade organizacional é necessário primeiramente definir os aspectos que serão avaliados dentro desse contexto. Pretende-se avaliar dentro do Objetivo 1, por exemplo, a participação do time nas cerimônias do Scrum e capacidade de entrega do time. A medição da qualidade a nível organizacional permite ao próprio time uma autonomia para tomar decisões e gerar uma melhoria contínua nas entregas de releases.
+Para que seja possível medir a qualidade interna organizacional é necessário primeiramente definir os aspectos que serão avaliados dentro desse contexto. Pretende-se avaliar dentro do Objetivo 1, por exemplo, a participação do time nas cerimônias do Scrum e capacidade de entrega do time. A medição da qualidade a nível organizacional permite ao próprio time uma autonomia para tomar decisões e gerar uma melhoria contínua nas entregas de releases.
 
 Conforme propõe a ISO/IEC 14598-1 que está direcionada ao ponto de vista de desenvolvedores que pretendem desenvolver um novo produto ou melhorar um produto existente e pretendam executar avaliação de produto utilizando pessoas de seu próprio corpo técnico pode-se fazer o uso de indicadores que ajudam a prever a qualidade do produto final através da medição de produtos intermediários desenvolvidos durante o ciclo de vida.
 
@@ -58,9 +62,11 @@ O Velocity é utilizado para medir a quantidade média de trabalho que uma equip
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQNVZMDKy8K8NRDpOKHrT-rJR4PrXZ1qvqBeyo1YFqyjGybu9POY0DAvuedkYm1rjrW8_xVtRCn5zos/pubhtml?gid=969790840&amp;single=true&amp;widget=true&amp;headers=false" height="600px" width="800px"></iframe>
 
-### Objetivo 2 - Medir a Qualidade do Produto
+## Qualidade do Produto
 
-Para avaliar a qualidade do produto serão coletadas métricas por meio do SonarCloud após cada _Pull Request_ submetido e cujo _merge_ tenha sido realizado. Após coletadas, essas métricas são combinadas para calcular cada um dos aspectos de qualidade que interessa a este Projeto, estando esses divididos em:
+### Objetivo 2 - Medir a Qualidade externa do Software
+
+Para avaliar a qualidade externa do software, que ocorre quando o software sendo testado em um ambiente simulado, serão coletadas métricas por meio do SonarCloud após cada _Pull Request_ submetido e cujo _merge_ tenha sido realizado. Após coletadas, essas métricas são combinadas para calcular cada um dos aspectos de qualidade que interessa a este Projeto, estando esses divididos em:
 
 - Manutenibilidade do código
 - Confiabilidade
@@ -197,7 +203,7 @@ Fonte: Próprio autor
 
 Onde, m4, m5 e m6 remetem a _Passed Tests_, _Fast Test Builds_ e _Coverage_, respectivamente. O resultado final é um valor entre 0 e 1 (0: péssimo, 1: excelente)
 
-### Objetivo 3 - Medir a Qualidade em Uso
+### Objetivo 3 - Medir a Qualidade do Software em Uso
 
 É importante considerar que o cliente é quem está à frente. Ele tem o direito de participar e opinar durante o processo de construção do software. Neste contexto, a experiência do usuário, além das qualidades técnicas do software, é um fator determinante para a construção de sistemas de maior qualidade. Sua participação pode facilitar a compreensão dos seus desejos quanto ao software que está sendo desenvolvido. Esse aspecto da qualidade do software é chamado usabilidade.
 
@@ -209,22 +215,23 @@ Dessa forma, para medirmos a qualidade do nosso software em uso seria necessári
 
 **Histórico de Versão**
 
-| Data       | Versão | Descrição                                                                | Autor(es)                 |
-| ---------- | ------ | ------------------------------------------------------------------------ | ------------------------- |
-| 15/07/2022 | 0.1    | Criação do plano de qualidade e adição do tópico de introdução           | Nathalia, Luciano e Pedro |
-| 15/07/2022 | 0.2    | Adição do tópico de objetivos                                            | Nathalia, Luciano e Pedro |
-| 18/07/2022 | 0.3    | Adição do tópico de Abordagens e metodologias                            | Nathalia, Luciano e Pedro |
-| 18/07/2022 | 0.4    | Atualização do tópico de Abordagens e metodologias                       | Nathalia, Luciano e Pedro |
-| 18/07/2022 | 0.5    | Adição do tópico de Qualidade a Nível Organizacional                     | Nathalia, Luciano e Pedro |
-| 18/07/2022 | 0.6    | Adição do tópico de Qualidade a Nível de Projeto                         | Nathalia, Luciano e Pedro |
-| 18/07/2022 | 0.7    | Adição do tópico de Qualidade na Visão de Usuário                        | Nathalia, Luciano e Pedro |
-| 18/07/2022 | 0.8    | Adição de Referências                                                    | Nathalia, Luciano e Pedro |
-| 31/07/2022 | 0.9    | Refatorando o documento                                                  | Nathalia Lorena           |
-| 04/09/2022 | 1.0    | Refatorando o Objetivo 2                                                 | Maicon Mares              |
-| 10/09/2022 | 1.1    | Refatorando o Objetivo 3 e acrescentando referências                     | Nathalia Lorena           |
-| 12/09/2022 | 1.2    | Refatorando o Objetivo 1                                                 | Nathalia Lorena           |
-| 14/09/2022 | 1.3    | Corrigindo o Objetivo 3 e acrescentando dados na tabela do Objetivo 1    | Nathalia Lorena           |
-| 18/09/2022 | 1.4    | Corrigindo o tópico de Objetivo do documento e acrescentando referências | Nathalia Lorena           |
+| Data       | Versão | Descrição                                                                | Autor(es)                      |
+| ---------- | ------ | ------------------------------------------------------------------------ | ------------------------------ |
+| 15/07/2022 | 0.1    | Criação do plano de qualidade e adição do tópico de introdução           | Nathalia, Luciano e Pedro      |
+| 15/07/2022 | 0.2    | Adição do tópico de objetivos                                            | Nathalia, Luciano e Pedro      |
+| 18/07/2022 | 0.3    | Adição do tópico de Abordagens e metodologias                            | Nathalia, Luciano e Pedro      |
+| 18/07/2022 | 0.4    | Atualização do tópico de Abordagens e metodologias                       | Nathalia, Luciano e Pedro      |
+| 18/07/2022 | 0.5    | Adição do tópico de Qualidade a Nível Organizacional                     | Nathalia, Luciano e Pedro      |
+| 18/07/2022 | 0.6    | Adição do tópico de Qualidade a Nível de Projeto                         | Nathalia, Luciano e Pedro      |
+| 18/07/2022 | 0.7    | Adição do tópico de Qualidade na Visão de Usuário                        | Nathalia, Luciano e Pedro      |
+| 18/07/2022 | 0.8    | Adição de Referências                                                    | Nathalia, Luciano e Pedro      |
+| 31/07/2022 | 0.9    | Refatorando o documento                                                  | Nathalia Lorena                |
+| 04/09/2022 | 1.0    | Refatorando o Objetivo 2                                                 | Maicon Mares                   |
+| 10/09/2022 | 1.1    | Refatorando o Objetivo 3 e acrescentando referências                     | Nathalia Lorena                |
+| 12/09/2022 | 1.2    | Refatorando o Objetivo 1                                                 | Nathalia Lorena                |
+| 14/09/2022 | 1.3    | Corrigindo o Objetivo 3 e acrescentando dados na tabela do Objetivo 1    | Nathalia Lorena                |
+| 18/09/2022 | 1.4    | Corrigindo o tópico de Objetivo do documento e acrescentando referências | Nathalia Lorena                |
+| 18/09/2022 | 1.5    | Corrigindo erros no documento                                            | Nathalia Lorena e Maicon Mares |
 
 ## Referências
 
