@@ -34,3 +34,5 @@ A Retro desse sprint encontra-se no [MetroRetro](https://metroretro.io/board/LBF
 # Review
 
 ## Conclusão
+
+Foi a realização da apresentação final, na qual tivemos um feedback positivo por parte do cliente.

@@ -89,7 +89,7 @@ Essa métrica tem por objetivo identificar a densidade de arquivos não complexo
 <strong>Densidade de arquivos não complexos</strong>
 <br>
 
-<img src="../assets/Qualidade/complexity.png">
+<img src="https://i.imgur.com/FWmlxJG.png">
 
 <br>
 Fonte: Próprio autor
@@ -105,7 +105,7 @@ Essa métrica tem como objetivo identificar a densidade de arquivos comentados. 
 <strong>Densidade de arquivos comentados</strong>
 <br>
 
-<img src="../assets/Qualidade/comments.png">
+<img src="https://i.imgur.com/HcSasIK.png">
 
 <br>
 Fonte: Próprio autor
@@ -115,7 +115,7 @@ Fonte: Próprio autor
 <strong>Densidade de linhas comentadas</strong>
 <br>
 
-<img src="../assets/Qualidade/comment-lines.png">
+<img src="https://i.imgur.com/XAxupgE.png">
 
 <br>
 Fonte: Próprio autor
@@ -129,7 +129,7 @@ Essa métrica avalia a quantidade de arquivos abaixo do limite definido para a p
 <strong>Ausência de duplicações</strong>
 <br>
 
-<img src="../assets/Qualidade/duplication.png">
+<img src="https://i.imgur.com/7wlLy4D.png">
 
 <br>
 Fonte: Próprio autor
@@ -139,7 +139,7 @@ Fonte: Próprio autor
 <strong>Densidade de duplicação</strong>
 <br>
 
-<img src="../assets/Qualidade/density-of-duplication.png">
+<img src="https://i.imgur.com/em1EJmF.png">
 
 <br>
 Fonte: Próprio autor
@@ -153,7 +153,7 @@ Tendo cada uma das 3 métricas acima calculadas partimos para o cálculo do fato
 <strong>Manutenibilidade (Qualidade de Código)</strong>
 <br>
 
-<img src="../assets/Qualidade/code-quality.png">
+<img src="https://i.imgur.com/rhLy38Y.png">
 
 <br>
 Fonte: Próprio autor
@@ -163,7 +163,7 @@ Fonte: Próprio autor
 <strong>Constantes na Equação Qualidade de Código</strong>
 <br>
 
-<img src="../assets/Qualidade/weights-code-quality.png">
+<img src="https://i.imgur.com/K7ifyHE.png">
 
 <br>
 Fonte: Próprio autor
@@ -184,9 +184,14 @@ A fim de mensurá-lo, são necessárias 3 métricas: _Passed Tests_, _Fast Test 
 Calcula a densidade de testes unitários com sucesso. É definida como:
 
 <p align="center">
-<strong>Quantidade de testes com sucesso</strong><br>
-<img src="../assets/Qualidade/passed-tests.png"><br>
+<strong>Quantidade de testes com sucesso</strong>
+<br>
+
+<img src="https://i.imgur.com/s444taf.png">
+
+<br>
 Fonte: Próprio autor
+
 </p>
 
 2. **_Fast Test Builds_**
@@ -194,8 +199,12 @@ Fonte: Próprio autor
 Tem como objetivo o cálculo das _builds_ de teste cuja duração esteja abaixo do limite definido (300 segundos).
 
 <p align="center">
-<strong>Construções de teste rápidas</strong><br>
-<img src="../assets/Qualidade/fast-test-builds.png"><br>
+<strong>Construções de teste rápidas</strong>
+<br>
+
+<img src="https://i.imgur.com/nSRTZ2y.png">
+
+<br>
 Fonte: Próprio autor
 </p>
 
@@ -206,8 +215,12 @@ Obs.: _fast unit test_ são os testes cuja duração de execução está abaixo 
 Avalia a cobertura de código do Projeto considerando os arquivos de teste unitários que estejam acima do limite definido (60% por padrão).
 
 <p align="center">
-<strong>Cobertura de código</strong><br>
-<img src="../assets/Qualidade/coverage.png"><br>
+<strong>Cobertura de código</strong>
+<br>
+
+<img src="https://i.imgur.com/pi1v4yS.png">
+
+<br>
 Fonte: Próprio autor
 </p>
 
@@ -221,7 +234,7 @@ Finalmente partimos para o cálculo do fator de qualidade _Testing Status_ que, 
 <strong>Cálculo fator Testing Status</strong>
 <br>
 
-<img src="../assets/Qualidade/testing-status.png">
+<img src="https://i.imgur.com/jLAYQMS.png">
 
 <br>
 Fonte: Próprio autor
@@ -231,7 +244,7 @@ Fonte: Próprio autor
 <strong>Constantes na equação Testing Status</strong>
 <br>
 
-<img src="../assets/Qualidade/weights-testing-status.png">
+<img src="https://i.imgur.com/maI6Byh.png">
 
 <br>
 Fonte: Próprio autor
@@ -268,6 +281,7 @@ Dessa forma, para medirmos a qualidade do nosso software em uso seria necessári
 | 14/09/2022 | 1.3    | Corrigindo o Objetivo 3 e acrescentando dados na tabela do Objetivo 1    | Nathalia Lorena                |
 | 18/09/2022 | 1.4    | Corrigindo o tópico de Objetivo do documento e acrescentando referências | Nathalia Lorena                |
 | 18/09/2022 | 1.5    | Corrigindo erros no documento                                            | Nathalia Lorena e Maicon Mares |
+| 18/09/2022 | 1.6    | Corrigindo as imagens quebradas                                          | Francisco                      |
 
 ## Referências
 
