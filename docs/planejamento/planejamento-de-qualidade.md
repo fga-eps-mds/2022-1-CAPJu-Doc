@@ -86,8 +86,12 @@ O conjunto de métricas abaixo, referentes ao fator de qualidade _Code Quality_
 Essa métrica tem por objetivo identificar a densidade de arquivos não complexos, sendo estes definidos como os arquivos que estão fora do limite de complexidade ciclomática definido (por padrão 10).
 
 <p align="center">
-<strong>Densidade de arquivos não complexos</strong><br>
-<img src="../assets/Qualidade/complexity.png"><br>
+<strong>Densidade de arquivos não complexos</strong>
+<br>
+
+<img src="../assets/Qualidade/complexity.png">
+
+<br>
 Fonte: Próprio autor
 </p>
 
@@ -98,14 +102,22 @@ Obs.: onde um arquivo complexo é definido como aquele cuja complexidade ciclom�
 Essa métrica tem como objetivo identificar a densidade de arquivos comentados. Um arquivo é tido como comentado se a sua densidade de linhas comentadas estiver dentro do limite definido (entre 10% e 30% por padrão).
 
 <p align="center">
-<strong>Densidade de arquivos comentados</strong><br>
-<img src="../assets/Qualidade/comments.png"><br>
+<strong>Densidade de arquivos comentados</strong>
+<br>
+
+<img src="../assets/Qualidade/comments.png">
+
+<br>
 Fonte: Próprio autor
 </p>
 
 <p align="center">
-<strong>Densidade de linhas comentadas</strong><br>
-<img src="../assets/Qualidade/comment-lines.png"><br>
+<strong>Densidade de linhas comentadas</strong>
+<br>
+
+<img src="../assets/Qualidade/comment-lines.png">
+
+<br>
 Fonte: Próprio autor
 </p>
 
@@ -114,14 +126,22 @@ Fonte: Próprio autor
 Essa métrica avalia a quantidade de arquivos abaixo do limite definido para a porcentagem de linhas duplicadas. Onde, um arquivo é definido como não havendo duplicações se a sua densidade de duplicação é menor que 5% (valor padrão estabelecido).
 
 <p align="center">
-<strong>Ausência de duplicações</strong><br>
-<img src="../assets/Qualidade/duplication.png"><br>
+<strong>Ausência de duplicações</strong>
+<br>
+
+<img src="../assets/Qualidade/duplication.png">
+
+<br>
 Fonte: Próprio autor
 </p>
 
 <p align="center">
-<strong>Densidade de duplicação</strong><br>
-<img src="../assets/Qualidade/density-of-duplication.png"><br>
+<strong>Densidade de duplicação</strong>
+<br>
+
+<img src="../assets/Qualidade/density-of-duplication.png">
+
+<br>
 Fonte: Próprio autor
 </p>
 
@@ -130,14 +150,22 @@ Fonte: Próprio autor
 Tendo cada uma das 3 métricas acima calculadas partimos para o cálculo do fator de qualidade _Code Quality_, sendo o único fator de qualidade que compõe o aspecto de qualidade Manutenibilidade e, portanto, seu resultado definirá tal aspecto. O cálculo é definido como:
 
 <p align="center">
-<strong>Manutenibilidade (Qualidade de Código)</strong><br>
-<img src="../assets/Qualidade/code-quality.png"><br>
+<strong>Manutenibilidade (Qualidade de Código)</strong>
+<br>
+
+<img src="../assets/Qualidade/code-quality.png">
+
+<br>
 Fonte: Próprio autor
 </p>
 
 <p align="center">
-<strong>Constantes na Equação Qualidade de Código</strong><br>
-<img src="../assets/Qualidade/weights-code-quality.png"><br>
+<strong>Constantes na Equação Qualidade de Código</strong>
+<br>
+
+<img src="../assets/Qualidade/weights-code-quality.png">
+
+<br>
 Fonte: Próprio autor
 </p>
 
@@ -190,14 +218,22 @@ Obs.: Onde _AcceptedUnitTestFiles_ são aqueles arquivos de teste unitário que 
 Finalmente partimos para o cálculo do fator de qualidade _Testing Status_ que, por ser o único fator de qualidade que compõe o aspecto Confiabilidade, definirá o seu valor final.
 
 <p align="center">
-<strong>Cálculo fator Testing Status</strong><br>
-<img src="../assets/Qualidade/testing-status.png"><br>
+<strong>Cálculo fator Testing Status</strong>
+<br>
+
+<img src="../assets/Qualidade/testing-status.png">
+
+<br>
 Fonte: Próprio autor
 </p>
 
 <p align="center">
-<strong>Constantes na equação Testing Status</strong><br>
-<img src="../assets/Qualidade/weights-testing-status.png"><br>
+<strong>Constantes na equação Testing Status</strong>
+<br>
+
+<img src="../assets/Qualidade/weights-testing-status.png">
+
+<br>
 Fonte: Próprio autor
 </p>
 
